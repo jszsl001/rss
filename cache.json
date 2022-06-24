@@ -1,163 +1,6 @@
 {
   "sources": [
     {
-      "title": "阿里云帮助中心-阿里云，领先的云计算服务提供商",
-      "feedUrl": "https://rsshub.app/aliyun/notice",
-      "siteUrl": "https://help.aliyun.com/noticelist/9004748.html",
-      "articles": [
-        {
-          "id": "https://help.aliyun.com/noticelist/articleid/1061054915.html",
-          "author": null,
-          "description": "升级时间：北京时间2022年6月30日00:00-02:00\n升级内容：云防火墙工具箱-重保模式下线。\n升级影响：完成升级后，在此次升级前未开启工具箱-重保模式的客户，重保护模式将不可见；在此次升级前已开启重保模式的客户，重保模式依然可见。建议您关闭重保模式，关闭后重保护模式将不可见，您可以通过防护配置-威胁引擎运行模式-严格拦截模式进行替代。\n\n给您带来的不便敬请谅解，如您有任何问题，可随时通过工单或者服务热线与我们联系。",
-          "link": "https://help.aliyun.com/noticelist/articleid/1061054915.html",
-          "publishedOn": "2022-06-24T05:49:08.000Z",
-          "wordCount": 165,
-          "title": "【升级】云防火墙工具箱-重保模式下线通知",
-          "imageUrl": null
-        },
-        {
-          "id": "https://help.aliyun.com/noticelist/articleid/1061054669.html",
-          "author": null,
-          "description": "【阿里云】【橙心服务计划】【升级通知】\n调整时间：2022年6月28日\n调整内容：阿里云计划于2022年6月28日起，对“橙心服务计划”进行升级，原橙心服务计划不再接受新客户申请，橙心服务计划客户在页面领取的加急工单权益在到期前使用不受影响，升级后的“橙心服务”权益将于近期上线，感谢您对橙心服务的支持，如果有任何疑问可以随时联系我们。",
-          "link": "https://help.aliyun.com/noticelist/articleid/1061054669.html",
-          "publishedOn": "2022-06-23T08:58:46.000Z",
-          "wordCount": 165,
-          "title": "【升级】橙心服务升级通知",
-          "imageUrl": null
-        },
-        {
-          "id": "https://help.aliyun.com/noticelist/articleid/1061054629.html",
-          "author": null,
-          "description": "【变更窗口】\n2022年06月25日 00:00 - 06:00 (北京时间)\n【变更内容】\n因上海市政施工，运营商计划6月25日0-6点对施工区域光缆进行迁改割接，涉及上海区域部分跨可用区互访链路切换，正常情况下切换时间50ms内完成。\n【变更影响】\n影响范围：\n● 影响区域间互访延迟：上海区域可用区A，可用区B，可用区D，可用区E，可用区F，可用区N；\n具体影响：\n● 正常情况下，用户无感知；若发生预期外情况，可能导致秒级或分钟级以上抖动/丢包，请确保业务层面具备重连重试机制，以增强对网络抖动的容错能力；",
-          "link": "https://help.aliyun.com/noticelist/articleid/1061054629.html",
-          "publishedOn": "2022-06-23T07:20:56.000Z",
-          "wordCount": 171,
-          "title": "【升级】上海地域运营商光缆割接",
-          "imageUrl": null
-        },
-        {
-          "id": "https://help.aliyun.com/noticelist/articleid/1061054437.html",
-          "author": null,
-          "description": "【阿里云】【CDN产品】【CDN产品下线近三个月没有调用量的OpenAPI接口通知】\n变更时间：北京时间2022年6月28日00:00-2022年6月30日23:59\n变更内容：\n随着时间的推移、产品功能的迭代发展和客户需求的变更，有部分早期使用的接口已经迭代到了新的版本，或者已经不再满足客户需求，客户也已经不再继续使用，因此会逐步停用这批接口。\n以下13个CDN产品的OpenAPI接口在最近三个月的时间内都没有调用量，CDN产品线将会安排下线这批接口。\n版本：2018-05-10\nSetRemoveQueryStringConfig——————设置过滤参数功能配置\nDescribeViewAvailTraf——————————获取客户域名指定时间可用带宽数据 \nDescribeCdnSecFuncInfo————————提供边缘安全功能列表数据\nDescribeCdnUserSecDropByMinute———获取边缘应用层安全报文拦截数量的分钟聚合数据\nSetCdnBlockIP——————————————对访问指定域名的IP进行封禁/解封操作\nDescribeDomainHttpsData————————获取加速域名的https监控数据\n 版本：2014-11-11\nDescribeUserConfigs———————————获取用户配置信息 \nDescribeDomainOnlineUserNumber———查询播流域名下的在线人数信息 \nDescribeCdnTypes————————————返回CDN加速域名业务类型\nModifyCdnDomain—————————————修改加速域名源站信息\nSetIgnoreQueryStringConfig———————设置过滤参数功能配置\nDescribeLiveStreamRecordContent———查询直播录制内容\nSetHttpHeaderConfig———————————设置自定义http请求头\n升级影响：下线完成以后，以上13个接口将无法访问，且无法再提供服务。\n如您有任何问题，可随时通过工单或者服务热线与我们联系。",
-          "link": "https://help.aliyun.com/noticelist/articleid/1061054437.html",
-          "publishedOn": "2022-06-23T01:57:20.000Z",
-          "wordCount": 171,
-          "title": "【其他】6月28日-6月30日 CDN产品下线近三个月没有调用量的OpenAPI接口",
-          "imageUrl": null
-        },
-        {
-          "id": "https://help.aliyun.com/noticelist/articleid/1061054435.html",
-          "author": null,
-          "description": "升级时间：北京时间2022年06月29日00:00-05:00\n升级内容：阿里云CDN、全站加速、视频点播、视频直播产品将在北京时间2022年06月29日凌晨00:00-05:00之间升级域名管理系统\n升级影响：届时将无法通过控制台或者OpenAPI新增加速域名（已添加域名不受影响），请您避开对应时间段进行新增域名操作。如您有任何问题，可随时通过工单或者服务热线与我们联系。",
-          "link": "https://help.aliyun.com/noticelist/articleid/1061054435.html",
-          "publishedOn": "2022-06-23T01:53:59.000Z",
-          "wordCount": 165,
-          "title": "【升级】CDN、全站加速、视频点播、视频直播产品域名管理系统升级公告",
-          "imageUrl": null
-        },
-        {
-          "id": "https://help.aliyun.com/noticelist/articleid/1061054007.html",
-          "author": null,
-          "description": "【阿里云】【物联网应用开发（IoT Studio）】【服务下线通知】\n\n【下线时间】：2022年8月5日暂停新用户开通，2023年2月1日暂停阿里云的产品支持和工单服务，2023年7月31日完全停止服务。\n\n【下线内容】：尊敬的阿里云用户您好，非常感谢您对阿里云物联网应用开发（IoT Studio）服务的支持，为了提供更全面的服务体系，聚焦满足客户的需求，提供更清晰简化的使用体验，阿里云物联网应用开发（IoT Studio）服务已并入阿里云物联网平台产品，统一以“阿里云物联网平台”的产品名称进行售卖，新版的服务已发布上线，可点击链接购买。旧版的服务计划于2022年8月5日暂停新用户开通，已开通的客户不会受到影响，保留控制台功能以及阿里云的产品支持和工单服务至2023年2月1日，并于2023年7月31日完全停止服务。后续我们会提供迁移新版的工具，届时会另行公告，如您有任何疑问，可随时通过工单或服务热线与我们联系。",
-          "link": "https://help.aliyun.com/noticelist/articleid/1061054007.html",
-          "publishedOn": "2022-06-22T05:51:11.000Z",
-          "wordCount": 170,
-          "title": "【其他】物联网应用开发（IoT Studio）服务下线通知",
-          "imageUrl": null
-        },
-        {
-          "id": "https://help.aliyun.com/noticelist/articleid/1061053935.html",
-          "author": null,
-          "description": "尊敬的阿里云用户：\n\n您好，非常感谢您对阿里云实时计算产品的支持，为了提供更全面的服务体系，聚焦满足客户需求，提供更清晰简化的使用体验，2022年6月20日起暂停实时计算共享模式新用户购买和已经购买客户的扩容订单，续费订单时长不超过4个月。我们会继续保留阿里云的产品支持和工单服务。  实时计算产品已推出更全面的全托管产品，在不增加您成本的基础上，支持用户使用UDF/Jar等多种开发方式，告别单一SQL的模式，为您提供更好更全面的实时能力。实时计算产品也以提供完整的迁移工具协助您完成迁移。",
-          "link": "https://help.aliyun.com/noticelist/articleid/1061053935.html",
-          "publishedOn": "2022-06-22T03:33:40.000Z",
-          "wordCount": 167,
-          "title": "【其他】实时计算共享模式停止新购和扩容的通知",
-          "imageUrl": null
-        },
-        {
-          "id": "https://help.aliyun.com/noticelist/articleid/1061053835.html",
-          "author": null,
-          "description": "【阿里云】【域名】【注册局维护通知】 \n维护时间：北京时间2022年6月23日10:00 - 12:00 \n维护内容：接到注册局的通知，注册局将于上述时间对后台系统进行维护升级。 \n维护域名： .shop\n维护影响：维护期间，上述域名的注册、续费、信息修改和查询域名注册信息等操作，将会无法使用。在此期间会对您造成的影响如下： \n1、您提交的注册（购买）、续费、转入、赎回、一口价域名业务在支付费用后状态为“处理中”，待维护结束后将变为相应的正常处理结果和状态；或无法提交有关订单。\n2、维护过程中您无法对域名注册信息进行修改，将提示修改失败。 如果您需要注册或管理以上业务操作，建议您避开该时间段，以免给您的业务造成影响。 \n维护时间为注册局计划时间，实际完成时间视注册局执行情况而定。 由此给您带来的不便，敬请谅解。",
-          "link": "https://help.aliyun.com/noticelist/articleid/1061053835.html",
-          "publishedOn": "2022-06-21T10:14:55.000Z",
-          "wordCount": 175,
-          "title": "【其他】6月23日.shop域名注册局系统维护公告",
-          "imageUrl": null
-        },
-        {
-          "id": "https://help.aliyun.com/noticelist/articleid/1061053330.html",
-          "author": null,
-          "description": "【阿里云】【域名】【注册局维护通知】 \n维护时间：北京时间2022年6月24日05:00 - 09:00 \n维护内容：接到注册局的通知，注册局将于上述时间对后台系统进行维护升级。 \n维护域名： .cc/.tv/.name \n维护影响：维护期间，上述域名的注册、续费、信息修改和查询域名注册信息等操作，将会无法使用。在此期间会对您造成的影响如下： \n1、您提交的注册（购买）、续费、转入、赎回、一口价域名业务在支付费用后状态为“处理中”，待维护结束后将变为相应的正常处理结果和状态；或无法提交有关订单。 \n2、维护过程中您无法对域名注册信息进行修改，将提示修改失败。 如果您需要注册或管理以上业务操作，建议您避开该时间段，以免给您的业务造成影响。 \n维护时间为注册局计划时间，实际完成时间视注册局执行情况而定。 由此给您带来的不便，我们表示歉意，敬请谅解。",
-          "link": "https://help.aliyun.com/noticelist/articleid/1061053330.html",
-          "publishedOn": "2022-06-20T13:05:04.000Z",
-          "wordCount": 177,
-          "title": "【其他】6月24日.cc/.tv/.name域名注册局系统维护公告",
-          "imageUrl": null
-        },
-        {
-          "id": "https://help.aliyun.com/noticelist/articleid/1061053317.html",
-          "author": null,
-          "description": "升级内容：DDoS高防（国际）香港节点网络升级\n升级时间： 2022年06月27日 00:00 - 07:00 (香港时间)\n升级影响：在维护窗口期间，经香港高防节点流量或因流量调度而出现长连接业务出现闪断以及部分IP请求延迟增加的情况。请确保相关业务上的重连重试机制，以增强业务的容错能力。\n给您带来的不便敬请谅解，有任何问题，可点击联系我们进行咨询反馈。",
-          "link": "https://help.aliyun.com/noticelist/articleid/1061053317.html",
-          "publishedOn": "2022-06-20T11:20:38.000Z",
-          "wordCount": 170,
-          "title": "【升级】DDoS高防（国际）香港节点网络升级",
-          "imageUrl": null
-        },
-        {
-          "id": "https://help.aliyun.com/noticelist/articleid/1061053316.html",
-          "author": null,
-          "description": "升级内容：DDoS高防（新BGP）北京移动节点骨干接入网络优化\n升级时间：北京时间2022年06月24日 00:00 - 03:00\n升级影响：在维护窗口期间，网络访问新BGP高防北京移动节点会出现延迟波动以及TCP会话重连的情况。请确保相关业务上的重连重试机制，以增强业务的容错能力。\n给您带来的不便敬请谅解，有任何问题，可点击联系我们进行咨询反馈。",
-          "link": "https://help.aliyun.com/noticelist/articleid/1061053316.html",
-          "publishedOn": "2022-06-20T11:19:07.000Z",
-          "wordCount": 168,
-          "title": "【升级】DDoS高防（新BGP）网络升级通知",
-          "imageUrl": null
-        },
-        {
-          "id": "https://help.aliyun.com/noticelist/articleid/1061053119.html",
-          "author": null,
-          "description": "尊敬的阿里云用户：\n根据《互联网域名管理办法》和相关法律法规要求，域名注册信息须真实、准确、完整。未通过实名认证（含域名命名审核和注册人资料实名审核）或实名信息不准确的域名，域名注册管理机构和域名注册服务机构不得为其提供服务，具体安排如下：\n1、2022年6月21日起，未完成实名认证的.cc/.tv/.xin/.cn/.中国域名，将陆续添加注册局暂停解析（serverhold）或注册商暂停解析（clienthold）状态。\n2、2022年7月11日起，除.cc/.tv/.xin/.cn/.中国域名之外其他未完成实名认证的域名，将陆续添加注册局暂停解析（serverhold）或注册商暂停解析（clienthold）状态。\n届时域名将不能解析，进而影响网站、邮箱等应用。待域名完成实名认证后，方可解除注册局暂停解析（serverhold）或注册商暂停解析（clienthold）状态。\n温馨提示：   \n域名实名认证信息须保持真实、有效、完整，历史已通过实名认证的域名，如注册信息、实名证件资料有变更或不准确的，将导致域名历史实名状态失效，请您及时检查核对并重新进行实名核验以更正信息，避免域名管理和使用受到影响。\n请您务必重视，由此带来的不便，敬请谅解！\n附：\n域名实名认证操作帮助文档\n域名注册信息模板创建和实名认证帮助文档",
-          "link": "https://help.aliyun.com/noticelist/articleid/1061053119.html",
-          "publishedOn": "2022-06-20T08:20:54.000Z",
-          "wordCount": 166,
-          "title": "【重要】关于强制完成域名实名核验要求的通知",
-          "imageUrl": null
-        },
-        {
-          "id": "https://help.aliyun.com/noticelist/articleid/1061052649.html",
-          "author": null,
-          "description": "【阿里云】【云监控】【商品停售公告】\n\n调整窗口：\n\n北京时间 2022年9月13日10:00 至 2022年9月13日22:00\n\n调整内容：\n\n尊敬的阿里云用户您好，非常感谢您对阿里云云监控产品的支持，为了提供更全面的服务体系，更清晰简化的使用体验，云监控产品将于2022年9月13日进行如下调整：\n\n1、停止当前基础云监控按量付费服务(cms_post)的开通以及包年包月套餐(cms_edition)、报警短信(cms_smspackage)和电话资源包(cms_call_num)的新购（已经开通或购买的客户不受影响仍然可以正常使用和续订）。同时，推出全新的基础云监控按量付费服务以及报警短信、电话资源包供您选择。\n\n2、停止基础云监控中的日志监控、自定义监控和事件监控服务（正在使用中的用户仍然可以正常使用），如有相关产品需求，建议使用企业云监控中的日志监控和自定义监控服务。\n\n如您有任何问题，可随时通过工单或者服务热线与我们联系。",
-          "link": "https://help.aliyun.com/noticelist/articleid/1061052649.html",
-          "publishedOn": "2022-06-17T07:42:38.000Z",
-          "wordCount": 175,
-          "title": "【其他】云监控商品停售公告",
-          "imageUrl": null
-        },
-        {
-          "id": "https://help.aliyun.com/noticelist/articleid/1061052556.html",
-          "author": null,
-          "description": "阿里云深圳、杭州、北京等地域的部分用户出现云数据库连接异常，经排查，初步确认系服务接口异常导致，经过工程师紧急处理，异常已修复。非常抱歉给您的使用带来不便，若有任何问题，请随时联系我们。",
-          "link": "https://help.aliyun.com/noticelist/articleid/1061052556.html",
-          "publishedOn": "2022-06-17T04:47:17.000Z",
-          "wordCount": 165,
-          "title": "【异常】【已恢复】阿里云部分地域云数据库连接异常",
-          "imageUrl": null
-        },
-        {
-          "id": "https://help.aliyun.com/noticelist/articleid/1061051547.html",
-          "author": null,
-          "description": "【阿里云】【文件存储HDFS版】【商业化通知】\n 升级时间：2022年07月01日\n 升级内容：阿里云文件存储HDFS版（Apsara File Storage for HDFS）将于2022年07月01日起正式商业化。\n 升级影响：商业化后，存储空间费用（根据使用容量计费）将按0.15元/GB/月进行收费，预置吞吐费用将按2.46元/MB/s/月进行收费，详见文件存储HDFS版产品定价文档。",
-          "link": "https://help.aliyun.com/noticelist/articleid/1061051547.html",
-          "publishedOn": "2022-06-14T09:28:59.000Z",
-          "wordCount": 172,
-          "title": "【升级】阿里云文件存储HDFS版正式商业化通知",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "HelloGitHub - Article",
       "feedUrl": "https://rsshub.app/hellogithub/article",
       "siteUrl": "https://hellogithub.com/article",
@@ -254,7 +97,7 @@
           "author": null,
           "description": "May Headline: C# gains most ranking points\nIf we compare the current TIOBE index rankings to 1 year ago (May 2021), C# is gaining most popular of all programming languages by far. Its rankings has increased almost 2% for the last 12 months. C# is one of the most mature programming languages in existence, supporting many modern programming paradigms. Until recently, its only disadvantage was that its Linux support was questionable, but this is changing rapidly the last couple of years. So chances are high that C# might enter the TIOBE index top 3 by replacing C. Another serious contender for this top 3 position is C++. Its long term trend, boosted by C++20, is definitely upward. --\n\n        \n\n        \n编程语言排行榜 TOP 50 榜单\n排名\n                    编程语言\n                    流行度\n                    …",
           "link": "https://hellogithub.com/report/tiobe",
-          "publishedOn": "2022-06-24T12:48:45.505Z",
+          "publishedOn": "2022-06-24T12:56:03.673Z",
           "wordCount": 2817,
           "title": "2022年05月编程语言排行榜",
           "imageUrl": null
@@ -267,21 +110,11 @@
       "siteUrl": "https://hellogithub.com/article",
       "articles": [
         {
-          "id": "https://hellogithub.com/periodical/volume/72/",
-          "author": null,
-          "description": "C 项目\n\n\n        \n        1.\n        reptyr\n        35427\n        \n            \n            \n        \n        \nStar 4.4k\n                 Watch 94\n                 Fork 191\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        hashcat\n        7033\n        \n            \n            \n        \n        \nStar 14.8k\n                 Watch 467\n                 Fork 2.2k\n                \n            \n        \n安装：brew install hashcat\n常用参数：\n-a  指定破解模式：“-a 0”字典攻击，“-a 1” 组合攻击；“-a 3”掩码攻击\n-m  指定要破解的 hash 类型：默认为 MD5\n--force 忽略破解过程中的警告\n\n常用破解模式：\n0：Straight（字典破解）\n1：Combination（组合破解）\n3：Brute-force（掩码暴力破解）\n6：Hybrid Wordlist + Mask（字典+掩码破解）\n7：Hybrid Mask + Wordlist（掩码+字典破解）\n\n常用掩码设置：\nl：纯小写字母 abcdefghijklmnopqrstuvwxyz\nu：纯大写字母 ABCDEFGHIJKLMNOPQRSTUVWXYZ\nd：纯数字 0123456789\n\n举例：破解 8 位…",
-          "link": "https://hellogithub.com/periodical/volume/72/",
-          "publishedOn": "2022-06-24T12:48:44.600Z",
-          "wordCount": 1233,
-          "title": "第72期",
-          "imageUrl": null
-        },
-        {
           "id": "https://hellogithub.com/periodical/volume/74/",
           "author": null,
           "description": "C 项目\n\n\n        \n        1.\n        FreeRDP\n        43476\n        \n            \n            \n        \n        \nStar 7.0k\n                 Watch 370\n                 Fork 17.1k\n                \n            \n        \n下载地址\n\n        \n            \n\n        \n        \n\n\n        \n        2.\n        ServerStatus\n        42522\n        \n            \n            \n        \n        \nStar 2.2k\n                 Watch 44\n                 Fork 725\n                \n                    中文\n                \n            \n        \n\n        \n        \n\n\n        \n        3.\n        sioyek\n        44818\n        \n            \n            \n        \n        \nStar 2.6k\n                 Watch 22\n                 Fork 75\n                \n            \n        \n\n        \n        \n\n\n        \n        4.\n        open-gpu-kernel-…",
           "link": "https://hellogithub.com/periodical/volume/74/",
-          "publishedOn": "2022-06-24T12:48:44.560Z",
+          "publishedOn": "2022-06-24T12:56:03.296Z",
           "wordCount": 1104,
           "title": "第74期",
           "imageUrl": null
@@ -291,49 +124,19 @@
           "author": null,
           "description": "C 项目\n\n\n        \n        1.\n        warpd\n        36906\n        \n            \n            \n        \n        \nStar 959\n                 Watch 9\n                 Fork 37\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        uthash\n        35883\n        \n            \n            \n        \n        \nStar 3.0k\n                 Watch 131\n                 Fork 759\n                \n            \n        \n#include \"uthash.h\"\n\nstruct my_struct {\n    int id;            /* we'll use this field as the key */\n    char name[10];\n    UT_hash_handle hh; /* makes this structure hashable */\n};\n\nstruct my_struct *users = NULL;\n\nvoid add_user(struct my_struct *s) {\n    HASH_ADD_INT( users, id, s );\n}\n\n\n    \n        \n            \n\n        \n        3.\n        lvgl\n        4457\n    …",
           "link": "https://hellogithub.com/periodical/volume/73/",
-          "publishedOn": "2022-06-24T12:48:44.414Z",
+          "publishedOn": "2022-06-24T12:56:03.018Z",
           "wordCount": 1117,
           "title": "第73期",
           "imageUrl": null
         },
         {
-          "id": "https://hellogithub.com/periodical/volume/69/",
+          "id": "https://hellogithub.com/periodical/volume/72/",
           "author": null,
-          "description": "C 项目\n\n\n        \n        1.\n        quadsort\n        17609\n        \n            \n            \n        \n        \nStar 1.8k\n                 Watch 38\n                 Fork 89\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        mpv\n        4575\n        \n            \n            \n        \n        \nStar 19.1k\n                 Watch 479\n                 Fork 2.3k\n                \n            \n        \n\n        \n        \n\n\n        \n        3.\n        minilisp\n        21411\n        \n            \n            \n        \n        \nStar 1.2k\n                 Watch 30\n                 Fork 161\n                \n            \n        \n(println 3)  ; prints \"3\"\n(+ 1 2 3)  ; -> 6\n(define a (+ 1 2))\n(+ a a)  ; -> 6\n\n\n    \n\nC# 项目\n\n\n        \n        4.\n        jynew\n        404…",
-          "link": "https://hellogithub.com/periodical/volume/69/",
-          "publishedOn": "2022-06-24T12:48:44.310Z",
-          "wordCount": 1127,
-          "title": "第69期",
-          "imageUrl": null
-        },
-        {
-          "id": "https://hellogithub.com/periodical/volume/67/",
-          "author": null,
-          "description": "C 项目\n\n\n        \n        1.\n        bytehound\n        12900\n        \n            \n            \n        \n        \nStar 2.8k\n                 Watch 44\n                 Fork 110\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        nnn\n        4532\n        \n            \n            \n        \n        \nStar 14.3k\n                 Watch 123\n                 Fork 589\n                \n            \n        \n\n        \n        \nC# 项目\n\n\n        \n        3.\n        ShareX\n        7612\n        \n            \n            \n        \n        \nStar 20.1k\n                 Watch 512\n                 Fork 2.6k\n                \n            \n        \n\n        \n        \nC++ 项目\n\n\n        \n        4.\n        NanaZip\n        17380\n        \n            \n            \n        \n        \nSt…",
-          "link": "https://hellogithub.com/periodical/volume/67/",
-          "publishedOn": "2022-06-24T12:48:44.191Z",
-          "wordCount": 927,
-          "title": "第67期",
-          "imageUrl": null
-        },
-        {
-          "id": "https://hellogithub.com/periodical/volume/68/",
-          "author": null,
-          "description": "C 项目\n\n\n        \n        1.\n        WindTerm\n        8016\n        \n            \n            \n        \n        \nStar 5.2k\n                 Watch 71\n                 Fork 376\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        toybox\n        15406\n        \n            \n            \n        \n        \nStar 1.7k\n                 Watch 80\n                 Fork 256\n                \n            \n        \n\n\n        \n        3.\n        the_silver_searcher\n        8517\n        \n            \n            \n        \n        \nStar 23.8k\n                 Watch 427\n                 Fork 1.3k\n                \n            \n        \nack test_blah ~/code(8G)/  104.66s user 4.82s system 99% cpu 1:50.03 total\nag test_blah ~/code(8G)/  4.67s user 4.58s system 286% cpu 3.227 total…",
-          "link": "https://hellogithub.com/periodical/volume/68/",
-          "publishedOn": "2022-06-24T12:48:44.099Z",
-          "wordCount": 1002,
-          "title": "第68期",
-          "imageUrl": null
-        },
-        {
-          "id": "https://hellogithub.com/periodical/volume/71/",
-          "author": null,
-          "description": "C 项目\n\n\n        \n        1.\n        h2o\n        28920\n        \n            \n            \n        \n        \nStar 10.0k\n                 Watch 388\n                 Fork 804\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        chibicc\n        21821\n        \n            \n            \n        \n        \nStar 5.3k\n                 Watch 143\n                 Fork 489\n                \n            \n        \n第一个提交开始学习\n\n        \n        \nC# 项目\n\n\n        \n        3.\n        CliWrap\n        25090\n        \n            \n            \n        \n        \nStar 1.9k\n                 Watch 39\n                 Fork 150\n                \n            \n        \nusing CliWrap;\n\nvar result = await Cli.Wrap(\"path/to/exe\")\n    .WithArguments(\"--foo bar\")\n    .WithWorkingDirectory(\"work/d…",
-          "link": "https://hellogithub.com/periodical/volume/71/",
-          "publishedOn": "2022-06-24T12:48:43.979Z",
-          "wordCount": 1055,
-          "title": "第71期",
+          "description": "C 项目\n\n\n        \n        1.\n        reptyr\n        35427\n        \n            \n            \n        \n        \nStar 4.4k\n                 Watch 94\n                 Fork 191\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        hashcat\n        7033\n        \n            \n            \n        \n        \nStar 14.8k\n                 Watch 467\n                 Fork 2.2k\n                \n            \n        \n安装：brew install hashcat\n常用参数：\n-a  指定破解模式：“-a 0”字典攻击，“-a 1” 组合攻击；“-a 3”掩码攻击\n-m  指定要破解的 hash 类型：默认为 MD5\n--force 忽略破解过程中的警告\n\n常用破解模式：\n0：Straight（字典破解）\n1：Combination（组合破解）\n3：Brute-force（掩码暴力破解）\n6：Hybrid Wordlist + Mask（字典+掩码破解）\n7：Hybrid Mask + Wordlist（掩码+字典破解）\n\n常用掩码设置：\nl：纯小写字母 abcdefghijklmnopqrstuvwxyz\nu：纯大写字母 ABCDEFGHIJKLMNOPQRSTUVWXYZ\nd：纯数字 0123456789\n\n举例：破解 8 位…",
+          "link": "https://hellogithub.com/periodical/volume/72/",
+          "publishedOn": "2022-06-24T12:56:02.973Z",
+          "wordCount": 1233,
+          "title": "第72期",
           "imageUrl": null
         },
         {
@@ -341,19 +144,39 @@
           "author": null,
           "description": "C 项目\n\n\n        \n        1.\n        daytripper\n        7540\n        \n            \n            \n        \n        \nStar 3.4k\n                 Watch 67\n                 Fork 159\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        tinyssh\n        26903\n        \n            \n            \n        \n        \nStar 836\n                 Watch 40\n                 Fork 60\n                \n            \n        \nC# 项目\n\n\n        \n        3.\n        LiveCharts2\n        1896\n        \n            \n            \n        \n        \nStar 1.8k\n                 Watch 49\n                 Fork 249\n                \n            \n        \n\n        \n        \n\n\n        \n        4.\n        PowerRemoteDesktop\n        28493\n        \n            \n            \n        \n        \nStar 1.6k\n    …",
           "link": "https://hellogithub.com/periodical/volume/70/",
-          "publishedOn": "2022-06-24T12:48:43.895Z",
+          "publishedOn": "2022-06-24T12:56:02.739Z",
           "wordCount": 1049,
           "title": "第70期",
           "imageUrl": null
         },
         {
-          "id": "https://hellogithub.com/periodical/volume/66/",
+          "id": "https://hellogithub.com/periodical/volume/71/",
           "author": null,
-          "description": "C 项目\n\n\n        \n        1.\n        HEX-LINK\n        2156\n        \n            \n            \n        \n        \nStar 215\n                 Watch 6\n                 Fork 27\n                \n                    中文\n                \n            \n        \n.\n├─firmware # 软件（根据自己使用的工具选择如下一种工程即可）\n│  ├─ArduinoIDE_Proj # Arduino IDE版工程 \n│  │  ├─Additional_Libraries # 里面的文件夹需要复制到Arduino IDE安装目录下的libraries文件夹\n│  │  ├─Hex_Link_Leonardo # 需要下载至接收端的程序\n│  │  └─Hex_Link_Nano # 需要下载至发送端的程序\n│  ├─Bootloaders # 需要下载至芯片的arduino bootloader \n│  └─Vscode_PlatformIO_Proj # VScode PlatformIO版工程 \n│      ├─Hex_Link_Leonardo # 需要下载至接收端的程序\n│      └─Hex_Link_Nano # 需要下载至发送端的程序\n├─hardware # 硬件（PCB工程）\n│  ├─BOM   # PCB的物料清单，包含参考的购买链接（链接仅作参考，在其他任何店铺购买相同型号即可）\n│  ├─Hex_Link_Rec # 接收端PCB工程\n│  ├─Hex_Link_Trans # 发送端PCB工程\n│  └─Nano_…",
-          "link": "https://hellogithub.com/periodical/volume/66/",
-          "publishedOn": "2022-06-24T12:48:43.749Z",
-          "wordCount": 1059,
-          "title": "第66期",
+          "description": "C 项目\n\n\n        \n        1.\n        h2o\n        28920\n        \n            \n            \n        \n        \nStar 10.0k\n                 Watch 388\n                 Fork 804\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        chibicc\n        21821\n        \n            \n            \n        \n        \nStar 5.3k\n                 Watch 143\n                 Fork 489\n                \n            \n        \n第一个提交开始学习\n\n        \n        \nC# 项目\n\n\n        \n        3.\n        CliWrap\n        25090\n        \n            \n            \n        \n        \nStar 1.9k\n                 Watch 39\n                 Fork 150\n                \n            \n        \nusing CliWrap;\n\nvar result = await Cli.Wrap(\"path/to/exe\")\n    .WithArguments(\"--foo bar\")\n    .WithWorkingDirectory(\"work/d…",
+          "link": "https://hellogithub.com/periodical/volume/71/",
+          "publishedOn": "2022-06-24T12:56:02.716Z",
+          "wordCount": 1055,
+          "title": "第71期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/periodical/volume/69/",
+          "author": null,
+          "description": "C 项目\n\n\n        \n        1.\n        quadsort\n        17609\n        \n            \n            \n        \n        \nStar 1.8k\n                 Watch 38\n                 Fork 89\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        mpv\n        4575\n        \n            \n            \n        \n        \nStar 19.1k\n                 Watch 479\n                 Fork 2.3k\n                \n            \n        \n\n        \n        \n\n\n        \n        3.\n        minilisp\n        21411\n        \n            \n            \n        \n        \nStar 1.2k\n                 Watch 30\n                 Fork 161\n                \n            \n        \n(println 3)  ; prints \"3\"\n(+ 1 2 3)  ; -> 6\n(define a (+ 1 2))\n(+ a a)  ; -> 6\n\n\n    \n\nC# 项目\n\n\n        \n        4.\n        jynew\n        404…",
+          "link": "https://hellogithub.com/periodical/volume/69/",
+          "publishedOn": "2022-06-24T12:56:02.566Z",
+          "wordCount": 1127,
+          "title": "第69期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/periodical/volume/68/",
+          "author": null,
+          "description": "C 项目\n\n\n        \n        1.\n        WindTerm\n        8016\n        \n            \n            \n        \n        \nStar 5.2k\n                 Watch 71\n                 Fork 376\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        toybox\n        15406\n        \n            \n            \n        \n        \nStar 1.7k\n                 Watch 80\n                 Fork 256\n                \n            \n        \n\n\n        \n        3.\n        the_silver_searcher\n        8517\n        \n            \n            \n        \n        \nStar 23.8k\n                 Watch 427\n                 Fork 1.3k\n                \n            \n        \nack test_blah ~/code(8G)/  104.66s user 4.82s system 99% cpu 1:50.03 total\nag test_blah ~/code(8G)/  4.67s user 4.58s system 286% cpu 3.227 total…",
+          "link": "https://hellogithub.com/periodical/volume/68/",
+          "publishedOn": "2022-06-24T12:56:02.538Z",
+          "wordCount": 1002,
+          "title": "第68期",
           "imageUrl": null
         },
         {
@@ -361,9 +184,29 @@
           "author": null,
           "description": "C 项目\n\n\n        \n        1.\n        cpufetch\n        7501\n        \n            \n            \n        \n        \nStar 1.5k\n                 Watch 24\n                 Fork 84\n                \n            \n        \n\n        \n        \nC# 项目\n\n\n        \n        2.\n        AduSkin\n        2976\n        \n            \n            \n        \n        \nStar 1.4k\n                 Watch 42\n                 Fork 292\n                \n                    中文\n                \n            \n        \n\n        \n        \nC++ 项目\n\n\n        \n        3.\n        simdjson\n        4552\n        \n            \n            \n        \n        \nStar 15.8k\n                 Watch 231\n                 Fork 846\n                \n            \n        \n\n        \n        \n\n\n        \n        4.\n        filament\n        6104\n        \n      …",
           "link": "https://hellogithub.com/periodical/volume/65/",
-          "publishedOn": "2022-06-24T12:48:43.713Z",
+          "publishedOn": "2022-06-24T12:56:02.322Z",
           "wordCount": 1021,
           "title": "第65期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/periodical/volume/67/",
+          "author": null,
+          "description": "C 项目\n\n\n        \n        1.\n        bytehound\n        12900\n        \n            \n            \n        \n        \nStar 2.8k\n                 Watch 44\n                 Fork 110\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        nnn\n        4532\n        \n            \n            \n        \n        \nStar 14.3k\n                 Watch 123\n                 Fork 589\n                \n            \n        \n\n        \n        \nC# 项目\n\n\n        \n        3.\n        ShareX\n        7612\n        \n            \n            \n        \n        \nStar 20.1k\n                 Watch 512\n                 Fork 2.6k\n                \n            \n        \n\n        \n        \nC++ 项目\n\n\n        \n        4.\n        NanaZip\n        17380\n        \n            \n            \n        \n        \nSt…",
+          "link": "https://hellogithub.com/periodical/volume/67/",
+          "publishedOn": "2022-06-24T12:56:02.303Z",
+          "wordCount": 927,
+          "title": "第67期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/periodical/volume/66/",
+          "author": null,
+          "description": "C 项目\n\n\n        \n        1.\n        HEX-LINK\n        2156\n        \n            \n            \n        \n        \nStar 215\n                 Watch 6\n                 Fork 27\n                \n                    中文\n                \n            \n        \n.\n├─firmware # 软件（根据自己使用的工具选择如下一种工程即可）\n│  ├─ArduinoIDE_Proj # Arduino IDE版工程 \n│  │  ├─Additional_Libraries # 里面的文件夹需要复制到Arduino IDE安装目录下的libraries文件夹\n│  │  ├─Hex_Link_Leonardo # 需要下载至接收端的程序\n│  │  └─Hex_Link_Nano # 需要下载至发送端的程序\n│  ├─Bootloaders # 需要下载至芯片的arduino bootloader \n│  └─Vscode_PlatformIO_Proj # VScode PlatformIO版工程 \n│      ├─Hex_Link_Leonardo # 需要下载至接收端的程序\n│      └─Hex_Link_Nano # 需要下载至发送端的程序\n├─hardware # 硬件（PCB工程）\n│  ├─BOM   # PCB的物料清单，包含参考的购买链接（链接仅作参考，在其他任何店铺购买相同型号即可）\n│  ├─Hex_Link_Rec # 接收端PCB工程\n│  ├─Hex_Link_Trans # 发送端PCB工程\n│  └─Nano_…",
+          "link": "https://hellogithub.com/periodical/volume/66/",
+          "publishedOn": "2022-06-24T12:56:02.273Z",
+          "wordCount": 1059,
+          "title": "第66期",
           "imageUrl": null
         },
         {
@@ -371,7 +214,7 @@
           "author": null,
           "description": "C 项目\n\n\n        \n        1.\n        X-TRACK\n        6301\n        \n            \n            \n        \n        \nStar 3.5k\n                 Watch 71\n                 Fork 864\n                \n                    中文\n                \n            \n        \n在线观看\n\n        \n            \n\n        \n        \nC# 项目\n\n\n        \n        2.\n        ToastFish\n        4030\n        \n            \n            \n        \n        \nStar 1.6k\n                 Watch 8\n                 Fork 188\n                \n                    中文\n                \n            \n        \n\n        \n        \n\n\n        \n        3.\n        XboxDownload\n        2818\n        \n            \n            \n        \n        \nStar 636\n                 Watch 5\n                 Fork 69\n                \n                    中文\n                \n       …",
           "link": "https://hellogithub.com/periodical/volume/64/",
-          "publishedOn": "2022-06-24T12:48:43.593Z",
+          "publishedOn": "2022-06-24T12:56:02.106Z",
           "wordCount": 1134,
           "title": "第64期",
           "imageUrl": null
