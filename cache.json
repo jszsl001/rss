@@ -97,7 +97,7 @@
           "author": null,
           "description": "May Headline: C# gains most ranking points\nIf we compare the current TIOBE index rankings to 1 year ago (May 2021), C# is gaining most popular of all programming languages by far. Its rankings has increased almost 2% for the last 12 months. C# is one of the most mature programming languages in existence, supporting many modern programming paradigms. Until recently, its only disadvantage was that its Linux support was questionable, but this is changing rapidly the last couple of years. So chances are high that C# might enter the TIOBE index top 3 by replacing C. Another serious contender for this top 3 position is C++. Its long term trend, boosted by C++20, is definitely upward. --\n\n        \n\n        \n编程语言排行榜 TOP 50 榜单\n排名\n                    编程语言\n                    流行度\n                    …",
           "link": "https://hellogithub.com/report/tiobe",
-          "publishedOn": "2022-06-24T12:56:03.673Z",
+          "publishedOn": "2022-06-24T12:56:45.502Z",
           "wordCount": 2817,
           "title": "2022年05月编程语言排行榜",
           "imageUrl": null
@@ -114,39 +114,9 @@
           "author": null,
           "description": "C 项目\n\n\n        \n        1.\n        FreeRDP\n        43476\n        \n            \n            \n        \n        \nStar 7.0k\n                 Watch 370\n                 Fork 17.1k\n                \n            \n        \n下载地址\n\n        \n            \n\n        \n        \n\n\n        \n        2.\n        ServerStatus\n        42522\n        \n            \n            \n        \n        \nStar 2.2k\n                 Watch 44\n                 Fork 725\n                \n                    中文\n                \n            \n        \n\n        \n        \n\n\n        \n        3.\n        sioyek\n        44818\n        \n            \n            \n        \n        \nStar 2.6k\n                 Watch 22\n                 Fork 75\n                \n            \n        \n\n        \n        \n\n\n        \n        4.\n        open-gpu-kernel-…",
           "link": "https://hellogithub.com/periodical/volume/74/",
-          "publishedOn": "2022-06-24T12:56:03.296Z",
+          "publishedOn": "2022-06-24T12:56:45.101Z",
           "wordCount": 1104,
           "title": "第74期",
-          "imageUrl": null
-        },
-        {
-          "id": "https://hellogithub.com/periodical/volume/73/",
-          "author": null,
-          "description": "C 项目\n\n\n        \n        1.\n        warpd\n        36906\n        \n            \n            \n        \n        \nStar 959\n                 Watch 9\n                 Fork 37\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        uthash\n        35883\n        \n            \n            \n        \n        \nStar 3.0k\n                 Watch 131\n                 Fork 759\n                \n            \n        \n#include \"uthash.h\"\n\nstruct my_struct {\n    int id;            /* we'll use this field as the key */\n    char name[10];\n    UT_hash_handle hh; /* makes this structure hashable */\n};\n\nstruct my_struct *users = NULL;\n\nvoid add_user(struct my_struct *s) {\n    HASH_ADD_INT( users, id, s );\n}\n\n\n    \n        \n            \n\n        \n        3.\n        lvgl\n        4457\n    …",
-          "link": "https://hellogithub.com/periodical/volume/73/",
-          "publishedOn": "2022-06-24T12:56:03.018Z",
-          "wordCount": 1117,
-          "title": "第73期",
-          "imageUrl": null
-        },
-        {
-          "id": "https://hellogithub.com/periodical/volume/72/",
-          "author": null,
-          "description": "C 项目\n\n\n        \n        1.\n        reptyr\n        35427\n        \n            \n            \n        \n        \nStar 4.4k\n                 Watch 94\n                 Fork 191\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        hashcat\n        7033\n        \n            \n            \n        \n        \nStar 14.8k\n                 Watch 467\n                 Fork 2.2k\n                \n            \n        \n安装：brew install hashcat\n常用参数：\n-a  指定破解模式：“-a 0”字典攻击，“-a 1” 组合攻击；“-a 3”掩码攻击\n-m  指定要破解的 hash 类型：默认为 MD5\n--force 忽略破解过程中的警告\n\n常用破解模式：\n0：Straight（字典破解）\n1：Combination（组合破解）\n3：Brute-force（掩码暴力破解）\n6：Hybrid Wordlist + Mask（字典+掩码破解）\n7：Hybrid Mask + Wordlist（掩码+字典破解）\n\n常用掩码设置：\nl：纯小写字母 abcdefghijklmnopqrstuvwxyz\nu：纯大写字母 ABCDEFGHIJKLMNOPQRSTUVWXYZ\nd：纯数字 0123456789\n\n举例：破解 8 位…",
-          "link": "https://hellogithub.com/periodical/volume/72/",
-          "publishedOn": "2022-06-24T12:56:02.973Z",
-          "wordCount": 1233,
-          "title": "第72期",
-          "imageUrl": null
-        },
-        {
-          "id": "https://hellogithub.com/periodical/volume/70/",
-          "author": null,
-          "description": "C 项目\n\n\n        \n        1.\n        daytripper\n        7540\n        \n            \n            \n        \n        \nStar 3.4k\n                 Watch 67\n                 Fork 159\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        tinyssh\n        26903\n        \n            \n            \n        \n        \nStar 836\n                 Watch 40\n                 Fork 60\n                \n            \n        \nC# 项目\n\n\n        \n        3.\n        LiveCharts2\n        1896\n        \n            \n            \n        \n        \nStar 1.8k\n                 Watch 49\n                 Fork 249\n                \n            \n        \n\n        \n        \n\n\n        \n        4.\n        PowerRemoteDesktop\n        28493\n        \n            \n            \n        \n        \nStar 1.6k\n    …",
-          "link": "https://hellogithub.com/periodical/volume/70/",
-          "publishedOn": "2022-06-24T12:56:02.739Z",
-          "wordCount": 1049,
-          "title": "第70期",
           "imageUrl": null
         },
         {
@@ -154,19 +124,9 @@
           "author": null,
           "description": "C 项目\n\n\n        \n        1.\n        h2o\n        28920\n        \n            \n            \n        \n        \nStar 10.0k\n                 Watch 388\n                 Fork 804\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        chibicc\n        21821\n        \n            \n            \n        \n        \nStar 5.3k\n                 Watch 143\n                 Fork 489\n                \n            \n        \n第一个提交开始学习\n\n        \n        \nC# 项目\n\n\n        \n        3.\n        CliWrap\n        25090\n        \n            \n            \n        \n        \nStar 1.9k\n                 Watch 39\n                 Fork 150\n                \n            \n        \nusing CliWrap;\n\nvar result = await Cli.Wrap(\"path/to/exe\")\n    .WithArguments(\"--foo bar\")\n    .WithWorkingDirectory(\"work/d…",
           "link": "https://hellogithub.com/periodical/volume/71/",
-          "publishedOn": "2022-06-24T12:56:02.716Z",
+          "publishedOn": "2022-06-24T12:56:45.041Z",
           "wordCount": 1055,
           "title": "第71期",
-          "imageUrl": null
-        },
-        {
-          "id": "https://hellogithub.com/periodical/volume/69/",
-          "author": null,
-          "description": "C 项目\n\n\n        \n        1.\n        quadsort\n        17609\n        \n            \n            \n        \n        \nStar 1.8k\n                 Watch 38\n                 Fork 89\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        mpv\n        4575\n        \n            \n            \n        \n        \nStar 19.1k\n                 Watch 479\n                 Fork 2.3k\n                \n            \n        \n\n        \n        \n\n\n        \n        3.\n        minilisp\n        21411\n        \n            \n            \n        \n        \nStar 1.2k\n                 Watch 30\n                 Fork 161\n                \n            \n        \n(println 3)  ; prints \"3\"\n(+ 1 2 3)  ; -> 6\n(define a (+ 1 2))\n(+ a a)  ; -> 6\n\n\n    \n\nC# 项目\n\n\n        \n        4.\n        jynew\n        404…",
-          "link": "https://hellogithub.com/periodical/volume/69/",
-          "publishedOn": "2022-06-24T12:56:02.566Z",
-          "wordCount": 1127,
-          "title": "第69期",
           "imageUrl": null
         },
         {
@@ -174,19 +134,19 @@
           "author": null,
           "description": "C 项目\n\n\n        \n        1.\n        WindTerm\n        8016\n        \n            \n            \n        \n        \nStar 5.2k\n                 Watch 71\n                 Fork 376\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        toybox\n        15406\n        \n            \n            \n        \n        \nStar 1.7k\n                 Watch 80\n                 Fork 256\n                \n            \n        \n\n\n        \n        3.\n        the_silver_searcher\n        8517\n        \n            \n            \n        \n        \nStar 23.8k\n                 Watch 427\n                 Fork 1.3k\n                \n            \n        \nack test_blah ~/code(8G)/  104.66s user 4.82s system 99% cpu 1:50.03 total\nag test_blah ~/code(8G)/  4.67s user 4.58s system 286% cpu 3.227 total…",
           "link": "https://hellogithub.com/periodical/volume/68/",
-          "publishedOn": "2022-06-24T12:56:02.538Z",
+          "publishedOn": "2022-06-24T12:56:44.938Z",
           "wordCount": 1002,
           "title": "第68期",
           "imageUrl": null
         },
         {
-          "id": "https://hellogithub.com/periodical/volume/65/",
+          "id": "https://hellogithub.com/periodical/volume/69/",
           "author": null,
-          "description": "C 项目\n\n\n        \n        1.\n        cpufetch\n        7501\n        \n            \n            \n        \n        \nStar 1.5k\n                 Watch 24\n                 Fork 84\n                \n            \n        \n\n        \n        \nC# 项目\n\n\n        \n        2.\n        AduSkin\n        2976\n        \n            \n            \n        \n        \nStar 1.4k\n                 Watch 42\n                 Fork 292\n                \n                    中文\n                \n            \n        \n\n        \n        \nC++ 项目\n\n\n        \n        3.\n        simdjson\n        4552\n        \n            \n            \n        \n        \nStar 15.8k\n                 Watch 231\n                 Fork 846\n                \n            \n        \n\n        \n        \n\n\n        \n        4.\n        filament\n        6104\n        \n      …",
-          "link": "https://hellogithub.com/periodical/volume/65/",
-          "publishedOn": "2022-06-24T12:56:02.322Z",
-          "wordCount": 1021,
-          "title": "第65期",
+          "description": "C 项目\n\n\n        \n        1.\n        quadsort\n        17609\n        \n            \n            \n        \n        \nStar 1.8k\n                 Watch 38\n                 Fork 89\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        mpv\n        4575\n        \n            \n            \n        \n        \nStar 19.1k\n                 Watch 479\n                 Fork 2.3k\n                \n            \n        \n\n        \n        \n\n\n        \n        3.\n        minilisp\n        21411\n        \n            \n            \n        \n        \nStar 1.2k\n                 Watch 30\n                 Fork 161\n                \n            \n        \n(println 3)  ; prints \"3\"\n(+ 1 2 3)  ; -> 6\n(define a (+ 1 2))\n(+ a a)  ; -> 6\n\n\n    \n\nC# 项目\n\n\n        \n        4.\n        jynew\n        404…",
+          "link": "https://hellogithub.com/periodical/volume/69/",
+          "publishedOn": "2022-06-24T12:56:44.825Z",
+          "wordCount": 1127,
+          "title": "第69期",
           "imageUrl": null
         },
         {
@@ -194,9 +154,29 @@
           "author": null,
           "description": "C 项目\n\n\n        \n        1.\n        bytehound\n        12900\n        \n            \n            \n        \n        \nStar 2.8k\n                 Watch 44\n                 Fork 110\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        nnn\n        4532\n        \n            \n            \n        \n        \nStar 14.3k\n                 Watch 123\n                 Fork 589\n                \n            \n        \n\n        \n        \nC# 项目\n\n\n        \n        3.\n        ShareX\n        7612\n        \n            \n            \n        \n        \nStar 20.1k\n                 Watch 512\n                 Fork 2.6k\n                \n            \n        \n\n        \n        \nC++ 项目\n\n\n        \n        4.\n        NanaZip\n        17380\n        \n            \n            \n        \n        \nSt…",
           "link": "https://hellogithub.com/periodical/volume/67/",
-          "publishedOn": "2022-06-24T12:56:02.303Z",
+          "publishedOn": "2022-06-24T12:56:44.736Z",
           "wordCount": 927,
           "title": "第67期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/periodical/volume/70/",
+          "author": null,
+          "description": "C 项目\n\n\n        \n        1.\n        daytripper\n        7540\n        \n            \n            \n        \n        \nStar 3.4k\n                 Watch 67\n                 Fork 159\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        tinyssh\n        26903\n        \n            \n            \n        \n        \nStar 836\n                 Watch 40\n                 Fork 60\n                \n            \n        \nC# 项目\n\n\n        \n        3.\n        LiveCharts2\n        1896\n        \n            \n            \n        \n        \nStar 1.8k\n                 Watch 49\n                 Fork 249\n                \n            \n        \n\n        \n        \n\n\n        \n        4.\n        PowerRemoteDesktop\n        28493\n        \n            \n            \n        \n        \nStar 1.6k\n    …",
+          "link": "https://hellogithub.com/periodical/volume/70/",
+          "publishedOn": "2022-06-24T12:56:44.630Z",
+          "wordCount": 1049,
+          "title": "第70期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/periodical/volume/72/",
+          "author": null,
+          "description": "C 项目\n\n\n        \n        1.\n        reptyr\n        35427\n        \n            \n            \n        \n        \nStar 4.4k\n                 Watch 94\n                 Fork 191\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        hashcat\n        7033\n        \n            \n            \n        \n        \nStar 14.8k\n                 Watch 467\n                 Fork 2.2k\n                \n            \n        \n安装：brew install hashcat\n常用参数：\n-a  指定破解模式：“-a 0”字典攻击，“-a 1” 组合攻击；“-a 3”掩码攻击\n-m  指定要破解的 hash 类型：默认为 MD5\n--force 忽略破解过程中的警告\n\n常用破解模式：\n0：Straight（字典破解）\n1：Combination（组合破解）\n3：Brute-force（掩码暴力破解）\n6：Hybrid Wordlist + Mask（字典+掩码破解）\n7：Hybrid Mask + Wordlist（掩码+字典破解）\n\n常用掩码设置：\nl：纯小写字母 abcdefghijklmnopqrstuvwxyz\nu：纯大写字母 ABCDEFGHIJKLMNOPQRSTUVWXYZ\nd：纯数字 0123456789\n\n举例：破解 8 位…",
+          "link": "https://hellogithub.com/periodical/volume/72/",
+          "publishedOn": "2022-06-24T12:56:44.544Z",
+          "wordCount": 1233,
+          "title": "第72期",
           "imageUrl": null
         },
         {
@@ -204,9 +184,29 @@
           "author": null,
           "description": "C 项目\n\n\n        \n        1.\n        HEX-LINK\n        2156\n        \n            \n            \n        \n        \nStar 215\n                 Watch 6\n                 Fork 27\n                \n                    中文\n                \n            \n        \n.\n├─firmware # 软件（根据自己使用的工具选择如下一种工程即可）\n│  ├─ArduinoIDE_Proj # Arduino IDE版工程 \n│  │  ├─Additional_Libraries # 里面的文件夹需要复制到Arduino IDE安装目录下的libraries文件夹\n│  │  ├─Hex_Link_Leonardo # 需要下载至接收端的程序\n│  │  └─Hex_Link_Nano # 需要下载至发送端的程序\n│  ├─Bootloaders # 需要下载至芯片的arduino bootloader \n│  └─Vscode_PlatformIO_Proj # VScode PlatformIO版工程 \n│      ├─Hex_Link_Leonardo # 需要下载至接收端的程序\n│      └─Hex_Link_Nano # 需要下载至发送端的程序\n├─hardware # 硬件（PCB工程）\n│  ├─BOM   # PCB的物料清单，包含参考的购买链接（链接仅作参考，在其他任何店铺购买相同型号即可）\n│  ├─Hex_Link_Rec # 接收端PCB工程\n│  ├─Hex_Link_Trans # 发送端PCB工程\n│  └─Nano_…",
           "link": "https://hellogithub.com/periodical/volume/66/",
-          "publishedOn": "2022-06-24T12:56:02.273Z",
+          "publishedOn": "2022-06-24T12:56:44.430Z",
           "wordCount": 1059,
           "title": "第66期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/periodical/volume/73/",
+          "author": null,
+          "description": "C 项目\n\n\n        \n        1.\n        warpd\n        36906\n        \n            \n            \n        \n        \nStar 959\n                 Watch 9\n                 Fork 37\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        uthash\n        35883\n        \n            \n            \n        \n        \nStar 3.0k\n                 Watch 131\n                 Fork 759\n                \n            \n        \n#include \"uthash.h\"\n\nstruct my_struct {\n    int id;            /* we'll use this field as the key */\n    char name[10];\n    UT_hash_handle hh; /* makes this structure hashable */\n};\n\nstruct my_struct *users = NULL;\n\nvoid add_user(struct my_struct *s) {\n    HASH_ADD_INT( users, id, s );\n}\n\n\n    \n        \n            \n\n        \n        3.\n        lvgl\n        4457\n    …",
+          "link": "https://hellogithub.com/periodical/volume/73/",
+          "publishedOn": "2022-06-24T12:56:44.403Z",
+          "wordCount": 1117,
+          "title": "第73期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/periodical/volume/65/",
+          "author": null,
+          "description": "C 项目\n\n\n        \n        1.\n        cpufetch\n        7501\n        \n            \n            \n        \n        \nStar 1.5k\n                 Watch 24\n                 Fork 84\n                \n            \n        \n\n        \n        \nC# 项目\n\n\n        \n        2.\n        AduSkin\n        2976\n        \n            \n            \n        \n        \nStar 1.4k\n                 Watch 42\n                 Fork 292\n                \n                    中文\n                \n            \n        \n\n        \n        \nC++ 项目\n\n\n        \n        3.\n        simdjson\n        4552\n        \n            \n            \n        \n        \nStar 15.8k\n                 Watch 231\n                 Fork 846\n                \n            \n        \n\n        \n        \n\n\n        \n        4.\n        filament\n        6104\n        \n      …",
+          "link": "https://hellogithub.com/periodical/volume/65/",
+          "publishedOn": "2022-06-24T12:56:44.208Z",
+          "wordCount": 1021,
+          "title": "第65期",
           "imageUrl": null
         },
         {
@@ -214,7 +214,7 @@
           "author": null,
           "description": "C 项目\n\n\n        \n        1.\n        X-TRACK\n        6301\n        \n            \n            \n        \n        \nStar 3.5k\n                 Watch 71\n                 Fork 864\n                \n                    中文\n                \n            \n        \n在线观看\n\n        \n            \n\n        \n        \nC# 项目\n\n\n        \n        2.\n        ToastFish\n        4030\n        \n            \n            \n        \n        \nStar 1.6k\n                 Watch 8\n                 Fork 188\n                \n                    中文\n                \n            \n        \n\n        \n        \n\n\n        \n        3.\n        XboxDownload\n        2818\n        \n            \n            \n        \n        \nStar 636\n                 Watch 5\n                 Fork 69\n                \n                    中文\n                \n       …",
           "link": "https://hellogithub.com/periodical/volume/64/",
-          "publishedOn": "2022-06-24T12:56:02.106Z",
+          "publishedOn": "2022-06-24T12:56:44.180Z",
           "wordCount": 1134,
           "title": "第64期",
           "imageUrl": null

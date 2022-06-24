@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-24T12:56:03.696Z</id>
+    <id>urn:2022-06-24T12:56:45.526Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-24T12:56:03.696Z</updated>
+    <updated>2022-06-24T12:56:45.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[2022年05月编程语言排行榜]]></title>
         <id>https://hellogithub.com/report/tiobe</id>
         <link href="https://hellogithub.com/report/tiobe"/>
-        <updated>2022-06-24T12:56:03.673Z</updated>
+        <updated>2022-06-24T12:56:45.502Z</updated>
         <summary type="html"><![CDATA[May Headline: C# gains most ranking points
 If we compare the current TIOBE index rankings to 1 year ago (May 2021), C# is gaining most popular of all programming languages by far. Its rankings has increased almost 2% for the last 12 months. C# is one of the most mature programming languages in existence, supporting many modern programming paradigms. Until recently, its only disadvantage was that its Linux support was questionable, but this is changing rapidly the last couple of years. So chances are high that C# might enter the TIOBE index top 3 by replacing C. Another serious contender for this top 3 position is C++. Its long term trend, boosted by C++20, is definitely upward. --
 
@@ -29,7 +29,7 @@ If we compare the current TIOBE index rankings to 1 year ago (May 2021), C# is g
         <title type="html"><![CDATA[第74期]]></title>
         <id>https://hellogithub.com/periodical/volume/74/</id>
         <link href="https://hellogithub.com/periodical/volume/74/"/>
-        <updated>2022-06-24T12:56:03.296Z</updated>
+        <updated>2022-06-24T12:56:45.101Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
@@ -107,228 +107,10 @@ Star 2.6k
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[第73期]]></title>
-        <id>https://hellogithub.com/periodical/volume/73/</id>
-        <link href="https://hellogithub.com/periodical/volume/73/"/>
-        <updated>2022-06-24T12:56:03.018Z</updated>
-        <summary type="html"><![CDATA[C 项目
-
-
-        
-        1.
-        warpd
-        36906
-        
-            
-            
-        
-        
-Star 959
-                 Watch 9
-                 Fork 37
-                
-            
-        
-
-        
-        
-
-
-        
-        2.
-        uthash
-        35883
-        
-            
-            
-        
-        
-Star 3.0k
-                 Watch 131
-                 Fork 759
-                
-            
-        
-#include "uthash.h"
-
-struct my_struct {
-    int id;            /* we'll use this field as the key */
-    char name[10];
-    UT_hash_handle hh; /* makes this structure hashable */
-};
-
-struct my_struct *users = NULL;
-
-void add_user(struct my_struct *s) {
-    HASH_ADD_INT( users, id, s );
-}
-
-
-    
-        
-            
-
-        
-        3.
-        lvgl
-        4457
-    …]]></summary>
-        <author>
-            <name>HelloGitHub - Article</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第72期]]></title>
-        <id>https://hellogithub.com/periodical/volume/72/</id>
-        <link href="https://hellogithub.com/periodical/volume/72/"/>
-        <updated>2022-06-24T12:56:02.973Z</updated>
-        <summary type="html"><![CDATA[C 项目
-
-
-        
-        1.
-        reptyr
-        35427
-        
-            
-            
-        
-        
-Star 4.4k
-                 Watch 94
-                 Fork 191
-                
-            
-        
-
-        
-        
-
-
-        
-        2.
-        hashcat
-        7033
-        
-            
-            
-        
-        
-Star 14.8k
-                 Watch 467
-                 Fork 2.2k
-                
-            
-        
-安装：brew install hashcat
-常用参数：
--a  指定破解模式：“-a 0”字典攻击，“-a 1” 组合攻击；“-a 3”掩码攻击
--m  指定要破解的 hash 类型：默认为 MD5
---force 忽略破解过程中的警告
-
-常用破解模式：
-0：Straight（字典破解）
-1：Combination（组合破解）
-3：Brute-force（掩码暴力破解）
-6：Hybrid Wordlist + Mask（字典+掩码破解）
-7：Hybrid Mask + Wordlist（掩码+字典破解）
-
-常用掩码设置：
-l：纯小写字母 abcdefghijklmnopqrstuvwxyz
-u：纯大写字母 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-d：纯数字 0123456789
-
-举例：破解 8 位…]]></summary>
-        <author>
-            <name>HelloGitHub - Article</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第70期]]></title>
-        <id>https://hellogithub.com/periodical/volume/70/</id>
-        <link href="https://hellogithub.com/periodical/volume/70/"/>
-        <updated>2022-06-24T12:56:02.739Z</updated>
-        <summary type="html"><![CDATA[C 项目
-
-
-        
-        1.
-        daytripper
-        7540
-        
-            
-            
-        
-        
-Star 3.4k
-                 Watch 67
-                 Fork 159
-                
-            
-        
-
-        
-        
-
-
-        
-        2.
-        tinyssh
-        26903
-        
-            
-            
-        
-        
-Star 836
-                 Watch 40
-                 Fork 60
-                
-            
-        
-C# 项目
-
-
-        
-        3.
-        LiveCharts2
-        1896
-        
-            
-            
-        
-        
-Star 1.8k
-                 Watch 49
-                 Fork 249
-                
-            
-        
-
-        
-        
-
-
-        
-        4.
-        PowerRemoteDesktop
-        28493
-        
-            
-            
-        
-        
-Star 1.6k
-    …]]></summary>
-        <author>
-            <name>HelloGitHub - Article</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[第71期]]></title>
         <id>https://hellogithub.com/periodical/volume/71/</id>
         <link href="https://hellogithub.com/periodical/volume/71/"/>
-        <updated>2022-06-24T12:56:02.716Z</updated>
+        <updated>2022-06-24T12:56:45.041Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
@@ -399,10 +181,76 @@ var result = await Cli.Wrap("path/to/exe")
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[第68期]]></title>
+        <id>https://hellogithub.com/periodical/volume/68/</id>
+        <link href="https://hellogithub.com/periodical/volume/68/"/>
+        <updated>2022-06-24T12:56:44.938Z</updated>
+        <summary type="html"><![CDATA[C 项目
+
+
+        
+        1.
+        WindTerm
+        8016
+        
+            
+            
+        
+        
+Star 5.2k
+                 Watch 71
+                 Fork 376
+                
+            
+        
+
+        
+        
+
+
+        
+        2.
+        toybox
+        15406
+        
+            
+            
+        
+        
+Star 1.7k
+                 Watch 80
+                 Fork 256
+                
+            
+        
+
+
+        
+        3.
+        the_silver_searcher
+        8517
+        
+            
+            
+        
+        
+Star 23.8k
+                 Watch 427
+                 Fork 1.3k
+                
+            
+        
+ack test_blah ~/code(8G)/  104.66s user 4.82s system 99% cpu 1:50.03 total
+ag test_blah ~/code(8G)/  4.67s user 4.58s system 286% cpu 3.227 total…]]></summary>
+        <author>
+            <name>HelloGitHub - Article</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[第69期]]></title>
         <id>https://hellogithub.com/periodical/volume/69/</id>
         <link href="https://hellogithub.com/periodical/volume/69/"/>
-        <updated>2022-06-24T12:56:02.566Z</updated>
+        <updated>2022-06-24T12:56:44.825Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
@@ -481,158 +329,10 @@ C# 项目
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[第68期]]></title>
-        <id>https://hellogithub.com/periodical/volume/68/</id>
-        <link href="https://hellogithub.com/periodical/volume/68/"/>
-        <updated>2022-06-24T12:56:02.538Z</updated>
-        <summary type="html"><![CDATA[C 项目
-
-
-        
-        1.
-        WindTerm
-        8016
-        
-            
-            
-        
-        
-Star 5.2k
-                 Watch 71
-                 Fork 376
-                
-            
-        
-
-        
-        
-
-
-        
-        2.
-        toybox
-        15406
-        
-            
-            
-        
-        
-Star 1.7k
-                 Watch 80
-                 Fork 256
-                
-            
-        
-
-
-        
-        3.
-        the_silver_searcher
-        8517
-        
-            
-            
-        
-        
-Star 23.8k
-                 Watch 427
-                 Fork 1.3k
-                
-            
-        
-ack test_blah ~/code(8G)/  104.66s user 4.82s system 99% cpu 1:50.03 total
-ag test_blah ~/code(8G)/  4.67s user 4.58s system 286% cpu 3.227 total…]]></summary>
-        <author>
-            <name>HelloGitHub - Article</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第65期]]></title>
-        <id>https://hellogithub.com/periodical/volume/65/</id>
-        <link href="https://hellogithub.com/periodical/volume/65/"/>
-        <updated>2022-06-24T12:56:02.322Z</updated>
-        <summary type="html"><![CDATA[C 项目
-
-
-        
-        1.
-        cpufetch
-        7501
-        
-            
-            
-        
-        
-Star 1.5k
-                 Watch 24
-                 Fork 84
-                
-            
-        
-
-        
-        
-C# 项目
-
-
-        
-        2.
-        AduSkin
-        2976
-        
-            
-            
-        
-        
-Star 1.4k
-                 Watch 42
-                 Fork 292
-                
-                    中文
-                
-            
-        
-
-        
-        
-C++ 项目
-
-
-        
-        3.
-        simdjson
-        4552
-        
-            
-            
-        
-        
-Star 15.8k
-                 Watch 231
-                 Fork 846
-                
-            
-        
-
-        
-        
-
-
-        
-        4.
-        filament
-        6104
-        
-      …]]></summary>
-        <author>
-            <name>HelloGitHub - Article</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[第67期]]></title>
         <id>https://hellogithub.com/periodical/volume/67/</id>
         <link href="https://hellogithub.com/periodical/volume/67/"/>
-        <updated>2022-06-24T12:56:02.303Z</updated>
+        <updated>2022-06-24T12:56:44.736Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
@@ -713,10 +413,157 @@ St…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[第70期]]></title>
+        <id>https://hellogithub.com/periodical/volume/70/</id>
+        <link href="https://hellogithub.com/periodical/volume/70/"/>
+        <updated>2022-06-24T12:56:44.630Z</updated>
+        <summary type="html"><![CDATA[C 项目
+
+
+        
+        1.
+        daytripper
+        7540
+        
+            
+            
+        
+        
+Star 3.4k
+                 Watch 67
+                 Fork 159
+                
+            
+        
+
+        
+        
+
+
+        
+        2.
+        tinyssh
+        26903
+        
+            
+            
+        
+        
+Star 836
+                 Watch 40
+                 Fork 60
+                
+            
+        
+C# 项目
+
+
+        
+        3.
+        LiveCharts2
+        1896
+        
+            
+            
+        
+        
+Star 1.8k
+                 Watch 49
+                 Fork 249
+                
+            
+        
+
+        
+        
+
+
+        
+        4.
+        PowerRemoteDesktop
+        28493
+        
+            
+            
+        
+        
+Star 1.6k
+    …]]></summary>
+        <author>
+            <name>HelloGitHub - Article</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第72期]]></title>
+        <id>https://hellogithub.com/periodical/volume/72/</id>
+        <link href="https://hellogithub.com/periodical/volume/72/"/>
+        <updated>2022-06-24T12:56:44.544Z</updated>
+        <summary type="html"><![CDATA[C 项目
+
+
+        
+        1.
+        reptyr
+        35427
+        
+            
+            
+        
+        
+Star 4.4k
+                 Watch 94
+                 Fork 191
+                
+            
+        
+
+        
+        
+
+
+        
+        2.
+        hashcat
+        7033
+        
+            
+            
+        
+        
+Star 14.8k
+                 Watch 467
+                 Fork 2.2k
+                
+            
+        
+安装：brew install hashcat
+常用参数：
+-a  指定破解模式：“-a 0”字典攻击，“-a 1” 组合攻击；“-a 3”掩码攻击
+-m  指定要破解的 hash 类型：默认为 MD5
+--force 忽略破解过程中的警告
+
+常用破解模式：
+0：Straight（字典破解）
+1：Combination（组合破解）
+3：Brute-force（掩码暴力破解）
+6：Hybrid Wordlist + Mask（字典+掩码破解）
+7：Hybrid Mask + Wordlist（掩码+字典破解）
+
+常用掩码设置：
+l：纯小写字母 abcdefghijklmnopqrstuvwxyz
+u：纯大写字母 ABCDEFGHIJKLMNOPQRSTUVWXYZ
+d：纯数字 0123456789
+
+举例：破解 8 位…]]></summary>
+        <author>
+            <name>HelloGitHub - Article</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[第66期]]></title>
         <id>https://hellogithub.com/periodical/volume/66/</id>
         <link href="https://hellogithub.com/periodical/volume/66/"/>
-        <updated>2022-06-24T12:56:02.273Z</updated>
+        <updated>2022-06-24T12:56:44.430Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
@@ -757,10 +604,163 @@ Star 215
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[第73期]]></title>
+        <id>https://hellogithub.com/periodical/volume/73/</id>
+        <link href="https://hellogithub.com/periodical/volume/73/"/>
+        <updated>2022-06-24T12:56:44.403Z</updated>
+        <summary type="html"><![CDATA[C 项目
+
+
+        
+        1.
+        warpd
+        36906
+        
+            
+            
+        
+        
+Star 959
+                 Watch 9
+                 Fork 37
+                
+            
+        
+
+        
+        
+
+
+        
+        2.
+        uthash
+        35883
+        
+            
+            
+        
+        
+Star 3.0k
+                 Watch 131
+                 Fork 759
+                
+            
+        
+#include "uthash.h"
+
+struct my_struct {
+    int id;            /* we'll use this field as the key */
+    char name[10];
+    UT_hash_handle hh; /* makes this structure hashable */
+};
+
+struct my_struct *users = NULL;
+
+void add_user(struct my_struct *s) {
+    HASH_ADD_INT( users, id, s );
+}
+
+
+    
+        
+            
+
+        
+        3.
+        lvgl
+        4457
+    …]]></summary>
+        <author>
+            <name>HelloGitHub - Article</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第65期]]></title>
+        <id>https://hellogithub.com/periodical/volume/65/</id>
+        <link href="https://hellogithub.com/periodical/volume/65/"/>
+        <updated>2022-06-24T12:56:44.208Z</updated>
+        <summary type="html"><![CDATA[C 项目
+
+
+        
+        1.
+        cpufetch
+        7501
+        
+            
+            
+        
+        
+Star 1.5k
+                 Watch 24
+                 Fork 84
+                
+            
+        
+
+        
+        
+C# 项目
+
+
+        
+        2.
+        AduSkin
+        2976
+        
+            
+            
+        
+        
+Star 1.4k
+                 Watch 42
+                 Fork 292
+                
+                    中文
+                
+            
+        
+
+        
+        
+C++ 项目
+
+
+        
+        3.
+        simdjson
+        4552
+        
+            
+            
+        
+        
+Star 15.8k
+                 Watch 231
+                 Fork 846
+                
+            
+        
+
+        
+        
+
+
+        
+        4.
+        filament
+        6104
+        
+      …]]></summary>
+        <author>
+            <name>HelloGitHub - Article</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[第64期]]></title>
         <id>https://hellogithub.com/periodical/volume/64/</id>
         <link href="https://hellogithub.com/periodical/volume/64/"/>
-        <updated>2022-06-24T12:56:02.106Z</updated>
+        <updated>2022-06-24T12:56:44.180Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
