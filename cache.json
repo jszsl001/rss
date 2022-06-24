@@ -156,6 +156,227 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "HelloGitHub - Article",
+      "feedUrl": "https://rsshub.app/hellogithub/article",
+      "siteUrl": "https://hellogithub.com/article",
+      "articles": [
+        {
+          "id": "https://hellogithub.com/article/003894c47d7d4eef8aefe91488c5bf8e/?url=/periodical/volume/&page=1",
+          "author": null,
+          "description": "物联网？快来看 Arduino 上云啦\n\n这里是 HelloGitHub 推出的讲解开源硬件开发平台 Arduino 的系列教程。\n第一篇：Arduino 介绍和开发环境搭建\n第二篇：制作温湿度显示器\n上一篇文章，我们介绍了如何安装 Arduino 支持库、DHT 11 温湿度传感器以及 OLED 屏幕的使用，并用 Arduino 制作了一个小型温湿度显示器。\n在这个讲究万物互联的时代，让咱们的 Arduino 温湿度也去“云上”玩玩，有个学名叫物联网。\n物联网(IoT) 是由物理对象组成的网络，这些物理对象嵌入了传感器、软件和其他技术，以便可以通过互联网与其他设备和系统建立连接并交换数据。\n是不是瞬间感觉高大上了一些，但是不用担心本期的知识超纲，因为高深的我也不会！\n今天我们讲解：如何把上一期做的温湿度设备上云，通过物联网平台完成实时数据上传和远程控制设备。实现将 Arduino 设备测量的温湿度数据上传到物联网平台，然后接收平台发送指令控制设备上 LED 灯光开关。\n你是否已经开始摩拳擦掌了呢？下面我们开始“上云”！\n一、实现联网功能\n1.1 模块介绍\n首先，如果想要 Arduino 连接到物联网平台的服务器，必然需要先让设备能够连接到网络（比如家里的 WiFi），这里我们就需要用到 ESP-01(s) 模块，来实现这个功能。\n其使用方法和前文介绍过的组件类似，只需要用到 VCC(3.3v)、GND、TX、RX 四根线，就能和 Arduino 进行通信。我这里使用的是 ESP-01+转接板，转接板实现了 5v->3.3v 的变压以及 Rx 和 Tx 接口的引出，方便后续使用。\n\n大多数 ESP-01(s) 模块在出厂时，都已经内置了 AT 指令固件，在使用时只需要向模块发送 AT 指令即可进行网络连接、数据传输等操作。\n关于什么是 AT 指令，简单来讲就是设备间一种通信…",
+          "link": "https://hellogithub.com/article/003894c47d7d4eef8aefe91488c5bf8e/?url=/periodical/volume/&page=1",
+          "publishedOn": "2022-06-24T02:55:30.000Z",
+          "wordCount": 472,
+          "title": "物联网？快来看 Arduino 上云啦",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/article/630e1f8e244c434cbc84ccc26b9392b6/?url=/periodical/volume/&page=1",
+          "author": null,
+          "description": "这就是艺术「GitHub 热点速览 v.22.25」\n\n不知道写了那么久代码的你，是否还记得“代码写诗”这个词，它是用来形容代码的优雅。但是本周的项目，虽然你看到的是代码的成品，也会惊讶于它的艺术感。引用某位爱自曝名人的话：这就是艺术。\n减轻等待焦虑的旋转小图标 svg-spinners 或者是让你随手涂鸦、随堂笔记即成画作的 Lorien，以及麻雀虽小但是数据俱全的 SQLite.swift，以及 ping 下就能看到的 say hi 小企鹅 pingu，都是很有意思的项目。\n以下内容摘录自微博@HelloGitHub 的 GitHub Trending 及 Hacker News 热帖（简称 HN 热帖），选项标准：新发布 | 实用 | 有趣，根据项目 release 时间分类，发布时间不超过 14 day 的项目会标注 New，无该标志则说明项目 release 超过半月。由于本文篇幅有限，还有部分项目未能在本文展示，望周知 🌝\n本文目录\n\n\n本周特推\n1.1 旋转艺术：svg-spinners\n1.2 白板绘图：Lorien\n\n\nGitHub Trending 周榜\n2.1 Swift 扩展：SwifterSwift\n2.2 小巧数据库：SQLite.swift\n2.3 笔记软件：siyuan\n2.4 经典游戏：jak-project\n2.5 ping 命令艺术：pingu\n\n\n往期回顾\n\n\n1. 本周特推\n1.1 旋转艺术：svg-spinners\n本周 star 增长数：2,700+\nNew SVG Spinners 收录了一组 24x24 的旋转器，可用在你的页面中。BTW，项目开源不到 1 周已经获得近 3k 的 star。\nGitHub 地址→https://github.com/n3r4zzurr0/svg-spinners\n\n1.2 白板绘图：Lor…",
+          "link": "https://hellogithub.com/article/630e1f8e244c434cbc84ccc26b9392b6/?url=/periodical/volume/&page=1",
+          "publishedOn": "2022-06-20T03:01:02.000Z",
+          "wordCount": 314,
+          "title": "这就是艺术「GitHub 热点速览 v.22.25」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/article/8cf89006e14f4e21bd38a41f9a1f578b/?url=/periodical/volume/&page=1",
+          "author": null,
+          "description": "想学嵌入式？要不一起玩 Arduino 吧\n\n这里是 HelloGitHub 推出的《讲解开源项目》系列，本期介绍的是如何用开源硬件开发平台 Arduino，自己动手做一个温湿度显示器。\n书接上回，上一章我们知晓了什么是 Arduino、能用它来做什么，以及 Hello World 的实现，内容十分简单和容易上手。没看过的小伙伴可以点击阅读，从而做到无缝连接本章的内容。\n接下来，我们将更进一步学习 Arduino 的知识，为避免枯燥的文字教程，本文将结合实际的开发进行讲解。首先会介绍 温湿度传感器 和 OLED 屏幕 的开发，接着将这两部分的知识进行组合，最后你将得到一个有意思的温湿度显示器。\n不要担心，本文所有内容均已脱“难”，只要跟着文章一步步进行下去，肯定就能做出来！\n下面，就让我们一起开始制作你的第一个 Arduino 成品吧！\n一、温湿度传感器\n本节我们会用到名为 DHT 11 的温湿度传感器，DHT 11 是一款常用的温湿度数字传感器，它虽然精度不是很高但价格低廉，只用到三根线 VCC、GND、DATA 即可工作（简单），是我们学习使用传感器的不二之选！\n这里我使用的是进行过二次封装的 DHT 11 传感器，它长这个样子：\n\n1.1 连接传感器\n根据购买的店铺不同，最终实物可能会有所不同。如果你无法分辨每个引脚具体含义，一定要先咨询卖家再进行接线，防止烧坏传感器！\n我这里的三个引脚从左到右依次为 DATA、VCC、GND，连接方式为：\nGND -- GND\nVCC -- 5V\nDATA -- Digital 8\n1.2 读取数据\n读取 DHT 11 传感器的数据方式也非常简单，我们可以根据 数据手册 中 4、串行接口 一节提供的信息自行编写数据解析的程序。\n但我认为这已经超出了初学者的能力范围而且实现起来也会花不少功夫，所以这时候我们就需要 Arduino 的 …",
+          "link": "https://hellogithub.com/article/8cf89006e14f4e21bd38a41f9a1f578b/?url=/periodical/volume/&page=1",
+          "publishedOn": "2022-06-17T01:18:10.000Z",
+          "wordCount": 505,
+          "title": "想学嵌入式？要不一起玩 Arduino 吧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/article/fcc8c3b9d5e944fc945b1c47d480046d/?url=/periodical/volume/&page=1",
+          "author": null,
+          "description": "GitHub 官方大动作频频「GitHub 热点速览 v.22.24」\n\n本周 GitHub 官方 Blog 很是热闹，GitHub 官方大动作频频也带来了 GitHub Blog 的频繁更新，除了本周 News 快读收录的 GitHub 新徽章和 Atom 被“停用”新闻之外，GitHub Action 的工作流也有新的 Changelog 以及 GitHub 安全策略也有所更新。GitHub Skills 这个新项目则带 GitHub 新人们快速入门 GitHub，项目提供了 GitHub 相关教程。\n相较于 GitHub 官方的大动作，本周的开源项目就比较 Tiny，比如用在命令行等小地方的 Go 编译器 TinyGo、dalle-playground 则是知名项目 DALL-E 的在线试玩版，nginxconfig.io 也只是“小小”地帮你配制下 Nginx，MarkovJunior 也就小小地开发了一门概率编程语言。\n以下内容摘录自微博@HelloGitHub 的 GitHub Trending 及 Hacker News 热帖（简称 HN 热帖），选项标准：新发布 | 实用 | 有趣，根据项目 release 时间分类，发布时间不超过 14 day 的项目会标注 New，无该标志则说明项目 release 超过半月。由于本文篇幅有限，还有部分项目未能在本文展示，望周知 🌝\n本文目录\n\n\nNews 快读\n\n社区动态·GitHub 上线成就徽章\n\n\n产品·GitHub 宣布停用 Atom\n\n\n\n本周特推\n1.1 Go 编译器：TinyGo\n1.2 文本生图：dalle-playground\n\n\nGitHub Trending 周榜\n2.1 概率编程语言：MarkovJunior\n2.2 云身份证：kratos\n2.3 目标检测：detr\n2.4 Nginx 配置…",
+          "link": "https://hellogithub.com/article/fcc8c3b9d5e944fc945b1c47d480046d/?url=/periodical/volume/&page=1",
+          "publishedOn": "2022-06-13T01:02:43.000Z",
+          "wordCount": 441,
+          "title": "GitHub 官方大动作频频「GitHub 热点速览 v.22.24」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/article/669a30e044da4aa6822dce1d14848563/?url=/periodical/volume/&page=1",
+          "author": null,
+          "description": "想做钢铁侠？听说很多大佬都是用它入门的\n\n你是否想过成为一名 Geek，就像“野生钢铁侠”稚晖君那样自己能做出各种新奇有趣的电子设备，但却不知道从哪里入手、如何开始？今天我们不聊嵌入式、电路板、单片机原理，直接上手开始搞！\n我认为对于零基础的电子爱好者来说，一块容易上手的开发板至关重要。否则复杂的安装步骤和调试流程就能把最初的热情消失殆尽，从而还没看到一个成品就放弃了。所以，今天 HelloGitHub 带来的 Arduino 就是一个非常容易上手的开源硬件平台：\n项目地址：https://github.com/arduino/Arduino\n该项目包含 开发板（例如 Arduino UNO）和 软件（Arduino IDE）两部分，而且它拥有完善的中文社区和大量开源项目的示例，让你遇到问题很容易就能找到解决办法，想做项目也有完整的代码和项目可以参照。\n我当年在 C 语言都不是很熟练的情况下，只花了一天时间就能跟着教程用 Arduino 实现一些比较花哨的功能，由此足以见得 Arduino 真的非常适合作为电子爱好者的第一块开发板。\n下面我将通过：闻道（入门）、见道（上手）、入道三部分，帮助零基础的电子爱好者快速入门 Arduino，开启你的“钢铁侠”之旅。\n一、闻道（介绍）\n1.1 推荐型号\nArduino 到目前为止有很多种类的开发板，我这里推荐大家使用 UNO 作为您的第一块开发板。原因有以下几点：\n普及：玩 UNO 的人很多，网上有很多 UNO 的教程\n便宜：相比较其他类型开发板 UNO 真的非常便宜了\n可拆卸：板子用的时间长了难免出现各种问题，可拆卸支持仅替换有问题的零部件\n1.2 UNO R3 开发板\n截止目前，市面上常见的 UNO 开发板为 UNO R3 开发板如图所示：\n\nArduino UNO R3 使用一根数据线连接电脑即可实现 供电、编程、通信 等功能…",
+          "link": "https://hellogithub.com/article/669a30e044da4aa6822dce1d14848563/?url=/periodical/volume/&page=1",
+          "publishedOn": "2022-06-10T00:48:29.000Z",
+          "wordCount": 680,
+          "title": "想做钢铁侠？听说很多大佬都是用它入门的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/article/44b93be98ac24950aace23886a23c5bf/?url=/periodical/volume/&page=1",
+          "author": null,
+          "description": "中国程序员容易发错音的单词「GitHub 热点速览 v.22.23」\n\n中国程序员容易发错音的单词，像极了学生时代的纠错本，收录着偶尔会忘记的单词。不过，它似乎更新频率跟不上我们的进步速度，至少一半以上的单词读起来是没有压力的。同样没有压力的还有让应用程序动起来的 auto-animate，一行代码轻松搞懂列表排序等等常见动效。还有个非常有意思的项目是 DeepFaceLive 和 dashy，前者让你换脸没压力，当然换个角度你可以让你的对象变成“迪丽热巴”，后者则让你管理服务毫无压力。一个小图标即可访问对应的服务。\n以下内容摘录自微博@HelloGitHub 的 GitHub Trending 及 Hacker News 热帖（简称 HN 热帖），选项标准：新发布 | 实用 | 有趣，根据项目 release 时间分类，发布时间不超过 14 day 的项目会标注 New，无该标志则说明项目 release 超过半月。由于本文篇幅有限，还有部分项目未能在本文展示，望周知 🌝\n本文目录\n\n\n本周特推\n1.1 中国程序员容易发音错误的单词：chinese-programmer-wrong-pronunciation\n1.2 一行代码动画组件：auto-animate\n\n\nGitHub Trending 周榜\n2.1 Follina 攻击：msdt-follina\n2.2 在 GitHub 仓库记笔记：gitnoter\n2.3 因果推理 Python 库：DoWhy\n2.4 服务启动页：dashy\n2.5 视频实时换脸：DeepFaceLive\n\n\n往期回顾\n\n\n1. 本周特推\n1.1 中国程序员容易发音错误的单词：chinese-programmer-wrong-pronunciation\n本周 star 增长数：500+\nchinese-programmer-wrong-p…",
+          "link": "https://hellogithub.com/article/44b93be98ac24950aace23886a23c5bf/?url=/periodical/volume/&page=1",
+          "publishedOn": "2022-06-06T15:34:45.000Z",
+          "wordCount": 309,
+          "title": "中国程序员容易发错音的单词「GitHub 热点速览 v.22.23」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/article/1feb78e7dbff47e1949912ffe60947f8/?url=/periodical/volume/&page=1",
+          "author": null,
+          "description": "解锁！玩转 HelloGitHub 的新姿势\n本文不会涉及太多技术细节和源码，请放心食用\n\n大家好，我是 HelloGitHub 的老荀，好久不见啊！\n我在完成 HelloZooKeeper 系列之后，就很少“露面了”。但是我对开源和 HelloGitHub 的热情并没有丝毫的减少。这不，逮着个机会就来输出一波，防止被大家遗忘😂。\n\n这次带来的是我写的一款在终端浏览 HelloGitHub 的工具：hg-tui，让你双手不离开键盘就能畅游在 HG 的开源世界。功能如下：\n色彩丰富、平铺展示\n关键字搜索月刊往期的项目\n类 Vim 的快捷键操作方式\n一键直达开源项目首页\n支持 Linux、macOS、Windows\n地址：https://github.com/kaixinbaba/hg-tui\n下面我将分享自己发起这个开源项目的缘起、构思、再到开发的全部过程，最后分享一下，我通过做这个项目对开源的一些感悟。\n一、起因\n我本职是做 Java 开发，但架不住 Rust 太有意思了！所以最近在学 Rust 恰好前段时间看到 HG 讲解 tui.rs 的文章。\n看完后手痒得厉害，就写了一篇 tui.rs 入门文章，但感觉还不过瘾就想写一个项目练手。\n因为我平时经常上 HelloGitHub 找开源项目，所以就决定用 tui.rs 做一个终端浏览 HelloGitHub 官网的工具。\n官网：https://hellogithub.com/\n二、构思\n首先我希望这个应用能有以下功能：\n有搜索框，可以按关键词搜索 HelloGitHub 中的任意项目\n通过表格按列展示搜索结果\n既然是终端应用，那操作方式肯定是使用键盘方式，快捷键我采用了一些大家熟知的 Vim 快捷键\n浏览项目的途中，可以随时在浏览器中打开当前浏览的项目\n有了这些主要功能点的思路，下面就要想想怎么设计一个界面了，我本职工作后…",
+          "link": "https://hellogithub.com/article/1feb78e7dbff47e1949912ffe60947f8/?url=/periodical/volume/&page=1",
+          "publishedOn": "2022-06-01T01:12:48.000Z",
+          "wordCount": 504,
+          "title": "解锁！玩转 HelloGitHub 的新姿势",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/article/c6761d7d6d074e91940e097991e2e61e/?url=/periodical/volume/&page=1",
+          "author": null,
+          "description": "人体调优不完全指南「GitHub 热点速览 v.22.22」\n\n本周特推又是一个人体调优项目，换而言之就是如何健康生活，同之前的 HowToLiveLonger研究全因死亡率不同，这个项目更容易在生活中实践，比如，早起晒太阳这么一件“小事”便有“提神”效果。\n除了改变生活方式之外，整点让自己开心的事情也是必不可少的，比如：beautify-github-profile 做个高颜值的 GitHub 个人主页、学个有意思的编程语言 Jakt、搭建个小清新的社交平台 Paopao…\n以下内容摘录自微博@HelloGitHub 的 GitHub Trending 及 Hacker News 热帖（简称 HN 热帖），选项标准：新发布 | 实用 | 有趣，根据项目 release 时间分类，发布时间不超过 14 day 的项目会标注 New，无该标志则说明项目 release 超过半月。由于本文篇幅有限，还有部分项目未能在本文展示，望周知 🌝\n本文目录\n\n\n本周特推\n1.1 人体系统调优不完全指南：HumanSystemOptimization\n1.2 GitHub 个人主页美化指南：beautify-github-profile\n\n\nGitHub Trending 周榜\n2.1 实用内容管理系统：payload\n2.2 移动端调试平台：flipper\n2.3 物理引擎：MuJoCo\n2.4 新编程语言：jakt\n2.5 清新微社区：paopao-ce\n\n\n往期回顾\n\n\n1. 本周特推\n1.1 人体系统调优不完全指南：HumanSystemOptimization\n本周 star 增长数：1,600+\nNew 如何科学、健康地学习到 150 岁呢？HumanSystemOptimization 收录了一系列日常生活指南，像组成原理一样，我们也可以系统、科学地调优我们的人体系统，更好…",
+          "link": "https://hellogithub.com/article/c6761d7d6d074e91940e097991e2e61e/?url=/periodical/volume/&page=1",
+          "publishedOn": "2022-05-30T13:55:19.000Z",
+          "wordCount": 318,
+          "title": "人体调优不完全指南「GitHub 热点速览 v.22.22」",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "HelloGitHub - ranking",
+      "feedUrl": "https://rsshub.app/hellogithub/ranking",
+      "siteUrl": "https://hellogithub.com/report/tiobe",
+      "articles": [
+        {
+          "id": "https://hellogithub.com/report/tiobe",
+          "author": null,
+          "description": "May Headline: C# gains most ranking points\nIf we compare the current TIOBE index rankings to 1 year ago (May 2021), C# is gaining most popular of all programming languages by far. Its rankings has increased almost 2% for the last 12 months. C# is one of the most mature programming languages in existence, supporting many modern programming paradigms. Until recently, its only disadvantage was that its Linux support was questionable, but this is changing rapidly the last couple of years. So chances are high that C# might enter the TIOBE index top 3 by replacing C. Another serious contender for this top 3 position is C++. Its long term trend, boosted by C++20, is definitely upward. --\n\n        \n\n        \n编程语言排行榜 TOP 50 榜单\n排名\n                    编程语言\n                    流行度\n                    …",
+          "link": "https://hellogithub.com/report/tiobe",
+          "publishedOn": "2022-06-24T12:48:45.505Z",
+          "wordCount": 2817,
+          "title": "2022年05月编程语言排行榜",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "HelloGitHub - Article",
+      "feedUrl": "https://rsshub.app/hellogithub/month",
+      "siteUrl": "https://hellogithub.com/article",
+      "articles": [
+        {
+          "id": "https://hellogithub.com/periodical/volume/72/",
+          "author": null,
+          "description": "C 项目\n\n\n        \n        1.\n        reptyr\n        35427\n        \n            \n            \n        \n        \nStar 4.4k\n                 Watch 94\n                 Fork 191\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        hashcat\n        7033\n        \n            \n            \n        \n        \nStar 14.8k\n                 Watch 467\n                 Fork 2.2k\n                \n            \n        \n安装：brew install hashcat\n常用参数：\n-a  指定破解模式：“-a 0”字典攻击，“-a 1” 组合攻击；“-a 3”掩码攻击\n-m  指定要破解的 hash 类型：默认为 MD5\n--force 忽略破解过程中的警告\n\n常用破解模式：\n0：Straight（字典破解）\n1：Combination（组合破解）\n3：Brute-force（掩码暴力破解）\n6：Hybrid Wordlist + Mask（字典+掩码破解）\n7：Hybrid Mask + Wordlist（掩码+字典破解）\n\n常用掩码设置：\nl：纯小写字母 abcdefghijklmnopqrstuvwxyz\nu：纯大写字母 ABCDEFGHIJKLMNOPQRSTUVWXYZ\nd：纯数字 0123456789\n\n举例：破解 8 位…",
+          "link": "https://hellogithub.com/periodical/volume/72/",
+          "publishedOn": "2022-06-24T12:48:44.600Z",
+          "wordCount": 1233,
+          "title": "第72期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/periodical/volume/74/",
+          "author": null,
+          "description": "C 项目\n\n\n        \n        1.\n        FreeRDP\n        43476\n        \n            \n            \n        \n        \nStar 7.0k\n                 Watch 370\n                 Fork 17.1k\n                \n            \n        \n下载地址\n\n        \n            \n\n        \n        \n\n\n        \n        2.\n        ServerStatus\n        42522\n        \n            \n            \n        \n        \nStar 2.2k\n                 Watch 44\n                 Fork 725\n                \n                    中文\n                \n            \n        \n\n        \n        \n\n\n        \n        3.\n        sioyek\n        44818\n        \n            \n            \n        \n        \nStar 2.6k\n                 Watch 22\n                 Fork 75\n                \n            \n        \n\n        \n        \n\n\n        \n        4.\n        open-gpu-kernel-…",
+          "link": "https://hellogithub.com/periodical/volume/74/",
+          "publishedOn": "2022-06-24T12:48:44.560Z",
+          "wordCount": 1104,
+          "title": "第74期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/periodical/volume/73/",
+          "author": null,
+          "description": "C 项目\n\n\n        \n        1.\n        warpd\n        36906\n        \n            \n            \n        \n        \nStar 959\n                 Watch 9\n                 Fork 37\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        uthash\n        35883\n        \n            \n            \n        \n        \nStar 3.0k\n                 Watch 131\n                 Fork 759\n                \n            \n        \n#include \"uthash.h\"\n\nstruct my_struct {\n    int id;            /* we'll use this field as the key */\n    char name[10];\n    UT_hash_handle hh; /* makes this structure hashable */\n};\n\nstruct my_struct *users = NULL;\n\nvoid add_user(struct my_struct *s) {\n    HASH_ADD_INT( users, id, s );\n}\n\n\n    \n        \n            \n\n        \n        3.\n        lvgl\n        4457\n    …",
+          "link": "https://hellogithub.com/periodical/volume/73/",
+          "publishedOn": "2022-06-24T12:48:44.414Z",
+          "wordCount": 1117,
+          "title": "第73期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/periodical/volume/69/",
+          "author": null,
+          "description": "C 项目\n\n\n        \n        1.\n        quadsort\n        17609\n        \n            \n            \n        \n        \nStar 1.8k\n                 Watch 38\n                 Fork 89\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        mpv\n        4575\n        \n            \n            \n        \n        \nStar 19.1k\n                 Watch 479\n                 Fork 2.3k\n                \n            \n        \n\n        \n        \n\n\n        \n        3.\n        minilisp\n        21411\n        \n            \n            \n        \n        \nStar 1.2k\n                 Watch 30\n                 Fork 161\n                \n            \n        \n(println 3)  ; prints \"3\"\n(+ 1 2 3)  ; -> 6\n(define a (+ 1 2))\n(+ a a)  ; -> 6\n\n\n    \n\nC# 项目\n\n\n        \n        4.\n        jynew\n        404…",
+          "link": "https://hellogithub.com/periodical/volume/69/",
+          "publishedOn": "2022-06-24T12:48:44.310Z",
+          "wordCount": 1127,
+          "title": "第69期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/periodical/volume/67/",
+          "author": null,
+          "description": "C 项目\n\n\n        \n        1.\n        bytehound\n        12900\n        \n            \n            \n        \n        \nStar 2.8k\n                 Watch 44\n                 Fork 110\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        nnn\n        4532\n        \n            \n            \n        \n        \nStar 14.3k\n                 Watch 123\n                 Fork 589\n                \n            \n        \n\n        \n        \nC# 项目\n\n\n        \n        3.\n        ShareX\n        7612\n        \n            \n            \n        \n        \nStar 20.1k\n                 Watch 512\n                 Fork 2.6k\n                \n            \n        \n\n        \n        \nC++ 项目\n\n\n        \n        4.\n        NanaZip\n        17380\n        \n            \n            \n        \n        \nSt…",
+          "link": "https://hellogithub.com/periodical/volume/67/",
+          "publishedOn": "2022-06-24T12:48:44.191Z",
+          "wordCount": 927,
+          "title": "第67期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/periodical/volume/68/",
+          "author": null,
+          "description": "C 项目\n\n\n        \n        1.\n        WindTerm\n        8016\n        \n            \n            \n        \n        \nStar 5.2k\n                 Watch 71\n                 Fork 376\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        toybox\n        15406\n        \n            \n            \n        \n        \nStar 1.7k\n                 Watch 80\n                 Fork 256\n                \n            \n        \n\n\n        \n        3.\n        the_silver_searcher\n        8517\n        \n            \n            \n        \n        \nStar 23.8k\n                 Watch 427\n                 Fork 1.3k\n                \n            \n        \nack test_blah ~/code(8G)/  104.66s user 4.82s system 99% cpu 1:50.03 total\nag test_blah ~/code(8G)/  4.67s user 4.58s system 286% cpu 3.227 total…",
+          "link": "https://hellogithub.com/periodical/volume/68/",
+          "publishedOn": "2022-06-24T12:48:44.099Z",
+          "wordCount": 1002,
+          "title": "第68期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/periodical/volume/71/",
+          "author": null,
+          "description": "C 项目\n\n\n        \n        1.\n        h2o\n        28920\n        \n            \n            \n        \n        \nStar 10.0k\n                 Watch 388\n                 Fork 804\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        chibicc\n        21821\n        \n            \n            \n        \n        \nStar 5.3k\n                 Watch 143\n                 Fork 489\n                \n            \n        \n第一个提交开始学习\n\n        \n        \nC# 项目\n\n\n        \n        3.\n        CliWrap\n        25090\n        \n            \n            \n        \n        \nStar 1.9k\n                 Watch 39\n                 Fork 150\n                \n            \n        \nusing CliWrap;\n\nvar result = await Cli.Wrap(\"path/to/exe\")\n    .WithArguments(\"--foo bar\")\n    .WithWorkingDirectory(\"work/d…",
+          "link": "https://hellogithub.com/periodical/volume/71/",
+          "publishedOn": "2022-06-24T12:48:43.979Z",
+          "wordCount": 1055,
+          "title": "第71期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/periodical/volume/70/",
+          "author": null,
+          "description": "C 项目\n\n\n        \n        1.\n        daytripper\n        7540\n        \n            \n            \n        \n        \nStar 3.4k\n                 Watch 67\n                 Fork 159\n                \n            \n        \n\n        \n        \n\n\n        \n        2.\n        tinyssh\n        26903\n        \n            \n            \n        \n        \nStar 836\n                 Watch 40\n                 Fork 60\n                \n            \n        \nC# 项目\n\n\n        \n        3.\n        LiveCharts2\n        1896\n        \n            \n            \n        \n        \nStar 1.8k\n                 Watch 49\n                 Fork 249\n                \n            \n        \n\n        \n        \n\n\n        \n        4.\n        PowerRemoteDesktop\n        28493\n        \n            \n            \n        \n        \nStar 1.6k\n    …",
+          "link": "https://hellogithub.com/periodical/volume/70/",
+          "publishedOn": "2022-06-24T12:48:43.895Z",
+          "wordCount": 1049,
+          "title": "第70期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/periodical/volume/66/",
+          "author": null,
+          "description": "C 项目\n\n\n        \n        1.\n        HEX-LINK\n        2156\n        \n            \n            \n        \n        \nStar 215\n                 Watch 6\n                 Fork 27\n                \n                    中文\n                \n            \n        \n.\n├─firmware # 软件（根据自己使用的工具选择如下一种工程即可）\n│  ├─ArduinoIDE_Proj # Arduino IDE版工程 \n│  │  ├─Additional_Libraries # 里面的文件夹需要复制到Arduino IDE安装目录下的libraries文件夹\n│  │  ├─Hex_Link_Leonardo # 需要下载至接收端的程序\n│  │  └─Hex_Link_Nano # 需要下载至发送端的程序\n│  ├─Bootloaders # 需要下载至芯片的arduino bootloader \n│  └─Vscode_PlatformIO_Proj # VScode PlatformIO版工程 \n│      ├─Hex_Link_Leonardo # 需要下载至接收端的程序\n│      └─Hex_Link_Nano # 需要下载至发送端的程序\n├─hardware # 硬件（PCB工程）\n│  ├─BOM   # PCB的物料清单，包含参考的购买链接（链接仅作参考，在其他任何店铺购买相同型号即可）\n│  ├─Hex_Link_Rec # 接收端PCB工程\n│  ├─Hex_Link_Trans # 发送端PCB工程\n│  └─Nano_…",
+          "link": "https://hellogithub.com/periodical/volume/66/",
+          "publishedOn": "2022-06-24T12:48:43.749Z",
+          "wordCount": 1059,
+          "title": "第66期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/periodical/volume/65/",
+          "author": null,
+          "description": "C 项目\n\n\n        \n        1.\n        cpufetch\n        7501\n        \n            \n            \n        \n        \nStar 1.5k\n                 Watch 24\n                 Fork 84\n                \n            \n        \n\n        \n        \nC# 项目\n\n\n        \n        2.\n        AduSkin\n        2976\n        \n            \n            \n        \n        \nStar 1.4k\n                 Watch 42\n                 Fork 292\n                \n                    中文\n                \n            \n        \n\n        \n        \nC++ 项目\n\n\n        \n        3.\n        simdjson\n        4552\n        \n            \n            \n        \n        \nStar 15.8k\n                 Watch 231\n                 Fork 846\n                \n            \n        \n\n        \n        \n\n\n        \n        4.\n        filament\n        6104\n        \n      …",
+          "link": "https://hellogithub.com/periodical/volume/65/",
+          "publishedOn": "2022-06-24T12:48:43.713Z",
+          "wordCount": 1021,
+          "title": "第65期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hellogithub.com/periodical/volume/64/",
+          "author": null,
+          "description": "C 项目\n\n\n        \n        1.\n        X-TRACK\n        6301\n        \n            \n            \n        \n        \nStar 3.5k\n                 Watch 71\n                 Fork 864\n                \n                    中文\n                \n            \n        \n在线观看\n\n        \n            \n\n        \n        \nC# 项目\n\n\n        \n        2.\n        ToastFish\n        4030\n        \n            \n            \n        \n        \nStar 1.6k\n                 Watch 8\n                 Fork 188\n                \n                    中文\n                \n            \n        \n\n        \n        \n\n\n        \n        3.\n        XboxDownload\n        2818\n        \n            \n            \n        \n        \nStar 636\n                 Watch 5\n                 Fork 69\n                \n                    中文\n                \n       …",
+          "link": "https://hellogithub.com/periodical/volume/64/",
+          "publishedOn": "2022-06-24T12:48:43.593Z",
+          "wordCount": 1134,
+          "title": "第64期",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
