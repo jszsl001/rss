@@ -1,15 +1,556 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-24T12:56:45.526Z</id>
+    <id>urn:2022-06-24T13:15:44.864Z</id>
     <title>osmos::feed</title>
-    <updated>2022-06-24T12:56:45.526Z</updated>
+    <updated>2022-06-24T13:15:44.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[luolongfei / freenom]]></title>
+        <id>https://github.com/luolongfei/freenom</id>
+        <link href="https://github.com/luolongfei/freenom"/>
+        <updated>2022-06-24T13:15:44.840Z</updated>
+        <summary type="html"><![CDATA[Freenom 域名自动续期。Freenom domain name renews automatically.
+    
+Language: PHP
+                            
+Star: 1,389
+                            
+Fork: 1,260]]></summary>
+        <author>
+            <name>luolongfei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[c0ny1 / upload-labs]]></title>
+        <id>https://github.com/c0ny1/upload-labs</id>
+        <link href="https://github.com/c0ny1/upload-labs"/>
+        <updated>2022-06-24T13:15:44.782Z</updated>
+        <summary type="html"><![CDATA[一个想帮你总结所有类型的上传漏洞的靶场
+    
+Language: PHP
+                            
+Star: 2,831
+                            
+Fork: 741]]></summary>
+        <author>
+            <name>c0ny1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mochat-cloud / mochat]]></title>
+        <id>https://github.com/mochat-cloud/mochat</id>
+        <link href="https://github.com/mochat-cloud/mochat"/>
+        <updated>2022-06-24T13:15:44.754Z</updated>
+        <summary type="html"><![CDATA[基于企业微信的开源SCRM应用开发框架&引擎，也是一套通用的企业私域流量管理系统!
+    
+Language: PHP
+                            
+Star: 1,692
+                            
+Fork: 388]]></summary>
+        <author>
+            <name>mochat-cloud</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MoeNetwork / Tieba-Cloud-Sign]]></title>
+        <id>https://github.com/MoeNetwork/Tieba-Cloud-Sign</id>
+        <link href="https://github.com/MoeNetwork/Tieba-Cloud-Sign"/>
+        <updated>2022-06-24T13:15:44.726Z</updated>
+        <summary type="html"><![CDATA[百度贴吧云签到，在服务器上配置好就无需进行任何操作便可以实现贴吧的全自动签到。配合插件使用还可实现云灌水、点赞、封禁、删帖、审查等功能。注意：Gitee (原Git@osc) 仓库将不再维护，目前唯一指定的仓库为 Github。本项目没有官方交流群，如需交流可以直接使用Github的Discussions。没有商业版本，目前贴吧云签到由社区共同维护，不会停止更新（PR 通常在一天内处理）。
+    
+Language: PHP
+                            
+Star: 1,429
+                            
+Fork: 388]]></summary>
+        <author>
+            <name>MoeNetwork</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Licoy / wordpress-theme-puock]]></title>
+        <id>https://github.com/Licoy/wordpress-theme-puock</id>
+        <link href="https://github.com/Licoy/wordpress-theme-puock"/>
+        <updated>2022-06-24T13:15:44.708Z</updated>
+        <summary type="html"><![CDATA[🎨 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式、无刷新加载等 | A high-value adaptive theme based on WordPress, supports day and night modes, no refresh loading, etc.
+    
+Language: PHP
+                            
+Star: 842
+                            
+Fork: 163]]></summary>
+        <author>
+            <name>Licoy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[magicblack / maccms10]]></title>
+        <id>https://github.com/magicblack/maccms10</id>
+        <link href="https://github.com/magicblack/maccms10"/>
+        <updated>2022-06-24T13:15:44.665Z</updated>
+        <summary type="html"><![CDATA[苹果cms官网,苹果cmsv10,maccmsv10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序
+    
+Language: PHP
+                            
+Star: 1,282
+                            
+Fork: 528]]></summary>
+        <author>
+            <name>magicblack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StarCrossPortal / QingTing]]></title>
+        <id>https://github.com/StarCrossPortal/QingTing</id>
+        <link href="https://github.com/StarCrossPortal/QingTing"/>
+        <updated>2022-06-24T13:15:44.636Z</updated>
+        <summary type="html"><![CDATA[蜻蜓安全一个安全工具编排平台,可以自由编排你的工具流,集成108款工具,包括xray、nmap、awvs等;你可以将喜欢的工具编排成一个场景，快速打造适合自己的安全工作台~
+    
+Language: PHP
+                            
+Star: 205
+                            
+Fork: 13]]></summary>
+        <author>
+            <name>StarCrossPortal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[assimon / dujiaoka]]></title>
+        <id>https://github.com/assimon/dujiaoka</id>
+        <link href="https://github.com/assimon/dujiaoka"/>
+        <updated>2022-06-24T13:15:44.540Z</updated>
+        <summary type="html"><![CDATA[🦄独角数卡(自动售货系统)-开源式站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
+
+    
+Language: PHP
+                            
+Star: 2,755
+                            
+Fork: 940]]></summary>
+        <author>
+            <name>assimon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hlmd / Postman-cn]]></title>
+        <id>https://github.com/hlmd/Postman-cn</id>
+        <link href="https://github.com/hlmd/Postman-cn"/>
+        <updated>2022-06-24T13:15:44.511Z</updated>
+        <summary type="html"><![CDATA[Postman汉化中文版
+    
+Language: PHP
+                            
+Star: 4,015
+                            
+Fork: 492]]></summary>
+        <author>
+            <name>hlmd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tai7sy / card-system]]></title>
+        <id>https://github.com/Tai7sy/card-system</id>
+        <link href="https://github.com/Tai7sy/card-system"/>
+        <updated>2022-06-24T13:15:44.488Z</updated>
+        <summary type="html"><![CDATA[卡密商城系统，高效安全的在线卡密商城
+    
+Language: PHP
+                            
+Star: 2,054
+                            
+Fork: 851]]></summary>
+        <author>
+            <name>Tai7sy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PGYER / codefever]]></title>
+        <id>https://github.com/PGYER/codefever</id>
+        <link href="https://github.com/PGYER/codefever"/>
+        <updated>2022-06-24T13:15:44.471Z</updated>
+        <summary type="html"><![CDATA[CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
+    
+Language: PHP
+                            
+Star: 2,096
+                            
+Fork: 215]]></summary>
+        <author>
+            <name>PGYER</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mirai-mamori / Sakurairo]]></title>
+        <id>https://github.com/mirai-mamori/Sakurairo</id>
+        <link href="https://github.com/mirai-mamori/Sakurairo"/>
+        <updated>2022-06-24T13:15:44.444Z</updated>
+        <summary type="html"><![CDATA[一个多彩，轻松上手，体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura)
+    
+Language: PHP
+                            
+Star: 1,290
+                            
+Fork: 223]]></summary>
+        <author>
+            <name>mirai-mamori</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[szvone / vmqphp]]></title>
+        <id>https://github.com/szvone/vmqphp</id>
+        <link href="https://github.com/szvone/vmqphp"/>
+        <updated>2022-06-24T13:15:44.415Z</updated>
+        <summary type="html"><![CDATA[V免签PHP版 完全开源免费的个人免签约解决方案
+    
+Language: PHP
+                            
+Star: 918
+                            
+Fork: 461]]></summary>
+        <author>
+            <name>szvone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fghrsh / live2d_api]]></title>
+        <id>https://github.com/fghrsh/live2d_api</id>
+        <link href="https://github.com/fghrsh/live2d_api"/>
+        <updated>2022-06-24T13:15:44.385Z</updated>
+        <summary type="html"><![CDATA[Live2D 看板娘插件 (https://www.fghrsh.net/post/123.html) 上使用的后端 API
+    
+Language: PHP
+                            
+Star: 873
+                            
+Fork: 388]]></summary>
+        <author>
+            <name>fghrsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tennc / webshell]]></title>
+        <id>https://github.com/tennc/webshell</id>
+        <link href="https://github.com/tennc/webshell"/>
+        <updated>2022-06-24T13:15:44.361Z</updated>
+        <summary type="html"><![CDATA[This is a webshell open source project
+    
+Language: PHP
+                            
+Star: 8,113
+                            
+Fork: 5,297]]></summary>
+        <author>
+            <name>tennc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[easychen / howto-make-more-money]]></title>
+        <id>https://github.com/easychen/howto-make-more-money</id>
+        <link href="https://github.com/easychen/howto-make-more-money"/>
+        <updated>2022-06-24T13:15:44.330Z</updated>
+        <summary type="html"><![CDATA[程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+    
+Language: PHP
+                            
+Star: 15,338
+                            
+Fork: 1,633]]></summary>
+        <author>
+            <name>easychen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jqhph / dcat-admin]]></title>
+        <id>https://github.com/jqhph/dcat-admin</id>
+        <link href="https://github.com/jqhph/dcat-admin"/>
+        <updated>2022-06-24T13:15:44.303Z</updated>
+        <summary type="html"><![CDATA[🔥 基于 Laravel 的后台系统构建工具 (Laravel Admin)，使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码
+    
+Language: PHP
+                            
+Star: 3,035
+                            
+Fork: 510]]></summary>
+        <author>
+            <name>jqhph</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GBoxApp / GBoxSource]]></title>
+        <id>https://github.com/GBoxApp/GBoxSource</id>
+        <link href="https://github.com/GBoxApp/GBoxSource"/>
+        <updated>2022-06-24T13:15:44.283Z</updated>
+        <summary type="html"><![CDATA[Language: PHP
+                            
+Star: 67
+                            
+Fork: 17]]></summary>
+        <author>
+            <name>GBoxApp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wususu / effective-resourses]]></title>
+        <id>https://github.com/wususu/effective-resourses</id>
+        <link href="https://github.com/wususu/effective-resourses"/>
+        <updated>2022-06-24T13:15:44.252Z</updated>
+        <summary type="html"><![CDATA[📖学习资源整合
+    
+Language: PHP
+                            
+Star: 2,014
+                            
+Fork: 789]]></summary>
+        <author>
+            <name>wususu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3masterplus / book]]></title>
+        <id>https://github.com/3masterplus/book</id>
+        <link href="https://github.com/3masterplus/book"/>
+        <updated>2022-06-24T13:15:44.221Z</updated>
+        <summary type="html"><![CDATA[Book PDF
+    
+Language: PHP
+                            
+Star: 1,005
+                            
+Fork: 466]]></summary>
+        <author>
+            <name>3masterplus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[top-think / framework]]></title>
+        <id>https://github.com/top-think/framework</id>
+        <link href="https://github.com/top-think/framework"/>
+        <updated>2022-06-24T13:15:44.190Z</updated>
+        <summary type="html"><![CDATA[ThinkPHP Framework
+    
+Language: PHP
+                            
+Star: 2,464
+                            
+Fork: 1,012]]></summary>
+        <author>
+            <name>top-think</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wechatpay-apiv3 / wechatpay-php]]></title>
+        <id>https://github.com/wechatpay-apiv3/wechatpay-php</id>
+        <link href="https://github.com/wechatpay-apiv3/wechatpay-php"/>
+        <updated>2022-06-24T13:15:44.165Z</updated>
+        <summary type="html"><![CDATA[微信支付 API v3 的 PHP Library，同时也支持 API v2
+    
+Language: PHP
+                            
+Star: 173
+                            
+Fork: 51]]></summary>
+        <author>
+            <name>wechatpay-apiv3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[w7corp / easywechat]]></title>
+        <id>https://github.com/w7corp/easywechat</id>
+        <link href="https://github.com/w7corp/easywechat"/>
+        <updated>2022-06-24T13:15:44.128Z</updated>
+        <summary type="html"><![CDATA[📦 一个 PHP 微信 SDK
+    
+Language: PHP
+                            
+Star: 9,857
+                            
+Fork: 2,395]]></summary>
+        <author>
+            <name>w7corp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zhuifengshaonianhanlu / pikachu]]></title>
+        <id>https://github.com/zhuifengshaonianhanlu/pikachu</id>
+        <link href="https://github.com/zhuifengshaonianhanlu/pikachu"/>
+        <updated>2022-06-24T13:15:44.102Z</updated>
+        <summary type="html"><![CDATA[一个好玩的Web安全-漏洞测试平台
+    
+Language: PHP
+                            
+Star: 2,180
+                            
+Fork: 553]]></summary>
+        <author>
+            <name>zhuifengshaonianhanlu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3masterplus / book]]></title>
+        <id>https://github.com/3masterplus/book</id>
+        <link href="https://github.com/3masterplus/book"/>
+        <updated>2022-06-24T13:15:43.960Z</updated>
+        <summary type="html"><![CDATA[Book PDF
+    
+Language: PHP
+                            
+Star: 1,005
+                            
+Fork: 466]]></summary>
+        <author>
+            <name>3masterplus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[helloqingfeng / Awsome-Front-End-learning-resource]]></title>
+        <id>https://github.com/helloqingfeng/Awsome-Front-End-learning-resource</id>
+        <link href="https://github.com/helloqingfeng/Awsome-Front-End-learning-resource"/>
+        <updated>2022-06-24T13:15:43.897Z</updated>
+        <summary type="html"><![CDATA[GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）
+    
+Language: PHP
+                            
+Star: 8,194
+                            
+Fork: 1,815]]></summary>
+        <author>
+            <name>helloqingfeng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tinyphporg / tinyphp-framework]]></title>
+        <id>https://github.com/tinyphporg/tinyphp-framework</id>
+        <link href="https://github.com/tinyphporg/tinyphp-framework"/>
+        <updated>2022-06-24T13:15:43.864Z</updated>
+        <summary type="html"><![CDATA[A lightweight PHP MVC framework. Version:2.0
+    
+Language: PHP
+                            
+Star: 44
+                            
+Fork: 9]]></summary>
+        <author>
+            <name>tinyphporg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fghrsh / live2d_api]]></title>
+        <id>https://github.com/fghrsh/live2d_api</id>
+        <link href="https://github.com/fghrsh/live2d_api"/>
+        <updated>2022-06-24T13:15:43.828Z</updated>
+        <summary type="html"><![CDATA[Live2D 看板娘插件 (https://www.fghrsh.net/post/123.html) 上使用的后端 API
+    
+Language: PHP
+                            
+Star: 873
+                            
+Fork: 388]]></summary>
+        <author>
+            <name>fghrsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yuantuo666 / baiduwp-php]]></title>
+        <id>https://github.com/yuantuo666/baiduwp-php</id>
+        <link href="https://github.com/yuantuo666/baiduwp-php"/>
+        <updated>2022-06-24T13:15:43.812Z</updated>
+        <summary type="html"><![CDATA[PanDownload网页复刻版
+    
+Language: PHP
+                            
+Star: 2,846
+                            
+Fork: 943]]></summary>
+        <author>
+            <name>yuantuo666</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wususu / effective-resourses]]></title>
+        <id>https://github.com/wususu/effective-resourses</id>
+        <link href="https://github.com/wususu/effective-resourses"/>
+        <updated>2022-06-24T13:15:43.785Z</updated>
+        <summary type="html"><![CDATA[📖学习资源整合
+    
+Language: PHP
+                            
+Star: 2,014
+                            
+Fork: 789]]></summary>
+        <author>
+            <name>wususu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[szvone / vmqphp]]></title>
+        <id>https://github.com/szvone/vmqphp</id>
+        <link href="https://github.com/szvone/vmqphp"/>
+        <updated>2022-06-24T13:15:43.761Z</updated>
+        <summary type="html"><![CDATA[V免签PHP版 完全开源免费的个人免签约解决方案
+    
+Language: PHP
+                            
+Star: 918
+                            
+Fork: 461]]></summary>
+        <author>
+            <name>szvone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZainCheung / netease-cloud-api]]></title>
+        <id>https://github.com/ZainCheung/netease-cloud-api</id>
+        <link href="https://github.com/ZainCheung/netease-cloud-api"/>
+        <updated>2022-06-24T13:15:43.735Z</updated>
+        <summary type="html"><![CDATA[网易云音乐升级API
+    
+Language: PHP
+                            
+Star: 1,166
+                            
+Fork: 3,343]]></summary>
+        <author>
+            <name>ZainCheung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BadApple9 / speedtest-x]]></title>
+        <id>https://github.com/BadApple9/speedtest-x</id>
+        <link href="https://github.com/BadApple9/speedtest-x"/>
+        <updated>2022-06-24T13:15:43.713Z</updated>
+        <summary type="html"><![CDATA[A self-hosted speedtest appilication with clear test results.
+    
+Language: PHP
+                            
+Star: 1,219
+                            
+Fork: 348]]></summary>
+        <author>
+            <name>BadApple9</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GBoxApp / GBoxSource]]></title>
+        <id>https://github.com/GBoxApp/GBoxSource</id>
+        <link href="https://github.com/GBoxApp/GBoxSource"/>
+        <updated>2022-06-24T13:15:43.696Z</updated>
+        <summary type="html"><![CDATA[Language: PHP
+                            
+Star: 67
+                            
+Fork: 17]]></summary>
+        <author>
+            <name>GBoxApp</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年05月编程语言排行榜]]></title>
         <id>https://hellogithub.com/report/tiobe</id>
         <link href="https://hellogithub.com/report/tiobe"/>
-        <updated>2022-06-24T12:56:45.502Z</updated>
+        <updated>2022-06-24T13:15:43.606Z</updated>
         <summary type="html"><![CDATA[May Headline: C# gains most ranking points
 If we compare the current TIOBE index rankings to 1 year ago (May 2021), C# is gaining most popular of all programming languages by far. Its rankings has increased almost 2% for the last 12 months. C# is one of the most mature programming languages in existence, supporting many modern programming paradigms. Until recently, its only disadvantage was that its Linux support was questionable, but this is changing rapidly the last couple of years. So chances are high that C# might enter the TIOBE index top 3 by replacing C. Another serious contender for this top 3 position is C++. Its long term trend, boosted by C++20, is definitely upward. --
 
@@ -26,222 +567,270 @@ If we compare the current TIOBE index rankings to 1 year ago (May 2021), C# is g
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[第74期]]></title>
-        <id>https://hellogithub.com/periodical/volume/74/</id>
-        <link href="https://hellogithub.com/periodical/volume/74/"/>
-        <updated>2022-06-24T12:56:45.101Z</updated>
+        <title type="html"><![CDATA[Tai7sy / card-system]]></title>
+        <id>https://github.com/Tai7sy/card-system</id>
+        <link href="https://github.com/Tai7sy/card-system"/>
+        <updated>2022-06-24T13:15:43.576Z</updated>
+        <summary type="html"><![CDATA[卡密商城系统，高效安全的在线卡密商城
+    
+Language: PHP
+                            
+Star: 2,054
+                            
+Fork: 851]]></summary>
+        <author>
+            <name>Tai7sy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[w7corp / easywechat]]></title>
+        <id>https://github.com/w7corp/easywechat</id>
+        <link href="https://github.com/w7corp/easywechat"/>
+        <updated>2022-06-24T13:15:43.543Z</updated>
+        <summary type="html"><![CDATA[📦 一个 PHP 微信 SDK
+    
+Language: PHP
+                            
+Star: 9,857
+                            
+Fork: 2,395]]></summary>
+        <author>
+            <name>w7corp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WanyueKJ / Education-online]]></title>
+        <id>https://github.com/WanyueKJ/Education-online</id>
+        <link href="https://github.com/WanyueKJ/Education-online"/>
+        <updated>2022-06-24T13:15:43.526Z</updated>
+        <summary type="html"><![CDATA[万岳在线教育系统(online education)，自主研发集知识付费、直播授课、在线教学功能为一体的在线/直播/网络/题库/考试(exam)/刷题/线下活动(教育平台系统软件
+    
+Language: PHP
+                            
+Star: 106
+                            
+Fork: 46]]></summary>
+        <author>
+            <name>WanyueKJ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gongfuxiang / shopxo]]></title>
+        <id>https://github.com/gongfuxiang/shopxo</id>
+        <link href="https://github.com/gongfuxiang/shopxo"/>
+        <updated>2022-06-24T13:15:43.498Z</updated>
+        <summary type="html"><![CDATA[ShopXO企业级免费开源商城系统，可视化DIY拖拽装修、包含PC、H5、多端小程序(微信+支付宝+百度+头条&抖音+QQ)、APP、多仓库、多商户，遵循MIT开源协议发布、基于ThinkPHP6框架研发
+    
+Language: PHP
+                            
+Star: 1,950
+                            
+Fork: 648]]></summary>
+        <author>
+            <name>gongfuxiang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[assimon / dujiaoka]]></title>
+        <id>https://github.com/assimon/dujiaoka</id>
+        <link href="https://github.com/assimon/dujiaoka"/>
+        <updated>2022-06-24T13:15:43.440Z</updated>
+        <summary type="html"><![CDATA[🦄独角数卡(自动售货系统)-开源式站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
+
+    
+Language: PHP
+                            
+Star: 2,755
+                            
+Fork: 940]]></summary>
+        <author>
+            <name>assimon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jqhph / dcat-admin]]></title>
+        <id>https://github.com/jqhph/dcat-admin</id>
+        <link href="https://github.com/jqhph/dcat-admin"/>
+        <updated>2022-06-24T13:15:43.409Z</updated>
+        <summary type="html"><![CDATA[🔥 基于 Laravel 的后台系统构建工具 (Laravel Admin)，使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码
+    
+Language: PHP
+                            
+Star: 3,035
+                            
+Fork: 510]]></summary>
+        <author>
+            <name>jqhph</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[solstice23 / argon-theme]]></title>
+        <id>https://github.com/solstice23/argon-theme</id>
+        <link href="https://github.com/solstice23/argon-theme"/>
+        <updated>2022-06-24T13:15:43.378Z</updated>
+        <summary type="html"><![CDATA[📖 Argon - 一个轻盈、简洁的 WordPress 主题
+    
+Language: PHP
+                            
+Star: 2,510
+                            
+Fork: 361]]></summary>
+        <author>
+            <name>solstice23</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zhuifengshaonianhanlu / pikachu]]></title>
+        <id>https://github.com/zhuifengshaonianhanlu/pikachu</id>
+        <link href="https://github.com/zhuifengshaonianhanlu/pikachu"/>
+        <updated>2022-06-24T13:15:43.317Z</updated>
+        <summary type="html"><![CDATA[一个好玩的Web安全-漏洞测试平台
+    
+Language: PHP
+                            
+Star: 2,180
+                            
+Fork: 553]]></summary>
+        <author>
+            <name>zhuifengshaonianhanlu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tennc / webshell]]></title>
+        <id>https://github.com/tennc/webshell</id>
+        <link href="https://github.com/tennc/webshell"/>
+        <updated>2022-06-24T13:15:43.293Z</updated>
+        <summary type="html"><![CDATA[This is a webshell open source project
+    
+Language: PHP
+                            
+Star: 8,113
+                            
+Fork: 5,297]]></summary>
+        <author>
+            <name>tennc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wechatpay-apiv3 / wechatpay-php]]></title>
+        <id>https://github.com/wechatpay-apiv3/wechatpay-php</id>
+        <link href="https://github.com/wechatpay-apiv3/wechatpay-php"/>
+        <updated>2022-06-24T13:15:43.264Z</updated>
+        <summary type="html"><![CDATA[微信支付 API v3 的 PHP Library，同时也支持 API v2
+    
+Language: PHP
+                            
+Star: 173
+                            
+Fork: 51]]></summary>
+        <author>
+            <name>wechatpay-apiv3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[easychen / howto-make-more-money]]></title>
+        <id>https://github.com/easychen/howto-make-more-money</id>
+        <link href="https://github.com/easychen/howto-make-more-money"/>
+        <updated>2022-06-24T13:15:43.227Z</updated>
+        <summary type="html"><![CDATA[程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+    
+Language: PHP
+                            
+Star: 15,338
+                            
+Fork: 1,633]]></summary>
+        <author>
+            <name>easychen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[top-think / framework]]></title>
+        <id>https://github.com/top-think/framework</id>
+        <link href="https://github.com/top-think/framework"/>
+        <updated>2022-06-24T13:15:43.202Z</updated>
+        <summary type="html"><![CDATA[ThinkPHP Framework
+    
+Language: PHP
+                            
+Star: 2,464
+                            
+Fork: 1,012]]></summary>
+        <author>
+            <name>top-think</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hlmd / Postman-cn]]></title>
+        <id>https://github.com/hlmd/Postman-cn</id>
+        <link href="https://github.com/hlmd/Postman-cn"/>
+        <updated>2022-06-24T13:15:43.184Z</updated>
+        <summary type="html"><![CDATA[Postman汉化中文版
+    
+Language: PHP
+                            
+Star: 4,015
+                            
+Fork: 492]]></summary>
+        <author>
+            <name>hlmd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tinyphporg / tinyphp]]></title>
+        <id>https://github.com/tinyphporg/tinyphp</id>
+        <link href="https://github.com/tinyphporg/tinyphp"/>
+        <updated>2022-06-24T13:15:43.160Z</updated>
+        <summary type="html"><![CDATA[A lightweight PHP MVC framework for Full Stack Developer
+    
+Language: PHP
+                            
+Star: 104
+                            
+Fork: 19]]></summary>
+        <author>
+            <name>tinyphporg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第66期]]></title>
+        <id>https://hellogithub.com/periodical/volume/66/</id>
+        <link href="https://hellogithub.com/periodical/volume/66/"/>
+        <updated>2022-06-24T13:15:42.977Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
         
         1.
-        FreeRDP
-        43476
+        HEX-LINK
+        2156
         
             
             
         
         
-Star 7.0k
-                 Watch 370
-                 Fork 17.1k
-                
-            
-        
-下载地址
-
-        
-            
-
-        
-        
-
-
-        
-        2.
-        ServerStatus
-        42522
-        
-            
-            
-        
-        
-Star 2.2k
-                 Watch 44
-                 Fork 725
+Star 215
+                 Watch 6
+                 Fork 27
                 
                     中文
                 
             
         
-
-        
-        
-
-
-        
-        3.
-        sioyek
-        44818
-        
-            
-            
-        
-        
-Star 2.6k
-                 Watch 22
-                 Fork 75
-                
-            
-        
-
-        
-        
-
-
-        
-        4.
-        open-gpu-kernel-…]]></summary>
-        <author>
-            <name>HelloGitHub - Article</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第71期]]></title>
-        <id>https://hellogithub.com/periodical/volume/71/</id>
-        <link href="https://hellogithub.com/periodical/volume/71/"/>
-        <updated>2022-06-24T12:56:45.041Z</updated>
-        <summary type="html"><![CDATA[C 项目
-
-
-        
-        1.
-        h2o
-        28920
-        
-            
-            
-        
-        
-Star 10.0k
-                 Watch 388
-                 Fork 804
-                
-            
-        
-
-        
-        
-
-
-        
-        2.
-        chibicc
-        21821
-        
-            
-            
-        
-        
-Star 5.3k
-                 Watch 143
-                 Fork 489
-                
-            
-        
-第一个提交开始学习
-
-        
-        
-C# 项目
-
-
-        
-        3.
-        CliWrap
-        25090
-        
-            
-            
-        
-        
-Star 1.9k
-                 Watch 39
-                 Fork 150
-                
-            
-        
-using CliWrap;
-
-var result = await Cli.Wrap("path/to/exe")
-    .WithArguments("--foo bar")
-    .WithWorkingDirectory("work/d…]]></summary>
-        <author>
-            <name>HelloGitHub - Article</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第68期]]></title>
-        <id>https://hellogithub.com/periodical/volume/68/</id>
-        <link href="https://hellogithub.com/periodical/volume/68/"/>
-        <updated>2022-06-24T12:56:44.938Z</updated>
-        <summary type="html"><![CDATA[C 项目
-
-
-        
-        1.
-        WindTerm
-        8016
-        
-            
-            
-        
-        
-Star 5.2k
-                 Watch 71
-                 Fork 376
-                
-            
-        
-
-        
-        
-
-
-        
-        2.
-        toybox
-        15406
-        
-            
-            
-        
-        
-Star 1.7k
-                 Watch 80
-                 Fork 256
-                
-            
-        
-
-
-        
-        3.
-        the_silver_searcher
-        8517
-        
-            
-            
-        
-        
-Star 23.8k
-                 Watch 427
-                 Fork 1.3k
-                
-            
-        
-ack test_blah ~/code(8G)/  104.66s user 4.82s system 99% cpu 1:50.03 total
-ag test_blah ~/code(8G)/  4.67s user 4.58s system 286% cpu 3.227 total…]]></summary>
+.
+├─firmware # 软件（根据自己使用的工具选择如下一种工程即可）
+│  ├─ArduinoIDE_Proj # Arduino IDE版工程 
+│  │  ├─Additional_Libraries # 里面的文件夹需要复制到Arduino IDE安装目录下的libraries文件夹
+│  │  ├─Hex_Link_Leonardo # 需要下载至接收端的程序
+│  │  └─Hex_Link_Nano # 需要下载至发送端的程序
+│  ├─Bootloaders # 需要下载至芯片的arduino bootloader 
+│  └─Vscode_PlatformIO_Proj # VScode PlatformIO版工程 
+│      ├─Hex_Link_Leonardo # 需要下载至接收端的程序
+│      └─Hex_Link_Nano # 需要下载至发送端的程序
+├─hardware # 硬件（PCB工程）
+│  ├─BOM   # PCB的物料清单，包含参考的购买链接（链接仅作参考，在其他任何店铺购买相同型号即可）
+│  ├─Hex_Link_Rec # 接收端PCB工程
+│  ├─Hex_Link_Trans # 发送端PCB工程
+│  └─Nano_…]]></summary>
         <author>
             <name>HelloGitHub - Article</name>
         </author>
@@ -250,7 +839,7 @@ ag test_blah ~/code(8G)/  4.67s user 4.58s system 286% cpu 3.227 total…]]></su
         <title type="html"><![CDATA[第69期]]></title>
         <id>https://hellogithub.com/periodical/volume/69/</id>
         <link href="https://hellogithub.com/periodical/volume/69/"/>
-        <updated>2022-06-24T12:56:44.825Z</updated>
+        <updated>2022-06-24T13:15:42.948Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
@@ -329,10 +918,526 @@ C# 项目
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[第71期]]></title>
+        <id>https://hellogithub.com/periodical/volume/71/</id>
+        <link href="https://hellogithub.com/periodical/volume/71/"/>
+        <updated>2022-06-24T13:15:42.846Z</updated>
+        <summary type="html"><![CDATA[C 项目
+
+
+        
+        1.
+        h2o
+        28920
+        
+            
+            
+        
+        
+Star 10.0k
+                 Watch 388
+                 Fork 804
+                
+            
+        
+
+        
+        
+
+
+        
+        2.
+        chibicc
+        21821
+        
+            
+            
+        
+        
+Star 5.3k
+                 Watch 143
+                 Fork 489
+                
+            
+        
+第一个提交开始学习
+
+        
+        
+C# 项目
+
+
+        
+        3.
+        CliWrap
+        25090
+        
+            
+            
+        
+        
+Star 1.9k
+                 Watch 39
+                 Fork 150
+                
+            
+        
+using CliWrap;
+
+var result = await Cli.Wrap("path/to/exe")
+    .WithArguments("--foo bar")
+    .WithWorkingDirectory("work/d…]]></summary>
+        <author>
+            <name>HelloGitHub - Article</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第74期]]></title>
+        <id>https://hellogithub.com/periodical/volume/74/</id>
+        <link href="https://hellogithub.com/periodical/volume/74/"/>
+        <updated>2022-06-24T13:15:42.829Z</updated>
+        <summary type="html"><![CDATA[C 项目
+
+
+        
+        1.
+        FreeRDP
+        43476
+        
+            
+            
+        
+        
+Star 7.0k
+                 Watch 370
+                 Fork 17.1k
+                
+            
+        
+下载地址
+
+        
+            
+
+        
+        
+
+
+        
+        2.
+        ServerStatus
+        42522
+        
+            
+            
+        
+        
+Star 2.2k
+                 Watch 44
+                 Fork 725
+                
+                    中文
+                
+            
+        
+
+        
+        
+
+
+        
+        3.
+        sioyek
+        44818
+        
+            
+            
+        
+        
+Star 2.6k
+                 Watch 22
+                 Fork 75
+                
+            
+        
+
+        
+        
+
+
+        
+        4.
+        open-gpu-kernel-…]]></summary>
+        <author>
+            <name>HelloGitHub - Article</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第64期]]></title>
+        <id>https://hellogithub.com/periodical/volume/64/</id>
+        <link href="https://hellogithub.com/periodical/volume/64/"/>
+        <updated>2022-06-24T13:15:42.799Z</updated>
+        <summary type="html"><![CDATA[C 项目
+
+
+        
+        1.
+        X-TRACK
+        6301
+        
+            
+            
+        
+        
+Star 3.5k
+                 Watch 71
+                 Fork 864
+                
+                    中文
+                
+            
+        
+在线观看
+
+        
+            
+
+        
+        
+C# 项目
+
+
+        
+        2.
+        ToastFish
+        4030
+        
+            
+            
+        
+        
+Star 1.6k
+                 Watch 8
+                 Fork 188
+                
+                    中文
+                
+            
+        
+
+        
+        
+
+
+        
+        3.
+        XboxDownload
+        2818
+        
+            
+            
+        
+        
+Star 636
+                 Watch 5
+                 Fork 69
+                
+                    中文
+                
+       …]]></summary>
+        <author>
+            <name>HelloGitHub - Article</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第72期]]></title>
+        <id>https://hellogithub.com/periodical/volume/72/</id>
+        <link href="https://hellogithub.com/periodical/volume/72/"/>
+        <updated>2022-06-24T13:15:42.789Z</updated>
+        <summary type="html"><![CDATA[C 项目
+
+
+        
+        1.
+        reptyr
+        35427
+        
+            
+            
+        
+        
+Star 4.4k
+                 Watch 94
+                 Fork 191
+                
+            
+        
+
+        
+        
+
+
+        
+        2.
+        hashcat
+        7033
+        
+            
+            
+        
+        
+Star 14.8k
+                 Watch 467
+                 Fork 2.2k
+                
+            
+        
+安装：brew install hashcat
+常用参数：
+-a  指定破解模式：“-a 0”字典攻击，“-a 1” 组合攻击；“-a 3”掩码攻击
+-m  指定要破解的 hash 类型：默认为 MD5
+--force 忽略破解过程中的警告
+
+常用破解模式：
+0：Straight（字典破解）
+1：Combination（组合破解）
+3：Brute-force（掩码暴力破解）
+6：Hybrid Wordlist + Mask（字典+掩码破解）
+7：Hybrid Mask + Wordlist（掩码+字典破解）
+
+常用掩码设置：
+l：纯小写字母 abcdefghijklmnopqrstuvwxyz
+u：纯大写字母 ABCDEFGHIJKLMNOPQRSTUVWXYZ
+d：纯数字 0123456789
+
+举例：破解 8 位…]]></summary>
+        <author>
+            <name>HelloGitHub - Article</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第73期]]></title>
+        <id>https://hellogithub.com/periodical/volume/73/</id>
+        <link href="https://hellogithub.com/periodical/volume/73/"/>
+        <updated>2022-06-24T13:15:42.673Z</updated>
+        <summary type="html"><![CDATA[C 项目
+
+
+        
+        1.
+        warpd
+        36906
+        
+            
+            
+        
+        
+Star 959
+                 Watch 9
+                 Fork 37
+                
+            
+        
+
+        
+        
+
+
+        
+        2.
+        uthash
+        35883
+        
+            
+            
+        
+        
+Star 3.0k
+                 Watch 131
+                 Fork 759
+                
+            
+        
+#include "uthash.h"
+
+struct my_struct {
+    int id;            /* we'll use this field as the key */
+    char name[10];
+    UT_hash_handle hh; /* makes this structure hashable */
+};
+
+struct my_struct *users = NULL;
+
+void add_user(struct my_struct *s) {
+    HASH_ADD_INT( users, id, s );
+}
+
+
+    
+        
+            
+
+        
+        3.
+        lvgl
+        4457
+    …]]></summary>
+        <author>
+            <name>HelloGitHub - Article</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第68期]]></title>
+        <id>https://hellogithub.com/periodical/volume/68/</id>
+        <link href="https://hellogithub.com/periodical/volume/68/"/>
+        <updated>2022-06-24T13:15:42.517Z</updated>
+        <summary type="html"><![CDATA[C 项目
+
+
+        
+        1.
+        WindTerm
+        8016
+        
+            
+            
+        
+        
+Star 5.2k
+                 Watch 71
+                 Fork 376
+                
+            
+        
+
+        
+        
+
+
+        
+        2.
+        toybox
+        15406
+        
+            
+            
+        
+        
+Star 1.7k
+                 Watch 80
+                 Fork 256
+                
+            
+        
+
+
+        
+        3.
+        the_silver_searcher
+        8517
+        
+            
+            
+        
+        
+Star 23.8k
+                 Watch 427
+                 Fork 1.3k
+                
+            
+        
+ack test_blah ~/code(8G)/  104.66s user 4.82s system 99% cpu 1:50.03 total
+ag test_blah ~/code(8G)/  4.67s user 4.58s system 286% cpu 3.227 total…]]></summary>
+        <author>
+            <name>HelloGitHub - Article</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第70期]]></title>
+        <id>https://hellogithub.com/periodical/volume/70/</id>
+        <link href="https://hellogithub.com/periodical/volume/70/"/>
+        <updated>2022-06-24T13:15:42.500Z</updated>
+        <summary type="html"><![CDATA[C 项目
+
+
+        
+        1.
+        daytripper
+        7540
+        
+            
+            
+        
+        
+Star 3.4k
+                 Watch 67
+                 Fork 159
+                
+            
+        
+
+        
+        
+
+
+        
+        2.
+        tinyssh
+        26903
+        
+            
+            
+        
+        
+Star 836
+                 Watch 40
+                 Fork 60
+                
+            
+        
+C# 项目
+
+
+        
+        3.
+        LiveCharts2
+        1896
+        
+            
+            
+        
+        
+Star 1.8k
+                 Watch 49
+                 Fork 249
+                
+            
+        
+
+        
+        
+
+
+        
+        4.
+        PowerRemoteDesktop
+        28493
+        
+            
+            
+        
+        
+Star 1.6k
+    …]]></summary>
+        <author>
+            <name>HelloGitHub - Article</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[第67期]]></title>
         <id>https://hellogithub.com/periodical/volume/67/</id>
         <link href="https://hellogithub.com/periodical/volume/67/"/>
-        <updated>2022-06-24T12:56:44.736Z</updated>
+        <updated>2022-06-24T13:15:42.491Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
@@ -413,272 +1518,27 @@ St…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[第70期]]></title>
-        <id>https://hellogithub.com/periodical/volume/70/</id>
-        <link href="https://hellogithub.com/periodical/volume/70/"/>
-        <updated>2022-06-24T12:56:44.630Z</updated>
-        <summary type="html"><![CDATA[C 项目
-
-
-        
-        1.
-        daytripper
-        7540
-        
-            
-            
-        
-        
-Star 3.4k
-                 Watch 67
-                 Fork 159
-                
-            
-        
-
-        
-        
-
-
-        
-        2.
-        tinyssh
-        26903
-        
-            
-            
-        
-        
-Star 836
-                 Watch 40
-                 Fork 60
-                
-            
-        
-C# 项目
-
-
-        
-        3.
-        LiveCharts2
-        1896
-        
-            
-            
-        
-        
-Star 1.8k
-                 Watch 49
-                 Fork 249
-                
-            
-        
-
-        
-        
-
-
-        
-        4.
-        PowerRemoteDesktop
-        28493
-        
-            
-            
-        
-        
-Star 1.6k
-    …]]></summary>
-        <author>
-            <name>HelloGitHub - Article</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第72期]]></title>
-        <id>https://hellogithub.com/periodical/volume/72/</id>
-        <link href="https://hellogithub.com/periodical/volume/72/"/>
-        <updated>2022-06-24T12:56:44.544Z</updated>
-        <summary type="html"><![CDATA[C 项目
-
-
-        
-        1.
-        reptyr
-        35427
-        
-            
-            
-        
-        
-Star 4.4k
-                 Watch 94
-                 Fork 191
-                
-            
-        
-
-        
-        
-
-
-        
-        2.
-        hashcat
-        7033
-        
-            
-            
-        
-        
-Star 14.8k
-                 Watch 467
-                 Fork 2.2k
-                
-            
-        
-安装：brew install hashcat
-常用参数：
--a  指定破解模式：“-a 0”字典攻击，“-a 1” 组合攻击；“-a 3”掩码攻击
--m  指定要破解的 hash 类型：默认为 MD5
---force 忽略破解过程中的警告
-
-常用破解模式：
-0：Straight（字典破解）
-1：Combination（组合破解）
-3：Brute-force（掩码暴力破解）
-6：Hybrid Wordlist + Mask（字典+掩码破解）
-7：Hybrid Mask + Wordlist（掩码+字典破解）
-
-常用掩码设置：
-l：纯小写字母 abcdefghijklmnopqrstuvwxyz
-u：纯大写字母 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-d：纯数字 0123456789
-
-举例：破解 8 位…]]></summary>
-        <author>
-            <name>HelloGitHub - Article</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第66期]]></title>
-        <id>https://hellogithub.com/periodical/volume/66/</id>
-        <link href="https://hellogithub.com/periodical/volume/66/"/>
-        <updated>2022-06-24T12:56:44.430Z</updated>
-        <summary type="html"><![CDATA[C 项目
-
-
-        
-        1.
-        HEX-LINK
-        2156
-        
-            
-            
-        
-        
-Star 215
-                 Watch 6
-                 Fork 27
-                
-                    中文
-                
-            
-        
-.
-├─firmware # 软件（根据自己使用的工具选择如下一种工程即可）
-│  ├─ArduinoIDE_Proj # Arduino IDE版工程 
-│  │  ├─Additional_Libraries # 里面的文件夹需要复制到Arduino IDE安装目录下的libraries文件夹
-│  │  ├─Hex_Link_Leonardo # 需要下载至接收端的程序
-│  │  └─Hex_Link_Nano # 需要下载至发送端的程序
-│  ├─Bootloaders # 需要下载至芯片的arduino bootloader 
-│  └─Vscode_PlatformIO_Proj # VScode PlatformIO版工程 
-│      ├─Hex_Link_Leonardo # 需要下载至接收端的程序
-│      └─Hex_Link_Nano # 需要下载至发送端的程序
-├─hardware # 硬件（PCB工程）
-│  ├─BOM   # PCB的物料清单，包含参考的购买链接（链接仅作参考，在其他任何店铺购买相同型号即可）
-│  ├─Hex_Link_Rec # 接收端PCB工程
-│  ├─Hex_Link_Trans # 发送端PCB工程
-│  └─Nano_…]]></summary>
-        <author>
-            <name>HelloGitHub - Article</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第73期]]></title>
-        <id>https://hellogithub.com/periodical/volume/73/</id>
-        <link href="https://hellogithub.com/periodical/volume/73/"/>
-        <updated>2022-06-24T12:56:44.403Z</updated>
-        <summary type="html"><![CDATA[C 项目
-
-
-        
-        1.
-        warpd
-        36906
-        
-            
-            
-        
-        
-Star 959
-                 Watch 9
-                 Fork 37
-                
-            
-        
-
-        
-        
-
-
-        
-        2.
-        uthash
-        35883
-        
-            
-            
-        
-        
-Star 3.0k
-                 Watch 131
-                 Fork 759
-                
-            
-        
-#include "uthash.h"
-
-struct my_struct {
-    int id;            /* we'll use this field as the key */
-    char name[10];
-    UT_hash_handle hh; /* makes this structure hashable */
-};
-
-struct my_struct *users = NULL;
-
-void add_user(struct my_struct *s) {
-    HASH_ADD_INT( users, id, s );
-}
-
+        <title type="html"><![CDATA[assimon / dujiaoka]]></title>
+        <id>https://github.com/assimon/dujiaoka</id>
+        <link href="https://github.com/assimon/dujiaoka"/>
+        <updated>2022-06-24T13:15:42.481Z</updated>
+        <summary type="html"><![CDATA[🦄独角数卡(自动售货系统)-开源式站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
 
     
-        
-            
-
-        
-        3.
-        lvgl
-        4457
-    …]]></summary>
+Language: PHP
+                            
+Star: 2,755
+                            
+Fork: 940]]></summary>
         <author>
-            <name>HelloGitHub - Article</name>
+            <name>assimon</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[第65期]]></title>
         <id>https://hellogithub.com/periodical/volume/65/</id>
         <link href="https://hellogithub.com/periodical/volume/65/"/>
-        <updated>2022-06-24T12:56:44.208Z</updated>
+        <updated>2022-06-24T13:15:42.437Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
@@ -757,80 +1617,340 @@ Star 15.8k
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[第64期]]></title>
-        <id>https://hellogithub.com/periodical/volume/64/</id>
-        <link href="https://hellogithub.com/periodical/volume/64/"/>
-        <updated>2022-06-24T12:56:44.180Z</updated>
-        <summary type="html"><![CDATA[C 项目
+        <title type="html"><![CDATA[xgbnl / bearer]]></title>
+        <id>https://github.com/xgbnl/bearer</id>
+        <link href="https://github.com/xgbnl/bearer"/>
+        <updated>2022-06-24T13:15:42.417Z</updated>
+        <summary type="html"><![CDATA[一款简单的Token守卫、登录工具，基于Laravel开发，开箱即用👏🎉🎁😁
 
-
-        
-        1.
-        X-TRACK
-        6301
-        
-            
-            
-        
-        
-Star 3.5k
-                 Watch 71
-                 Fork 864
-                
-                    中文
-                
-            
-        
-在线观看
-
-        
-            
-
-        
-        
-C# 项目
-
-
-        
-        2.
-        ToastFish
-        4030
-        
-            
-            
-        
-        
-Star 1.6k
-                 Watch 8
-                 Fork 188
-                
-                    中文
-                
-            
-        
-
-        
-        
-
-
-        
-        3.
-        XboxDownload
-        2818
-        
-            
-            
-        
-        
-Star 636
-                 Watch 5
-                 Fork 69
-                
-                    中文
-                
-       …]]></summary>
+    
+Language: PHP
+                            
+Star: 20
+                            
+Fork:]]></summary>
         <author>
-            <name>HelloGitHub - Article</name>
+            <name>xgbnl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[solstice23 / argon-theme]]></title>
+        <id>https://github.com/solstice23/argon-theme</id>
+        <link href="https://github.com/solstice23/argon-theme"/>
+        <updated>2022-06-24T13:15:42.400Z</updated>
+        <summary type="html"><![CDATA[📖 Argon - 一个轻盈、简洁的 WordPress 主题
+    
+Language: PHP
+                            
+Star: 2,510
+                            
+Fork: 361]]></summary>
+        <author>
+            <name>solstice23</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gongfuxiang / shopxo]]></title>
+        <id>https://github.com/gongfuxiang/shopxo</id>
+        <link href="https://github.com/gongfuxiang/shopxo"/>
+        <updated>2022-06-24T13:15:42.335Z</updated>
+        <summary type="html"><![CDATA[ShopXO企业级免费开源商城系统，可视化DIY拖拽装修、包含PC、H5、多端小程序(微信+支付宝+百度+头条&抖音+QQ)、APP、多仓库、多商户，遵循MIT开源协议发布、基于ThinkPHP6框架研发
+    
+Language: PHP
+                            
+Star: 1,950
+                            
+Fork: 648]]></summary>
+        <author>
+            <name>gongfuxiang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[laradocs / moguding-solution]]></title>
+        <id>https://github.com/laradocs/moguding-solution</id>
+        <link href="https://github.com/laradocs/moguding-solution"/>
+        <updated>2022-06-24T13:15:42.300Z</updated>
+        <summary type="html"><![CDATA[🍄蘑菇丁/工学云自动签到解决方案，支持 GitHub Actions 部署。
+    
+Language: PHP
+                            
+Star: 24
+                            
+Fork: 52]]></summary>
+        <author>
+            <name>laradocs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[flucont / btcloud]]></title>
+        <id>https://github.com/flucont/btcloud</id>
+        <link href="https://github.com/flucont/btcloud"/>
+        <updated>2022-06-24T13:15:42.272Z</updated>
+        <summary type="html"><![CDATA[一个宝塔第三方云端的php站点程序
+    
+Language: PHP
+                            
+Star: 324
+                            
+Fork: 178]]></summary>
+        <author>
+            <name>flucont</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tennc / webshell]]></title>
+        <id>https://github.com/tennc/webshell</id>
+        <link href="https://github.com/tennc/webshell"/>
+        <updated>2022-06-24T13:15:42.244Z</updated>
+        <summary type="html"><![CDATA[This is a webshell open source project
+    
+Language: PHP
+                            
+Star: 8,113
+                            
+Fork: 5,297]]></summary>
+        <author>
+            <name>tennc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[top-think / framework]]></title>
+        <id>https://github.com/top-think/framework</id>
+        <link href="https://github.com/top-think/framework"/>
+        <updated>2022-06-24T13:15:42.205Z</updated>
+        <summary type="html"><![CDATA[ThinkPHP Framework
+    
+Language: PHP
+                            
+Star: 2,464
+                            
+Fork: 1,012]]></summary>
+        <author>
+            <name>top-think</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WanyueKJ / Education-online]]></title>
+        <id>https://github.com/WanyueKJ/Education-online</id>
+        <link href="https://github.com/WanyueKJ/Education-online"/>
+        <updated>2022-06-24T13:15:42.161Z</updated>
+        <summary type="html"><![CDATA[万岳在线教育系统(online education)，自主研发集知识付费、直播授课、在线教学功能为一体的在线/直播/网络/题库/考试(exam)/刷题/线下活动(教育平台系统软件
+    
+Language: PHP
+                            
+Star: 106
+                            
+Fork: 46]]></summary>
+        <author>
+            <name>WanyueKJ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tinyphporg / tinyphp]]></title>
+        <id>https://github.com/tinyphporg/tinyphp</id>
+        <link href="https://github.com/tinyphporg/tinyphp"/>
+        <updated>2022-06-24T13:15:42.129Z</updated>
+        <summary type="html"><![CDATA[A lightweight PHP MVC framework for Full Stack Developer
+    
+Language: PHP
+                            
+Star: 104
+                            
+Fork: 19]]></summary>
+        <author>
+            <name>tinyphporg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zhuifengshaonianhanlu / pikachu]]></title>
+        <id>https://github.com/zhuifengshaonianhanlu/pikachu</id>
+        <link href="https://github.com/zhuifengshaonianhanlu/pikachu"/>
+        <updated>2022-06-24T13:15:42.111Z</updated>
+        <summary type="html"><![CDATA[一个好玩的Web安全-漏洞测试平台
+    
+Language: PHP
+                            
+Star: 2,180
+                            
+Fork: 553]]></summary>
+        <author>
+            <name>zhuifengshaonianhanlu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PGYER / codefever]]></title>
+        <id>https://github.com/PGYER/codefever</id>
+        <link href="https://github.com/PGYER/codefever"/>
+        <updated>2022-06-24T13:15:42.071Z</updated>
+        <summary type="html"><![CDATA[CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
+    
+Language: PHP
+                            
+Star: 2,096
+                            
+Fork: 215]]></summary>
+        <author>
+            <name>PGYER</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[easychen / howto-make-more-money]]></title>
+        <id>https://github.com/easychen/howto-make-more-money</id>
+        <link href="https://github.com/easychen/howto-make-more-money"/>
+        <updated>2022-06-24T13:15:42.050Z</updated>
+        <summary type="html"><![CDATA[程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+    
+Language: PHP
+                            
+Star: 15,338
+                            
+Fork: 1,633]]></summary>
+        <author>
+            <name>easychen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lete114 / Vercel-Typecho]]></title>
+        <id>https://github.com/Lete114/Vercel-Typecho</id>
+        <link href="https://github.com/Lete114/Vercel-Typecho"/>
+        <updated>2022-06-24T13:15:42.018Z</updated>
+        <summary type="html"><![CDATA[Vercel 免费部署 Typecho 博客 | Vercel Free Deploy Typecho Blog
+    
+Language: PHP
+                            
+Star: 16
+                            
+Fork: 26]]></summary>
+        <author>
+            <name>Lete114</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mirai-mamori / Sakurairo]]></title>
+        <id>https://github.com/mirai-mamori/Sakurairo</id>
+        <link href="https://github.com/mirai-mamori/Sakurairo"/>
+        <updated>2022-06-24T13:15:41.990Z</updated>
+        <summary type="html"><![CDATA[一个多彩，轻松上手，体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura)
+    
+Language: PHP
+                            
+Star: 1,290
+                            
+Fork: 223]]></summary>
+        <author>
+            <name>mirai-mamori</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tai7sy / card-system]]></title>
+        <id>https://github.com/Tai7sy/card-system</id>
+        <link href="https://github.com/Tai7sy/card-system"/>
+        <updated>2022-06-24T13:15:41.947Z</updated>
+        <summary type="html"><![CDATA[卡密商城系统，高效安全的在线卡密商城
+    
+Language: PHP
+                            
+Star: 2,054
+                            
+Fork: 851]]></summary>
+        <author>
+            <name>Tai7sy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hlmd / Postman-cn]]></title>
+        <id>https://github.com/hlmd/Postman-cn</id>
+        <link href="https://github.com/hlmd/Postman-cn"/>
+        <updated>2022-06-24T13:15:41.917Z</updated>
+        <summary type="html"><![CDATA[Postman汉化中文版
+    
+Language: PHP
+                            
+Star: 4,015
+                            
+Fork: 492]]></summary>
+        <author>
+            <name>hlmd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zhuxiangwei / ruike-nft-backend]]></title>
+        <id>https://github.com/zhuxiangwei/ruike-nft-backend</id>
+        <link href="https://github.com/zhuxiangwei/ruike-nft-backend"/>
+        <updated>2022-06-24T13:15:41.899Z</updated>
+        <summary type="html"><![CDATA[nft markplace store exchange 数字藏品 商店 交易
+    
+Language: PHP
+                            
+Star: 15
+                            
+Fork: 14]]></summary>
+        <author>
+            <name>zhuxiangwei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jqhph / dcat-admin]]></title>
+        <id>https://github.com/jqhph/dcat-admin</id>
+        <link href="https://github.com/jqhph/dcat-admin"/>
+        <updated>2022-06-24T13:15:41.868Z</updated>
+        <summary type="html"><![CDATA[🔥 基于 Laravel 的后台系统构建工具 (Laravel Admin)，使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码
+    
+Language: PHP
+                            
+Star: 3,035
+                            
+Fork: 510]]></summary>
+        <author>
+            <name>jqhph</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[w7corp / easywechat]]></title>
+        <id>https://github.com/w7corp/easywechat</id>
+        <link href="https://github.com/w7corp/easywechat"/>
+        <updated>2022-06-24T13:15:41.834Z</updated>
+        <summary type="html"><![CDATA[📦 一个 PHP 微信 SDK
+    
+Language: PHP
+                            
+Star: 9,857
+                            
+Fork: 2,395]]></summary>
+        <author>
+            <name>w7corp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wechatpay-apiv3 / wechatpay-php]]></title>
+        <id>https://github.com/wechatpay-apiv3/wechatpay-php</id>
+        <link href="https://github.com/wechatpay-apiv3/wechatpay-php"/>
+        <updated>2022-06-24T13:15:41.790Z</updated>
+        <summary type="html"><![CDATA[微信支付 API v3 的 PHP Library，同时也支持 API v2
+    
+Language: PHP
+                            
+Star: 173
+                            
+Fork: 51]]></summary>
+        <author>
+            <name>wechatpay-apiv3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lizhipay / acg-faka]]></title>
+        <id>https://github.com/lizhipay/acg-faka</id>
+        <link href="https://github.com/lizhipay/acg-faka"/>
+        <updated>2022-06-24T13:15:41.692Z</updated>
+        <summary type="html"><![CDATA[个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
+    
+Language: PHP
+                            
+Star: 448
+                            
+Fork: 103]]></summary>
+        <author>
+            <name>lizhipay</name>
         </author>
     </entry>
     <entry>
