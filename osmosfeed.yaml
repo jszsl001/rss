@@ -5,7 +5,6 @@
 
 # cacheUrl: https://jszsl001.github.io/rss/cache.json
 sources:
-  - href: https://rsshub.app/aqk/vul
   - href: https://rsshub.app/hellogithub/article
   - href: https://rsshub.app/hellogithub/ranking
   - href: https://rsshub.app/hellogithub/month
