@@ -1,86 +1,452 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-10T01:07:24.237Z</id>
+    <id>urn:2022-07-11T01:02:58.941Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-10T01:07:24.237Z</updated>
+    <updated>2022-07-11T01:02:58.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[第75期]]></title>
-        <id>https://hellogithub.com/periodical/volume/75/</id>
-        <link href="https://hellogithub.com/periodical/volume/75/"/>
-        <updated>2022-07-10T01:07:24.212Z</updated>
+        <title type="html"><![CDATA[yangzongzhuan / RuoYi]]></title>
+        <id>https://github.com/yangzongzhuan/RuoYi</id>
+        <link href="https://github.com/yangzongzhuan/RuoYi"/>
+        <updated>2022-07-11T01:02:58.916Z</updated>
+        <summary type="html"><![CDATA[🎉 (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用
+    
+Language: HTML
+                            
+Star: 2,477
+                            
+Fork: 876]]></summary>
+        <author>
+            <name>yangzongzhuan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QSCTech / zju-icicles]]></title>
+        <id>https://github.com/QSCTech/zju-icicles</id>
+        <link href="https://github.com/QSCTech/zju-icicles"/>
+        <updated>2022-07-11T01:02:58.217Z</updated>
+        <summary type="html"><![CDATA[浙江大学课程攻略共享计划
+    
+Language: HTML
+                            
+Star: 27,609
+                            
+Fork: 7,908]]></summary>
+        <author>
+            <name>QSCTech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nndl / nndl.github.io]]></title>
+        <id>https://github.com/nndl/nndl.github.io</id>
+        <link href="https://github.com/nndl/nndl.github.io"/>
+        <updated>2022-07-11T01:02:58.125Z</updated>
+        <summary type="html"><![CDATA[《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning 
+    
+Language: HTML
+                            
+Star: 15,663
+                            
+Fork: 3,454]]></summary>
+        <author>
+            <name>nndl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpha-Yang / CS-BAOYAN-2022]]></title>
+        <id>https://github.com/Alpha-Yang/CS-BAOYAN-2022</id>
+        <link href="https://github.com/Alpha-Yang/CS-BAOYAN-2022"/>
+        <updated>2022-07-11T01:02:58.074Z</updated>
+        <summary type="html"><![CDATA[计算机保研交流群（QQ群号：605176069）
+    
+Language: HTML
+                            
+Star: 781
+                            
+Fork: 179]]></summary>
+        <author>
+            <name>Alpha-Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ituring / first-pr]]></title>
+        <id>https://github.com/ituring/first-pr</id>
+        <link href="https://github.com/ituring/first-pr"/>
+        <updated>2022-07-11T01:02:58.048Z</updated>
+        <summary type="html"><![CDATA[《GitHub实践入门》实验用仓库
+    
+Language: HTML
+                            
+Star: 188
+                            
+Fork: 1,612]]></summary>
+        <author>
+            <name>ituring</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PKUFlyingPig / cs-self-learning]]></title>
+        <id>https://github.com/PKUFlyingPig/cs-self-learning</id>
+        <link href="https://github.com/PKUFlyingPig/cs-self-learning"/>
+        <updated>2022-07-11T01:02:58.023Z</updated>
+        <summary type="html"><![CDATA[计算机自学指南
+    
+Language: HTML
+                            
+Star: 10,169
+                            
+Fork: 1,453]]></summary>
+        <author>
+            <name>PKUFlyingPig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sglfree / freesky]]></title>
+        <id>https://github.com/sglfree/freesky</id>
+        <link href="https://github.com/sglfree/freesky"/>
+        <updated>2022-07-11T01:02:58.006Z</updated>
+        <summary type="html"><![CDATA[自由门最新7.97版 无界21.32正式版 自由门VPN 自由门 自由门使用教程 无界 无界浏览 无界VPN 翻墙软件 翻墙软件下载 翻墙软件教程 Mac翻墙软件 --自由天空
+    
+Language: HTML
+                            
+Star: 1,495
+                            
+Fork: 273]]></summary>
+        <author>
+            <name>sglfree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PKUanonym / REKCARC-TSC-UHT]]></title>
+        <id>https://github.com/PKUanonym/REKCARC-TSC-UHT</id>
+        <link href="https://github.com/PKUanonym/REKCARC-TSC-UHT"/>
+        <updated>2022-07-11T01:02:57.978Z</updated>
+        <summary type="html"><![CDATA[清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
+    
+Language: HTML
+                            
+Star: 24,574
+                            
+Fork: 6,537]]></summary>
+        <author>
+            <name>PKUanonym</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[microsoft / ai-edu]]></title>
+        <id>https://github.com/microsoft/ai-edu</id>
+        <link href="https://github.com/microsoft/ai-edu"/>
+        <updated>2022-07-11T01:02:57.941Z</updated>
+        <summary type="html"><![CDATA[AI education materials for Chinese students, teachers and IT professionals.
+    
+Language: HTML
+                            
+Star: 11,011
+                            
+Fork: 2,625]]></summary>
+        <author>
+            <name>microsoft</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wangzhiye-tiancai / mysupervisor_save]]></title>
+        <id>https://github.com/wangzhiye-tiancai/mysupervisor_save</id>
+        <link href="https://github.com/wangzhiye-tiancai/mysupervisor_save"/>
+        <updated>2022-07-11T01:02:57.910Z</updated>
+        <summary type="html"><![CDATA[收集“导师评价”相关资源，及原“导师评价网”存档数据 
+    
+Language: HTML
+                            
+Star: 469
+                            
+Fork: 61]]></summary>
+        <author>
+            <name>wangzhiye-tiancai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fwonggh / Bthub]]></title>
+        <id>https://github.com/fwonggh/Bthub</id>
+        <link href="https://github.com/fwonggh/Bthub"/>
+        <updated>2022-07-11T01:02:57.827Z</updated>
+        <summary type="html"><![CDATA[Bthub最新地址发布页
+    
+Language: HTML
+                            
+Star: 816
+                            
+Fork: 59]]></summary>
+        <author>
+            <name>fwonggh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[javascript-tutorial / zh.javascript.info]]></title>
+        <id>https://github.com/javascript-tutorial/zh.javascript.info</id>
+        <link href="https://github.com/javascript-tutorial/zh.javascript.info"/>
+        <updated>2022-07-11T01:02:57.810Z</updated>
+        <summary type="html"><![CDATA[现代 JavaScript 教程（The Modern JavaScript Tutorial）
+    
+Language: HTML
+                            
+Star: 6,857
+                            
+Fork: 907]]></summary>
+        <author>
+            <name>javascript-tutorial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SolidZORO / zpix-pixel-font]]></title>
+        <id>https://github.com/SolidZORO/zpix-pixel-font</id>
+        <link href="https://github.com/SolidZORO/zpix-pixel-font"/>
+        <updated>2022-07-11T01:02:57.769Z</updated>
+        <summary type="html"><![CDATA[Zpix (最像素) is a pixel font supporting English, Traditional Chinese, Simplified Chinese and Japanese.
+    
+Language: HTML
+                            
+Star: 1,391
+                            
+Fork: 50]]></summary>
+        <author>
+            <name>SolidZORO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yasehd888 / -]]></title>
+        <id>https://github.com/yasehd888/-</id>
+        <link href="https://github.com/yasehd888/-"/>
+        <updated>2022-07-11T01:02:57.751Z</updated>
+        <summary type="html"><![CDATA[亚色影库最新地址http://www.yasehd.xyz/
+
+    
+Language: HTML
+                            
+Star: 1
+                            
+Fork:]]></summary>
+        <author>
+            <name>yasehd888</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[liu673cn / box]]></title>
+        <id>https://github.com/liu673cn/box</id>
+        <link href="https://github.com/liu673cn/box"/>
+        <updated>2022-07-11T01:02:57.723Z</updated>
+        <summary type="html"><![CDATA[TVbox 1.0.0（空壳-自行配置）
+    
+Language: HTML
+                            
+Star: 542
+                            
+Fork: 213]]></summary>
+        <author>
+            <name>liu673cn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mtf-wiki / MtF-Wiki]]></title>
+        <id>https://github.com/mtf-wiki/MtF-Wiki</id>
+        <link href="https://github.com/mtf-wiki/MtF-Wiki"/>
+        <updated>2022-07-11T01:02:57.689Z</updated>
+        <summary type="html"><![CDATA[MtF Wiki is a free, open, and continuously updated transgender female knowledge integration site.
+    
+Language: HTML
+                            
+Star: 445
+                            
+Fork: 110]]></summary>
+        <author>
+            <name>mtf-wiki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kenzok8 / openwrt-packages]]></title>
+        <id>https://github.com/kenzok8/openwrt-packages</id>
+        <link href="https://github.com/kenzok8/openwrt-packages"/>
+        <updated>2022-07-11T01:02:57.648Z</updated>
+        <summary type="html"><![CDATA[openwrt常用软件包
+    
+Language: HTML
+                            
+Star: 3,419
+                            
+Fork: 2,200]]></summary>
+        <author>
+            <name>kenzok8</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vpncn / vpncn.github.io]]></title>
+        <id>https://github.com/vpncn/vpncn.github.io</id>
+        <link href="https://github.com/vpncn/vpncn.github.io"/>
+        <updated>2022-07-11T01:02:57.608Z</updated>
+        <summary type="html"><![CDATA[2022中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐。
+    
+Language: HTML
+                            
+Star: 5,853
+                            
+Fork: 1,489]]></summary>
+        <author>
+            <name>vpncn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[alienzhou / frontend-tech-list]]></title>
+        <id>https://github.com/alienzhou/frontend-tech-list</id>
+        <link href="https://github.com/alienzhou/frontend-tech-list"/>
+        <updated>2022-07-11T01:02:57.535Z</updated>
+        <summary type="html"><![CDATA[📝 Frontend Tech List for Developers 💡
+
+    
+Language: HTML
+                            
+Star: 3,251
+                            
+Fork: 462]]></summary>
+        <author>
+            <name>alienzhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[golang101 / golang101]]></title>
+        <id>https://github.com/golang101/golang101</id>
+        <link href="https://github.com/golang101/golang101"/>
+        <updated>2022-07-11T01:02:57.486Z</updated>
+        <summary type="html"><![CDATA[Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书
+    
+Language: HTML
+                            
+Star: 3,346
+                            
+Fork: 343]]></summary>
+        <author>
+            <name>golang101</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fengdu78 / deeplearning_ai_books]]></title>
+        <id>https://github.com/fengdu78/deeplearning_ai_books</id>
+        <link href="https://github.com/fengdu78/deeplearning_ai_books"/>
+        <updated>2022-07-11T01:02:57.437Z</updated>
+        <summary type="html"><![CDATA[deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
+    
+Language: HTML
+                            
+Star: 14,843
+                            
+Fork: 5,444]]></summary>
+        <author>
+            <name>fengdu78</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lerist / FakeLocation]]></title>
+        <id>https://github.com/Lerist/FakeLocation</id>
+        <link href="https://github.com/Lerist/FakeLocation"/>
+        <updated>2022-07-11T01:02:57.407Z</updated>
+        <summary type="html"><![CDATA[Fake Location
+    
+Language: HTML
+                            
+Star: 2,337
+                            
+Fork: 230]]></summary>
+        <author>
+            <name>Lerist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fengdu78 / Coursera-ML-AndrewNg-Notes]]></title>
+        <id>https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes</id>
+        <link href="https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes"/>
+        <updated>2022-07-11T01:02:57.381Z</updated>
+        <summary type="html"><![CDATA[吴恩达老师的机器学习课程个人笔记
+    
+Language: HTML
+                            
+Star: 25,446
+                            
+Fork: 9,627]]></summary>
+        <author>
+            <name>fengdu78</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yuhuage / dizhi]]></title>
+        <id>https://github.com/yuhuage/dizhi</id>
+        <link href="https://github.com/yuhuage/dizhi"/>
+        <updated>2022-07-11T01:02:57.343Z</updated>
+        <summary type="html"><![CDATA[雨花阁发布页
+    
+Language: HTML
+                            
+Star: 341
+                            
+Fork: 28]]></summary>
+        <author>
+            <name>yuhuage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[qiangmzsx / Software-Engineering-at-Google]]></title>
+        <id>https://github.com/qiangmzsx/Software-Engineering-at-Google</id>
+        <link href="https://github.com/qiangmzsx/Software-Engineering-at-Google"/>
+        <updated>2022-07-11T01:02:57.286Z</updated>
+        <summary type="html"><![CDATA[《Software Engineering at Google》的中文翻译版本
+    
+Language: HTML
+                            
+Star: 2,074
+                            
+Fork: 258]]></summary>
+        <author>
+            <name>qiangmzsx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第66期]]></title>
+        <id>https://hellogithub.com/periodical/volume/66/</id>
+        <link href="https://hellogithub.com/periodical/volume/66/"/>
+        <updated>2022-07-11T01:02:29.711Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
         
         1.
-        micropython
-        47012
+        HEX-LINK
+        2156
         
             
             
         
         
-Star 14.7k
-                 Watch 745
-                 Fork 5.5k
-                
-            
-        
-
-        
-        
-
-
-        
-        2.
-        TencentOS-tiny
-        49886
-        
-            
-            
-        
-        
-Star 5.5k
-                 Watch 303
-                 Fork 1.4k
+Star 221
+                 Watch 6
+                 Fork 27
                 
                     中文
                 
             
         
-
-        
-        
-
-
-        
-        3.
-        fontforge
-        47267
-        
-            
-            
-        
-        
-Star 4.6k
-                 Watch 155
-                 Fork 604
-                
-            
-        
-
-        
-        
-C# 项目
-
-
-        
-        4.
-        lively
-        51741
-    …]]></summary>
+.
+├─firmware # 软件（根据自己使用的工具选择如下一种工程即可）
+│  ├─ArduinoIDE_Proj # Arduino IDE版工程 
+│  │  ├─Additional_Libraries # 里面的文件夹需要复制到Arduino IDE安装目录下的libraries文件夹
+│  │  ├─Hex_Link_Leonardo # 需要下载至接收端的程序
+│  │  └─Hex_Link_Nano # 需要下载至发送端的程序
+│  ├─Bootloaders # 需要下载至芯片的arduino bootloader 
+│  └─Vscode_PlatformIO_Proj # VScode PlatformIO版工程 
+│      ├─Hex_Link_Leonardo # 需要下载至接收端的程序
+│      └─Hex_Link_Nano # 需要下载至发送端的程序
+├─hardware # 硬件（PCB工程）
+│  ├─BOM   # PCB的物料清单，包含参考的购买链接（链接仅作参考，在其他任何店铺购买相同型号即可）
+│  ├─Hex_Link_Rec # 接收端PCB工程
+│  ├─Hex_Link_Trans # 发送端PCB工程
+│  └─Nano_…]]></summary>
         <author>
             <name>HelloGitHub - Article</name>
         </author>
@@ -89,7 +455,7 @@ C# 项目
         <title type="html"><![CDATA[第74期]]></title>
         <id>https://hellogithub.com/periodical/volume/74/</id>
         <link href="https://hellogithub.com/periodical/volume/74/"/>
-        <updated>2022-07-10T01:07:24.174Z</updated>
+        <updated>2022-07-11T01:02:29.598Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
@@ -148,9 +514,9 @@ Star 2.2k
             
         
         
-Star 2.8k
+Star 2.9k
                  Watch 22
-                 Fork 80
+                 Fork 82
                 
             
         
@@ -167,378 +533,10 @@ Star 2.8k
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[第73期]]></title>
-        <id>https://hellogithub.com/periodical/volume/73/</id>
-        <link href="https://hellogithub.com/periodical/volume/73/"/>
-        <updated>2022-07-10T01:07:24.031Z</updated>
-        <summary type="html"><![CDATA[C 项目
-
-
-        
-        1.
-        warpd
-        36906
-        
-            
-            
-        
-        
-Star 979
-                 Watch 9
-                 Fork 37
-                
-            
-        
-
-        
-        
-
-
-        
-        2.
-        uthash
-        35883
-        
-            
-            
-        
-        
-Star 3.1k
-                 Watch 131
-                 Fork 766
-                
-            
-        
-#include "uthash.h"
-
-struct my_struct {
-    int id;            /* we'll use this field as the key */
-    char name[10];
-    UT_hash_handle hh; /* makes this structure hashable */
-};
-
-struct my_struct *users = NULL;
-
-void add_user(struct my_struct *s) {
-    HASH_ADD_INT( users, id, s );
-}
-
-
-    
-        
-            
-
-        
-        3.
-        lvgl
-        4457
-    …]]></summary>
-        <author>
-            <name>HelloGitHub - Article</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第72期]]></title>
-        <id>https://hellogithub.com/periodical/volume/72/</id>
-        <link href="https://hellogithub.com/periodical/volume/72/"/>
-        <updated>2022-07-10T01:07:23.957Z</updated>
-        <summary type="html"><![CDATA[C 项目
-
-
-        
-        1.
-        reptyr
-        35427
-        
-            
-            
-        
-        
-Star 4.4k
-                 Watch 94
-                 Fork 193
-                
-            
-        
-
-        
-        
-
-
-        
-        2.
-        hashcat
-        7033
-        
-            
-            
-        
-        
-Star 14.9k
-                 Watch 467
-                 Fork 2.3k
-                
-            
-        
-安装：brew install hashcat
-常用参数：
--a  指定破解模式：“-a 0”字典攻击，“-a 1” 组合攻击；“-a 3”掩码攻击
--m  指定要破解的 hash 类型：默认为 MD5
---force 忽略破解过程中的警告
-
-常用破解模式：
-0：Straight（字典破解）
-1：Combination（组合破解）
-3：Brute-force（掩码暴力破解）
-6：Hybrid Wordlist + Mask（字典+掩码破解）
-7：Hybrid Mask + Wordlist（掩码+字典破解）
-
-常用掩码设置：
-l：纯小写字母 abcdefghijklmnopqrstuvwxyz
-u：纯大写字母 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-d：纯数字 0123456789
-
-举例：破解 8 位…]]></summary>
-        <author>
-            <name>HelloGitHub - Article</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第67期]]></title>
-        <id>https://hellogithub.com/periodical/volume/67/</id>
-        <link href="https://hellogithub.com/periodical/volume/67/"/>
-        <updated>2022-07-10T01:07:23.851Z</updated>
-        <summary type="html"><![CDATA[C 项目
-
-
-        
-        1.
-        bytehound
-        12900
-        
-            
-            
-        
-        
-Star 2.8k
-                 Watch 44
-                 Fork 109
-                
-            
-        
-
-        
-        
-
-
-        
-        2.
-        nnn
-        4532
-        
-            
-            
-        
-        
-Star 14.4k
-                 Watch 121
-                 Fork 592
-                
-            
-        
-
-        
-        
-C# 项目
-
-
-        
-        3.
-        ShareX
-        7612
-        
-            
-            
-        
-        
-Star 20.5k
-                 Watch 510
-                 Fork 2.6k
-                
-            
-        
-
-        
-        
-C++ 项目
-
-
-        
-        4.
-        NanaZip
-        17380
-        
-            
-            
-        
-        
-St…]]></summary>
-        <author>
-            <name>HelloGitHub - Article</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第70期]]></title>
-        <id>https://hellogithub.com/periodical/volume/70/</id>
-        <link href="https://hellogithub.com/periodical/volume/70/"/>
-        <updated>2022-07-10T01:07:23.757Z</updated>
-        <summary type="html"><![CDATA[C 项目
-
-
-        
-        1.
-        daytripper
-        7540
-        
-            
-            
-        
-        
-Star 3.4k
-                 Watch 67
-                 Fork 161
-                
-            
-        
-
-        
-        
-
-
-        
-        2.
-        tinyssh
-        26903
-        
-            
-            
-        
-        
-Star 843
-                 Watch 39
-                 Fork 61
-                
-            
-        
-C# 项目
-
-
-        
-        3.
-        LiveCharts2
-        1896
-        
-            
-            
-        
-        
-Star 1.8k
-                 Watch 53
-                 Fork 257
-                
-            
-        
-
-        
-        
-
-
-        
-        4.
-        PowerRemoteDesktop
-        28493
-        
-            
-            
-        
-        
-Star 1.6k
-    …]]></summary>
-        <author>
-            <name>HelloGitHub - Article</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第68期]]></title>
-        <id>https://hellogithub.com/periodical/volume/68/</id>
-        <link href="https://hellogithub.com/periodical/volume/68/"/>
-        <updated>2022-07-10T01:07:23.680Z</updated>
-        <summary type="html"><![CDATA[C 项目
-
-
-        
-        1.
-        WindTerm
-        8016
-        
-            
-            
-        
-        
-Star 5.4k
-                 Watch 71
-                 Fork 388
-                
-            
-        
-
-        
-        
-
-
-        
-        2.
-        toybox
-        15406
-        
-            
-            
-        
-        
-Star 1.7k
-                 Watch 79
-                 Fork 258
-                
-            
-        
-
-
-        
-        3.
-        the_silver_searcher
-        8517
-        
-            
-            
-        
-        
-Star 23.8k
-                 Watch 427
-                 Fork 1.3k
-                
-            
-        
-ack test_blah ~/code(8G)/  104.66s user 4.82s system 99% cpu 1:50.03 total
-ag test_blah ~/code(8G)/  4.67s user 4.58s system 286% cpu 3.227 total…]]></summary>
-        <author>
-            <name>HelloGitHub - Article</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[第71期]]></title>
         <id>https://hellogithub.com/periodical/volume/71/</id>
         <link href="https://hellogithub.com/periodical/volume/71/"/>
-        <updated>2022-07-10T01:07:23.542Z</updated>
+        <updated>2022-07-11T01:02:29.564Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
@@ -573,7 +571,7 @@ Star 10.1k
         
 Star 5.5k
                  Watch 146
-                 Fork 503
+                 Fork 504
                 
             
         
@@ -594,7 +592,7 @@ C# 项目
         
         
 Star 1.9k
-                 Watch 38
+                 Watch 39
                  Fork 153
                 
             
@@ -612,7 +610,7 @@ var result = await Cli.Wrap("path/to/exe")
         <title type="html"><![CDATA[第69期]]></title>
         <id>https://hellogithub.com/periodical/volume/69/</id>
         <link href="https://hellogithub.com/periodical/volume/69/"/>
-        <updated>2022-07-10T01:07:23.497Z</updated>
+        <updated>2022-07-11T01:02:29.385Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
@@ -691,10 +689,161 @@ C# 项目
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[第73期]]></title>
+        <id>https://hellogithub.com/periodical/volume/73/</id>
+        <link href="https://hellogithub.com/periodical/volume/73/"/>
+        <updated>2022-07-11T01:02:29.369Z</updated>
+        <summary type="html"><![CDATA[C 项目
+
+
+        
+        1.
+        warpd
+        36906
+        
+            
+            
+        
+        
+Star 979
+                 Watch 9
+                 Fork 37
+                
+            
+        
+
+        
+        
+
+
+        
+        2.
+        uthash
+        35883
+        
+            
+            
+        
+        
+Star 3.1k
+                 Watch 131
+                 Fork 766
+                
+            
+        
+#include "uthash.h"
+
+struct my_struct {
+    int id;            /* we'll use this field as the key */
+    char name[10];
+    UT_hash_handle hh; /* makes this structure hashable */
+};
+
+struct my_struct *users = NULL;
+
+void add_user(struct my_struct *s) {
+    HASH_ADD_INT( users, id, s );
+}
+
+
+    
+        
+            
+
+        
+        3.
+        lvgl
+        4457
+    …]]></summary>
+        <author>
+            <name>HelloGitHub - Article</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第75期]]></title>
+        <id>https://hellogithub.com/periodical/volume/75/</id>
+        <link href="https://hellogithub.com/periodical/volume/75/"/>
+        <updated>2022-07-11T01:02:29.356Z</updated>
+        <summary type="html"><![CDATA[C 项目
+
+
+        
+        1.
+        micropython
+        47012
+        
+            
+            
+        
+        
+Star 14.7k
+                 Watch 745
+                 Fork 5.5k
+                
+            
+        
+
+        
+        
+
+
+        
+        2.
+        TencentOS-tiny
+        49886
+        
+            
+            
+        
+        
+Star 5.5k
+                 Watch 303
+                 Fork 1.5k
+                
+                    中文
+                
+            
+        
+
+        
+        
+
+
+        
+        3.
+        fontforge
+        47267
+        
+            
+            
+        
+        
+Star 4.6k
+                 Watch 155
+                 Fork 604
+                
+            
+        
+
+        
+        
+C# 项目
+
+
+        
+        4.
+        lively
+        51741
+    …]]></summary>
+        <author>
+            <name>HelloGitHub - Article</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[第65期]]></title>
         <id>https://hellogithub.com/periodical/volume/65/</id>
         <link href="https://hellogithub.com/periodical/volume/65/"/>
-        <updated>2022-07-10T01:07:23.333Z</updated>
+        <updated>2022-07-11T01:02:29.344Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
@@ -753,7 +902,7 @@ C++ 项目
         
 Star 15.8k
                  Watch 230
-                 Fork 848
+                 Fork 847
                 
             
         
@@ -773,199 +922,355 @@ Star 15.8k
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[第66期]]></title>
-        <id>https://hellogithub.com/periodical/volume/66/</id>
-        <link href="https://hellogithub.com/periodical/volume/66/"/>
-        <updated>2022-07-10T01:07:23.311Z</updated>
+        <title type="html"><![CDATA[5ime / video_spider]]></title>
+        <id>https://github.com/5ime/video_spider</id>
+        <link href="https://github.com/5ime/video_spider"/>
+        <updated>2022-07-11T01:02:29.135Z</updated>
+        <summary type="html"><![CDATA[短视频去水印：抖音,皮皮虾,火山,微视,微博,绿洲,最右,轻视频,快手,全民小视频,巴塞电影,陌陌,Before避风,开眼,Vue Vlog 小咖秀,皮皮搞笑,全民K歌,西瓜视频,逗拍,虎牙,6间房,梨视频,新片场,acfun,美拍...
+    
+Language: PHP
+                            
+Star: 1,000
+                            
+Fork: 323]]></summary>
+        <author>
+            <name>5ime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第67期]]></title>
+        <id>https://hellogithub.com/periodical/volume/67/</id>
+        <link href="https://hellogithub.com/periodical/volume/67/"/>
+        <updated>2022-07-11T01:02:29.107Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
         
         1.
-        HEX-LINK
-        2156
+        bytehound
+        12900
         
             
             
         
         
-Star 221
-                 Watch 6
-                 Fork 27
-                
-                    中文
+Star 2.8k
+                 Watch 44
+                 Fork 109
                 
             
         
-.
-├─firmware # 软件（根据自己使用的工具选择如下一种工程即可）
-│  ├─ArduinoIDE_Proj # Arduino IDE版工程 
-│  │  ├─Additional_Libraries # 里面的文件夹需要复制到Arduino IDE安装目录下的libraries文件夹
-│  │  ├─Hex_Link_Leonardo # 需要下载至接收端的程序
-│  │  └─Hex_Link_Nano # 需要下载至发送端的程序
-│  ├─Bootloaders # 需要下载至芯片的arduino bootloader 
-│  └─Vscode_PlatformIO_Proj # VScode PlatformIO版工程 
-│      ├─Hex_Link_Leonardo # 需要下载至接收端的程序
-│      └─Hex_Link_Nano # 需要下载至发送端的程序
-├─hardware # 硬件（PCB工程）
-│  ├─BOM   # PCB的物料清单，包含参考的购买链接（链接仅作参考，在其他任何店铺购买相同型号即可）
-│  ├─Hex_Link_Rec # 接收端PCB工程
-│  ├─Hex_Link_Trans # 发送端PCB工程
-│  └─Nano_…]]></summary>
+
+        
+        
+
+
+        
+        2.
+        nnn
+        4532
+        
+            
+            
+        
+        
+Star 14.4k
+                 Watch 122
+                 Fork 592
+                
+            
+        
+
+        
+        
+C# 项目
+
+
+        
+        3.
+        ShareX
+        7612
+        
+            
+            
+        
+        
+Star 20.6k
+                 Watch 510
+                 Fork 2.6k
+                
+            
+        
+
+        
+        
+C++ 项目
+
+
+        
+        4.
+        NanaZip
+        17380
+        
+            
+            
+        
+        
+St…]]></summary>
         <author>
             <name>HelloGitHub - Article</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[mirai-mamori / Sakurairo]]></title>
-        <id>https://github.com/mirai-mamori/Sakurairo</id>
-        <link href="https://github.com/mirai-mamori/Sakurairo"/>
-        <updated>2022-07-10T01:07:23.290Z</updated>
-        <summary type="html"><![CDATA[一个多彩，轻松上手，体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题，支持简繁英日四语言）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura. Support Simplified Chinese, Traditional Chinese, English and Japanese languages)
-    
-Language: PHP
-                            
-Star: 1,319
-                            
-Fork: 225]]></summary>
-        <author>
-            <name>mirai-mamori</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[solstice23 / argon-theme]]></title>
-        <id>https://github.com/solstice23/argon-theme</id>
-        <link href="https://github.com/solstice23/argon-theme"/>
-        <updated>2022-07-10T01:07:23.252Z</updated>
-        <summary type="html"><![CDATA[📖 Argon - 一个轻盈、简洁的 WordPress 主题
-    
-Language: PHP
-                            
-Star: 2,548
-                            
-Fork: 365]]></summary>
-        <author>
-            <name>solstice23</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zhuifengshaonianhanlu / pikachu]]></title>
-        <id>https://github.com/zhuifengshaonianhanlu/pikachu</id>
-        <link href="https://github.com/zhuifengshaonianhanlu/pikachu"/>
-        <updated>2022-07-10T01:07:23.179Z</updated>
-        <summary type="html"><![CDATA[一个好玩的Web安全-漏洞测试平台
-    
-Language: PHP
-                            
-Star: 2,230
-                            
-Fork: 558]]></summary>
-        <author>
-            <name>zhuifengshaonianhanlu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wechatpay-apiv3 / wechatpay-php]]></title>
-        <id>https://github.com/wechatpay-apiv3/wechatpay-php</id>
-        <link href="https://github.com/wechatpay-apiv3/wechatpay-php"/>
-        <updated>2022-07-10T01:07:23.162Z</updated>
-        <summary type="html"><![CDATA[微信支付 APIv3 的 PHP Library，同时也支持 APIv2
-    
-Language: PHP
-                            
-Star: 188
-                            
-Fork: 55]]></summary>
-        <author>
-            <name>wechatpay-apiv3</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[owen0o0 / WebStack]]></title>
-        <id>https://github.com/owen0o0/WebStack</id>
-        <link href="https://github.com/owen0o0/WebStack"/>
-        <updated>2022-07-10T01:07:23.114Z</updated>
-        <summary type="html"><![CDATA[WordPress 版 WebStack 导航主题 https://nav.iowen.cn
+        <title type="html"><![CDATA[第70期]]></title>
+        <id>https://hellogithub.com/periodical/volume/70/</id>
+        <link href="https://hellogithub.com/periodical/volume/70/"/>
+        <updated>2022-07-11T01:02:29.096Z</updated>
+        <summary type="html"><![CDATA[C 项目
 
-    
-Language: PHP
-                            
-Star: 948
-                            
-Fork: 287]]></summary>
+
+        
+        1.
+        daytripper
+        7540
+        
+            
+            
+        
+        
+Star 3.4k
+                 Watch 67
+                 Fork 161
+                
+            
+        
+
+        
+        
+
+
+        
+        2.
+        tinyssh
+        26903
+        
+            
+            
+        
+        
+Star 843
+                 Watch 39
+                 Fork 61
+                
+            
+        
+C# 项目
+
+
+        
+        3.
+        LiveCharts2
+        1896
+        
+            
+            
+        
+        
+Star 1.8k
+                 Watch 53
+                 Fork 257
+                
+            
+        
+
+        
+        
+
+
+        
+        4.
+        PowerRemoteDesktop
+        28493
+        
+            
+            
+        
+        
+Star 1.6k
+    …]]></summary>
         <author>
-            <name>owen0o0</name>
+            <name>HelloGitHub - Article</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[kanyxmo / MineAdmin]]></title>
-        <id>https://github.com/kanyxmo/MineAdmin</id>
-        <link href="https://github.com/kanyxmo/MineAdmin"/>
-        <updated>2022-07-10T01:07:23.083Z</updated>
-        <summary type="html"><![CDATA[基于Swoole扩展的Hyperf框架 和 SCUI（Element UI） 开发的前后端分离权限管理系统。
-    
-Language: PHP
-                            
-Star: 92
-                            
-Fork: 20]]></summary>
+        <title type="html"><![CDATA[第72期]]></title>
+        <id>https://hellogithub.com/periodical/volume/72/</id>
+        <link href="https://hellogithub.com/periodical/volume/72/"/>
+        <updated>2022-07-11T01:02:29.076Z</updated>
+        <summary type="html"><![CDATA[C 项目
+
+
+        
+        1.
+        reptyr
+        35427
+        
+            
+            
+        
+        
+Star 4.4k
+                 Watch 94
+                 Fork 193
+                
+            
+        
+
+        
+        
+
+
+        
+        2.
+        hashcat
+        7033
+        
+            
+            
+        
+        
+Star 14.9k
+                 Watch 467
+                 Fork 2.3k
+                
+            
+        
+安装：brew install hashcat
+常用参数：
+-a  指定破解模式：“-a 0”字典攻击，“-a 1” 组合攻击；“-a 3”掩码攻击
+-m  指定要破解的 hash 类型：默认为 MD5
+--force 忽略破解过程中的警告
+
+常用破解模式：
+0：Straight（字典破解）
+1：Combination（组合破解）
+3：Brute-force（掩码暴力破解）
+6：Hybrid Wordlist + Mask（字典+掩码破解）
+7：Hybrid Mask + Wordlist（掩码+字典破解）
+
+常用掩码设置：
+l：纯小写字母 abcdefghijklmnopqrstuvwxyz
+u：纯大写字母 ABCDEFGHIJKLMNOPQRSTUVWXYZ
+d：纯数字 0123456789
+
+举例：破解 8 位…]]></summary>
         <author>
-            <name>kanyxmo</name>
+            <name>HelloGitHub - Article</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ronnywang / realprice]]></title>
-        <id>https://github.com/ronnywang/realprice</id>
-        <link href="https://github.com/ronnywang/realprice"/>
-        <updated>2022-07-10T01:07:23.050Z</updated>
-        <summary type="html"><![CDATA[實價登錄原始資料備份下載 open data
-    
-Language: PHP
-                            
-Star: 39
-                            
-Fork: 15]]></summary>
+        <title type="html"><![CDATA[第68期]]></title>
+        <id>https://hellogithub.com/periodical/volume/68/</id>
+        <link href="https://hellogithub.com/periodical/volume/68/"/>
+        <updated>2022-07-11T01:02:29.063Z</updated>
+        <summary type="html"><![CDATA[C 项目
+
+
+        
+        1.
+        WindTerm
+        8016
+        
+            
+            
+        
+        
+Star 5.4k
+                 Watch 71
+                 Fork 390
+                
+            
+        
+
+        
+        
+
+
+        
+        2.
+        toybox
+        15406
+        
+            
+            
+        
+        
+Star 1.7k
+                 Watch 79
+                 Fork 258
+                
+            
+        
+
+
+        
+        3.
+        the_silver_searcher
+        8517
+        
+            
+            
+        
+        
+Star 23.8k
+                 Watch 427
+                 Fork 1.3k
+                
+            
+        
+ack test_blah ~/code(8G)/  104.66s user 4.82s system 99% cpu 1:50.03 total
+ag test_blah ~/code(8G)/  4.67s user 4.58s system 286% cpu 3.227 total…]]></summary>
         <author>
-            <name>ronnywang</name>
+            <name>HelloGitHub - Article</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[mochat-cloud / mochat]]></title>
-        <id>https://github.com/mochat-cloud/mochat</id>
-        <link href="https://github.com/mochat-cloud/mochat"/>
-        <updated>2022-07-10T01:07:23.029Z</updated>
-        <summary type="html"><![CDATA[基于企业微信的开源SCRM应用开发框架&引擎，也是一套通用的企业私域流量管理系统!
+        <title type="html"><![CDATA[jackfrued / Python-100-Days]]></title>
+        <id>https://github.com/jackfrued/Python-100-Days</id>
+        <link href="https://github.com/jackfrued/Python-100-Days"/>
+        <updated>2022-07-11T01:02:29.032Z</updated>
+        <summary type="html"><![CDATA[Python - 100天从新手到大师
     
-Language: PHP
+Language: Python
                             
-Star: 1,710
+Star: 120,534
                             
-Fork: 392]]></summary>
+Fork: 45,941]]></summary>
         <author>
-            <name>mochat-cloud</name>
+            <name>jackfrued</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[c0ny1 / upload-labs]]></title>
-        <id>https://github.com/c0ny1/upload-labs</id>
-        <link href="https://github.com/c0ny1/upload-labs"/>
-        <updated>2022-07-10T01:07:22.994Z</updated>
-        <summary type="html"><![CDATA[一个想帮你总结所有类型的上传漏洞的靶场
+        <title type="html"><![CDATA[3masterplus / book]]></title>
+        <id>https://github.com/3masterplus/book</id>
+        <link href="https://github.com/3masterplus/book"/>
+        <updated>2022-07-11T01:02:28.979Z</updated>
+        <summary type="html"><![CDATA[Book PDF
     
 Language: PHP
                             
-Star: 2,848
+Star: 1,026
                             
-Fork: 742]]></summary>
+Fork: 473]]></summary>
         <author>
-            <name>c0ny1</name>
+            <name>3masterplus</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[magicblack / maccms10]]></title>
         <id>https://github.com/magicblack/maccms10</id>
         <link href="https://github.com/magicblack/maccms10"/>
-        <updated>2022-07-10T01:07:22.961Z</updated>
+        <updated>2022-07-11T01:02:28.947Z</updated>
         <summary type="html"><![CDATA[苹果cms官网,苹果cmsv10,maccmsv10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序
     
 Language: PHP
@@ -978,972 +1283,64 @@ Fork: 532]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[mashirozx / sakura]]></title>
-        <id>https://github.com/mashirozx/sakura</id>
-        <link href="https://github.com/mashirozx/sakura"/>
-        <updated>2022-07-10T01:07:22.931Z</updated>
-        <summary type="html"><![CDATA[A Wonderful WordPress Theme: 樱花庄的白猫博客主题
+        <title type="html"><![CDATA[midoks / mdserver-web]]></title>
+        <id>https://github.com/midoks/mdserver-web</id>
+        <link href="https://github.com/midoks/mdserver-web"/>
+        <updated>2022-07-11T01:02:28.920Z</updated>
+        <summary type="html"><![CDATA[Simple Linux Panel
     
-Language: PHP
+Language: JavaScript
                             
-Star: 2,694
+Star: 1,189
                             
-Fork: 541]]></summary>
+Fork: 288]]></summary>
         <author>
-            <name>mashirozx</name>
+            <name>midoks</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BadApple9 / speedtest-x]]></title>
-        <id>https://github.com/BadApple9/speedtest-x</id>
-        <link href="https://github.com/BadApple9/speedtest-x"/>
-        <updated>2022-07-10T01:07:22.900Z</updated>
-        <summary type="html"><![CDATA[A self-hosted speedtest appilication with clear test results.
-    
-Language: PHP
-                            
-Star: 1,236
-                            
-Fork: 349]]></summary>
-        <author>
-            <name>BadApple9</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HaoOuBa / Joe]]></title>
-        <id>https://github.com/HaoOuBa/Joe</id>
-        <link href="https://github.com/HaoOuBa/Joe"/>
-        <updated>2022-07-10T01:07:22.882Z</updated>
-        <summary type="html"><![CDATA[A Theme of Typecho
-    
-Language: PHP
-                            
-Star: 911
-                            
-Fork: 233]]></summary>
-        <author>
-            <name>HaoOuBa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Double-Jin / jin-microservices]]></title>
-        <id>https://github.com/Double-Jin/jin-microservices</id>
-        <link href="https://github.com/Double-Jin/jin-microservices"/>
-        <updated>2022-07-10T01:07:22.844Z</updated>
-        <summary type="html"><![CDATA[Jin microservices is a complete microservice demo based on PHP language + hyperf microservices framework
-    
-Language: PHP
-                            
-Star: 61
-                            
-Fork: 12]]></summary>
-        <author>
-            <name>Double-Jin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[celaraze / chemex]]></title>
-        <id>https://github.com/celaraze/chemex</id>
-        <link href="https://github.com/celaraze/chemex"/>
-        <updated>2022-07-10T01:07:22.820Z</updated>
-        <summary type="html"><![CDATA[☕ 咖啡壶是一个免费、开源、高效且漂亮的运维资产管理平台。软硬件资产管理、归属/使用者追溯、盘点以及可靠的服务器状态管理面板。基于优雅的Laravel框架和DcatAdmin开发。
-    
-Language: PHP
-                            
-Star: 364
-                            
-Fork: 101]]></summary>
-        <author>
-            <name>celaraze</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[assimon / dujiaoka]]></title>
-        <id>https://github.com/assimon/dujiaoka</id>
-        <link href="https://github.com/assimon/dujiaoka"/>
-        <updated>2022-07-10T01:07:22.775Z</updated>
-        <summary type="html"><![CDATA[🦄独角数卡(自动售货系统)-开源式站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
+        <title type="html"><![CDATA[stephentian / 33-js-concepts]]></title>
+        <id>https://github.com/stephentian/33-js-concepts</id>
+        <link href="https://github.com/stephentian/33-js-concepts"/>
+        <updated>2022-07-11T01:02:28.888Z</updated>
+        <summary type="html"><![CDATA[📜 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
 
     
-Language: PHP
+Language: JavaScript
                             
-Star: 2,809
+Star: 13,274
                             
-Fork: 955]]></summary>
+Fork: 2,166]]></summary>
         <author>
-            <name>assimon</name>
+            <name>stephentian</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[top-think / framework]]></title>
-        <id>https://github.com/top-think/framework</id>
-        <link href="https://github.com/top-think/framework"/>
-        <updated>2022-07-10T01:07:22.733Z</updated>
-        <summary type="html"><![CDATA[ThinkPHP Framework
+        <title type="html"><![CDATA[mochat-cloud / mochat]]></title>
+        <id>https://github.com/mochat-cloud/mochat</id>
+        <link href="https://github.com/mochat-cloud/mochat"/>
+        <updated>2022-07-11T01:02:28.832Z</updated>
+        <summary type="html"><![CDATA[基于企业微信的开源SCRM应用开发框架&引擎，也是一套通用的企业私域流量管理系统!
     
 Language: PHP
                             
-Star: 2,469
+Star: 1,709
                             
-Fork: 1,017]]></summary>
+Fork: 391]]></summary>
         <author>
-            <name>top-think</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hlmd / Postman-cn]]></title>
-        <id>https://github.com/hlmd/Postman-cn</id>
-        <link href="https://github.com/hlmd/Postman-cn"/>
-        <updated>2022-07-10T01:07:22.698Z</updated>
-        <summary type="html"><![CDATA[Postman汉化中文版
-    
-Language: PHP
-                            
-Star: 4,069
-                            
-Fork: 497]]></summary>
-        <author>
-            <name>hlmd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lizhipay / acg-faka]]></title>
-        <id>https://github.com/lizhipay/acg-faka</id>
-        <link href="https://github.com/lizhipay/acg-faka"/>
-        <updated>2022-07-10T01:07:22.668Z</updated>
-        <summary type="html"><![CDATA[个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
-    
-Language: PHP
-                            
-Star: 478
-                            
-Fork: 109]]></summary>
-        <author>
-            <name>lizhipay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jqhph / dcat-admin]]></title>
-        <id>https://github.com/jqhph/dcat-admin</id>
-        <link href="https://github.com/jqhph/dcat-admin"/>
-        <updated>2022-07-10T01:07:22.621Z</updated>
-        <summary type="html"><![CDATA[🔥 基于 Laravel 的后台系统构建工具 (Laravel Admin)，使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码
-    
-Language: PHP
-                            
-Star: 3,058
-                            
-Fork: 513]]></summary>
-        <author>
-            <name>jqhph</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zyx0814 / dzzoffice]]></title>
-        <id>https://github.com/zyx0814/dzzoffice</id>
-        <link href="https://github.com/zyx0814/dzzoffice"/>
-        <updated>2022-07-10T01:07:22.584Z</updated>
-        <summary type="html"><![CDATA[dzzoffice
-    
-Language: PHP
-                            
-Star: 3,482
-                            
-Fork: 762]]></summary>
-        <author>
-            <name>zyx0814</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[szvone / vmqphp]]></title>
-        <id>https://github.com/szvone/vmqphp</id>
-        <link href="https://github.com/szvone/vmqphp"/>
-        <updated>2022-07-10T01:07:22.565Z</updated>
-        <summary type="html"><![CDATA[V免签PHP版 完全开源免费的个人免签约解决方案
-    
-Language: PHP
-                            
-Star: 930
-                            
-Fork: 469]]></summary>
-        <author>
-            <name>szvone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[helloxz / IPinfo]]></title>
-        <id>https://github.com/helloxz/IPinfo</id>
-        <link href="https://github.com/helloxz/IPinfo"/>
-        <updated>2022-07-10T01:07:22.530Z</updated>
-        <summary type="html"><![CDATA[整合多接口的IP查询工具。
-    
-Language: PHP
-                            
-Star: 365
-                            
-Fork: 132]]></summary>
-        <author>
-            <name>helloxz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZainCheung / netease-cloud-api]]></title>
-        <id>https://github.com/ZainCheung/netease-cloud-api</id>
-        <link href="https://github.com/ZainCheung/netease-cloud-api"/>
-        <updated>2022-07-10T01:07:22.492Z</updated>
-        <summary type="html"><![CDATA[网易云音乐升级API
-    
-Language: PHP
-                            
-Star: 1,171
-                            
-Fork: 3,344]]></summary>
-        <author>
-            <name>ZainCheung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FeeiCN / Security-PPT]]></title>
-        <id>https://github.com/FeeiCN/Security-PPT</id>
-        <link href="https://github.com/FeeiCN/Security-PPT"/>
-        <updated>2022-07-10T01:07:22.209Z</updated>
-        <summary type="html"><![CDATA[Security-related Slide Presentation & Security Research Report（大安全各领域各公司各会议分享的PPT以及各类安全研究报告）
-    
-Language: HTML
-                            
-Star: 2,730
-                            
-Fork: 690]]></summary>
-        <author>
-            <name>FeeiCN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TurboWay / big_screen]]></title>
-        <id>https://github.com/TurboWay/big_screen</id>
-        <link href="https://github.com/TurboWay/big_screen"/>
-        <updated>2022-07-10T01:07:22.139Z</updated>
-        <summary type="html"><![CDATA[数据大屏可视化
-    
-Language: HTML
-                            
-Star: 1,182
-                            
-Fork: 248]]></summary>
-        <author>
-            <name>TurboWay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nndl / nndl.github.io]]></title>
-        <id>https://github.com/nndl/nndl.github.io</id>
-        <link href="https://github.com/nndl/nndl.github.io"/>
-        <updated>2022-07-10T01:07:22.102Z</updated>
-        <summary type="html"><![CDATA[《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning 
-    
-Language: HTML
-                            
-Star: 15,662
-                            
-Fork: 3,454]]></summary>
-        <author>
-            <name>nndl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ituring / first-pr]]></title>
-        <id>https://github.com/ituring/first-pr</id>
-        <link href="https://github.com/ituring/first-pr"/>
-        <updated>2022-07-10T01:07:22.085Z</updated>
-        <summary type="html"><![CDATA[《GitHub实践入门》实验用仓库
-    
-Language: HTML
-                            
-Star: 188
-                            
-Fork: 1,612]]></summary>
-        <author>
-            <name>ituring</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jumpserver / jumpserver]]></title>
-        <id>https://github.com/jumpserver/jumpserver</id>
-        <link href="https://github.com/jumpserver/jumpserver"/>
-        <updated>2022-07-10T01:07:22.056Z</updated>
-        <summary type="html"><![CDATA[JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。
-    
-Language: Python
-                            
-Star: 18,772
-                            
-Fork: 4,650]]></summary>
-        <author>
-            <name>jumpserver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[songquanpeng / pronunciation-corrector]]></title>
-        <id>https://github.com/songquanpeng/pronunciation-corrector</id>
-        <link href="https://github.com/songquanpeng/pronunciation-corrector"/>
-        <updated>2022-07-10T01:07:22.020Z</updated>
-        <summary type="html"><![CDATA[拯救你的英语发音，告别因发音错误带来的尴尬！
-    
-Language: HTML
-                            
-Star: 57
-                            
-Fork: 7]]></summary>
-        <author>
-            <name>songquanpeng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sfvsfv / ComputerStudent]]></title>
-        <id>https://github.com/sfvsfv/ComputerStudent</id>
-        <link href="https://github.com/sfvsfv/ComputerStudent"/>
-        <updated>2022-07-10T01:07:21.991Z</updated>
-        <summary type="html"><![CDATA[计算机专业系统性学习资料（python,c,c++,计算机组成，计算机网络，编译原理，电路，谷歌插件，爬虫）
-    
-Language: HTML
-                            
-Star: 410
-                            
-Fork: 181]]></summary>
-        <author>
-            <name>sfvsfv</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[golang101 / golang101]]></title>
-        <id>https://github.com/golang101/golang101</id>
-        <link href="https://github.com/golang101/golang101"/>
-        <updated>2022-07-10T01:07:21.953Z</updated>
-        <summary type="html"><![CDATA[Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书
-    
-Language: HTML
-                            
-Star: 3,344
-                            
-Fork: 343]]></summary>
-        <author>
-            <name>golang101</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[flutterchina / flutter_in_action_2nd]]></title>
-        <id>https://github.com/flutterchina/flutter_in_action_2nd</id>
-        <link href="https://github.com/flutterchina/flutter_in_action_2nd"/>
-        <updated>2022-07-10T01:07:21.935Z</updated>
-        <summary type="html"><![CDATA[《Flutter实战 第二版》- 书稿（未完成）
-    
-Language: HTML
-                            
-Star: 723
-                            
-Fork: 121]]></summary>
-        <author>
-            <name>flutterchina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TencentCloud / TIMSDK]]></title>
-        <id>https://github.com/TencentCloud/TIMSDK</id>
-        <link href="https://github.com/TencentCloud/TIMSDK"/>
-        <updated>2022-07-10T01:07:21.908Z</updated>
-        <summary type="html"><![CDATA[腾讯云即时通信 IM 服务，国内下载镜像：
-    
-Language: HTML
-                            
-Star: 2,149
-                            
-Fork: 2,515]]></summary>
-        <author>
-            <name>TencentCloud</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PKUFlyingPig / cs-self-learning]]></title>
-        <id>https://github.com/PKUFlyingPig/cs-self-learning</id>
-        <link href="https://github.com/PKUFlyingPig/cs-self-learning"/>
-        <updated>2022-07-10T01:07:21.877Z</updated>
-        <summary type="html"><![CDATA[计算机自学指南
-    
-Language: HTML
-                            
-Star: 10,142
-                            
-Fork: 1,445]]></summary>
-        <author>
-            <name>PKUFlyingPig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TransparentLC / WechatMomentScreenshot]]></title>
-        <id>https://github.com/TransparentLC/WechatMomentScreenshot</id>
-        <link href="https://github.com/TransparentLC/WechatMomentScreenshot"/>
-        <updated>2022-07-10T01:07:21.848Z</updated>
-        <summary type="html"><![CDATA[朋友圈转发截图生成工具
-    
-Language: HTML
-                            
-Star: 2,024
-                            
-Fork: 329]]></summary>
-        <author>
-            <name>TransparentLC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bjmashibing / java]]></title>
-        <id>https://github.com/bjmashibing/java</id>
-        <link href="https://github.com/bjmashibing/java"/>
-        <updated>2022-07-10T01:07:21.818Z</updated>
-        <summary type="html"><![CDATA[Language: HTML
-                            
-Star: 594
-                            
-Fork: 845]]></summary>
-        <author>
-            <name>bjmashibing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[biaochenxuying / blog]]></title>
-        <id>https://github.com/biaochenxuying/blog</id>
-        <link href="https://github.com/biaochenxuying/blog"/>
-        <updated>2022-07-10T01:07:21.802Z</updated>
-        <summary type="html"><![CDATA[大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。
-    
-Language: HTML
-                            
-Star: 3,745
-                            
-Fork: 671]]></summary>
-        <author>
-            <name>biaochenxuying</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[javascript-tutorial / zh.javascript.info]]></title>
-        <id>https://github.com/javascript-tutorial/zh.javascript.info</id>
-        <link href="https://github.com/javascript-tutorial/zh.javascript.info"/>
-        <updated>2022-07-10T01:07:21.771Z</updated>
-        <summary type="html"><![CDATA[现代 JavaScript 教程（The Modern JavaScript Tutorial）
-    
-Language: HTML
-                            
-Star: 6,854
-                            
-Fork: 907]]></summary>
-        <author>
-            <name>javascript-tutorial</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[doocs / technical-books]]></title>
-        <id>https://github.com/doocs/technical-books</id>
-        <link href="https://github.com/doocs/technical-books"/>
-        <updated>2022-07-10T01:07:21.737Z</updated>
-        <summary type="html"><![CDATA[😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、深度学习...
-    
-Language: HTML
-                            
-Star: 4,467
-                            
-Fork: 857]]></summary>
-        <author>
-            <name>doocs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[anzhihe / learning]]></title>
-        <id>https://github.com/anzhihe/learning</id>
-        <link href="https://github.com/anzhihe/learning"/>
-        <updated>2022-07-10T01:07:21.700Z</updated>
-        <summary type="html"><![CDATA[Learning Shell，Python，Golang，System，Network
-    
-Language: Python
-                            
-Star: 667
-                            
-Fork: 311]]></summary>
-        <author>
-            <name>anzhihe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SummerSec / JavaLearnVulnerability]]></title>
-        <id>https://github.com/SummerSec/JavaLearnVulnerability</id>
-        <link href="https://github.com/SummerSec/JavaLearnVulnerability"/>
-        <updated>2022-07-10T01:07:21.660Z</updated>
-        <summary type="html"><![CDATA[Java漏洞学习笔记 Deserialization Vulnerability
-    
-Language: HTML
-                            
-Star: 558
-                            
-Fork: 73]]></summary>
-        <author>
-            <name>SummerSec</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[qiangmzsx / Software-Engineering-at-Google]]></title>
-        <id>https://github.com/qiangmzsx/Software-Engineering-at-Google</id>
-        <link href="https://github.com/qiangmzsx/Software-Engineering-at-Google"/>
-        <updated>2022-07-10T01:07:21.628Z</updated>
-        <summary type="html"><![CDATA[《Software Engineering at Google》的中文翻译版本
-    
-Language: HTML
-                            
-Star: 1,976
-                            
-Fork: 250]]></summary>
-        <author>
-            <name>qiangmzsx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fengdu78 / Coursera-ML-AndrewNg-Notes]]></title>
-        <id>https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes</id>
-        <link href="https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes"/>
-        <updated>2022-07-10T01:07:21.596Z</updated>
-        <summary type="html"><![CDATA[吴恩达老师的机器学习课程个人笔记
-    
-Language: HTML
-                            
-Star: 25,437
-                            
-Fork: 9,626]]></summary>
-        <author>
-            <name>fengdu78</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FuchsiaOS / FuchsiaOS-docs-zh_CN]]></title>
-        <id>https://github.com/FuchsiaOS/FuchsiaOS-docs-zh_CN</id>
-        <link href="https://github.com/FuchsiaOS/FuchsiaOS-docs-zh_CN"/>
-        <updated>2022-07-10T01:07:21.579Z</updated>
-        <summary type="html"><![CDATA[Fuchsia OS 简体中文文档
-    
-Language: HTML
-                            
-Star: 902
-                            
-Fork: 187]]></summary>
-        <author>
-            <name>FuchsiaOS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threekiii / Vulnerability-Wiki]]></title>
-        <id>https://github.com/Threekiii/Vulnerability-Wiki</id>
-        <link href="https://github.com/Threekiii/Vulnerability-Wiki"/>
-        <updated>2022-07-10T01:07:21.546Z</updated>
-        <summary type="html"><![CDATA[一个综合漏洞知识库，集成了Vulhub、Peiqi、Edge、0sec、Wooyun等开源漏洞库
-    
-Language: HTML
-                            
-Star: 247
-                            
-Fork: 67]]></summary>
-        <author>
-            <name>Threekiii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[worldcom47 / inediso]]></title>
-        <id>https://github.com/worldcom47/inediso</id>
-        <link href="https://github.com/worldcom47/inediso"/>
-        <updated>2022-07-10T01:07:21.519Z</updated>
-        <summary type="html"><![CDATA[Language: HTML
-                            
-Star: 53
-                            
-Fork:]]></summary>
-        <author>
-            <name>worldcom47</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tencentyun / qcloud-documents]]></title>
-        <id>https://github.com/tencentyun/qcloud-documents</id>
-        <link href="https://github.com/tencentyun/qcloud-documents"/>
-        <updated>2022-07-10T01:07:21.457Z</updated>
-        <summary type="html"><![CDATA[腾讯云官方文档
-    
-Language: HTML
-                            
-Star: 1,911
-                            
-Fork: 3,212]]></summary>
-        <author>
-            <name>tencentyun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CyC2018 / Markdown-Resume]]></title>
-        <id>https://github.com/CyC2018/Markdown-Resume</id>
-        <link href="https://github.com/CyC2018/Markdown-Resume"/>
-        <updated>2022-07-10T01:07:21.421Z</updated>
-        <summary type="html"><![CDATA[⭐️ Markdown 简历模版
-    
-Language: HTML
-                            
-Star: 2,193
-                            
-Fork: 1,278]]></summary>
-        <author>
-            <name>CyC2018</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kenzok8 / openwrt-packages]]></title>
-        <id>https://github.com/kenzok8/openwrt-packages</id>
-        <link href="https://github.com/kenzok8/openwrt-packages"/>
-        <updated>2022-07-10T01:07:21.392Z</updated>
-        <summary type="html"><![CDATA[openwrt常用软件包
-    
-Language: HTML
-                            
-Star: 3,416
-                            
-Fork: 2,198]]></summary>
-        <author>
-            <name>kenzok8</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vpncn / vpncn.github.io]]></title>
-        <id>https://github.com/vpncn/vpncn.github.io</id>
-        <link href="https://github.com/vpncn/vpncn.github.io"/>
-        <updated>2022-07-10T01:07:21.349Z</updated>
-        <summary type="html"><![CDATA[2022中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐。
-    
-Language: HTML
-                            
-Star: 5,840
-                            
-Fork: 1,489]]></summary>
-        <author>
-            <name>vpncn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TheKingOfDuck / fuzzDicts]]></title>
-        <id>https://github.com/TheKingOfDuck/fuzzDicts</id>
-        <link href="https://github.com/TheKingOfDuck/fuzzDicts"/>
-        <updated>2022-07-10T01:07:21.303Z</updated>
-        <summary type="html"><![CDATA[Web Pentesting Fuzz 字典,一个就够了。
-    
-Language: Python
-                            
-Star: 4,820
-                            
-Fork: 1,931]]></summary>
-        <author>
-            <name>TheKingOfDuck</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[shibing624 / pycorrector]]></title>
-        <id>https://github.com/shibing624/pycorrector</id>
-        <link href="https://github.com/shibing624/pycorrector"/>
-        <updated>2022-07-10T01:07:21.271Z</updated>
-        <summary type="html"><![CDATA[pycorrector is a toolkit for text error correction. 文本纠错，Kenlm，ConvSeq2Seq，BERT，MacBERT，ELECTRA，ERNIE，Transformer，T5等模型实现，开箱即用。
-    
-Language: Python
-                            
-Star: 3,336
-                            
-Fork: 822]]></summary>
-        <author>
-            <name>shibing624</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ice-Cirno / HoshinoBot]]></title>
-        <id>https://github.com/Ice-Cirno/HoshinoBot</id>
-        <link href="https://github.com/Ice-Cirno/HoshinoBot"/>
-        <updated>2022-07-10T01:07:21.009Z</updated>
-        <summary type="html"><![CDATA[A qqbot for Princess Connect Re:Dive (and other usage :)
-    
-Language: Python
-                            
-Star: 1,084
-                            
-Fork: 384]]></summary>
-        <author>
-            <name>Ice-Cirno</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SuperCV / Book]]></title>
-        <id>https://github.com/SuperCV/Book</id>
-        <link href="https://github.com/SuperCV/Book"/>
-        <updated>2022-07-10T01:07:20.976Z</updated>
-        <summary type="html"><![CDATA[📗我的个人书籍学习和收藏
-    
-Language: Python
-                            
-Star: 869
-                            
-Fork: 418]]></summary>
-        <author>
-            <name>SuperCV</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WZMIAOMIAO / deep-learning-for-image-processing]]></title>
-        <id>https://github.com/WZMIAOMIAO/deep-learning-for-image-processing</id>
-        <link href="https://github.com/WZMIAOMIAO/deep-learning-for-image-processing"/>
-        <updated>2022-07-10T01:07:20.953Z</updated>
-        <summary type="html"><![CDATA[deep learning for image processing including classification and object-detection etc.
-    
-Language: Python
-                            
-Star: 9,963
-                            
-Fork: 4,738]]></summary>
-        <author>
-            <name>WZMIAOMIAO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bubbliiiing / yolov4-pytorch]]></title>
-        <id>https://github.com/bubbliiiing/yolov4-pytorch</id>
-        <link href="https://github.com/bubbliiiing/yolov4-pytorch"/>
-        <updated>2022-07-10T01:07:20.899Z</updated>
-        <summary type="html"><![CDATA[这是一个YoloV4-pytorch的源码，可以用于训练自己的模型。
-    
-Language: Python
-                            
-Star: 1,655
-                            
-Fork: 555]]></summary>
-        <author>
-            <name>bubbliiiing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[moranzcw / Computer-Networking-A-Top-Down-Approach-NOTES]]></title>
-        <id>https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES</id>
-        <link href="https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES"/>
-        <updated>2022-07-10T01:07:20.865Z</updated>
-        <summary type="html"><![CDATA[《计算机网络－自顶向下方法(原书第6版)》编程作业，Wireshark实验文档的翻译和解答。
-    
-Language: Python
-                            
-Star: 4,238
-                            
-Fork: 1,192]]></summary>
-        <author>
-            <name>moranzcw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[alibaba / taobao-iphone-device]]></title>
-        <id>https://github.com/alibaba/taobao-iphone-device</id>
-        <link href="https://github.com/alibaba/taobao-iphone-device"/>
-        <updated>2022-07-10T01:07:20.830Z</updated>
-        <summary type="html"><![CDATA[tidevice can be used to communicate with iPhone device
-    
-Language: Python
-                            
-Star: 1,550
-                            
-Fork: 318]]></summary>
-        <author>
-            <name>alibaba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PantsuDango / Dango-Translator]]></title>
-        <id>https://github.com/PantsuDango/Dango-Translator</id>
-        <link href="https://github.com/PantsuDango/Dango-Translator"/>
-        <updated>2022-07-10T01:07:20.793Z</updated>
-        <summary type="html"><![CDATA[团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器
-    
-Language: Python
-                            
-Star: 4,039
-                            
-Fork: 399]]></summary>
-        <author>
-            <name>PantsuDango</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jack-Cherish / python-spider]]></title>
-        <id>https://github.com/Jack-Cherish/python-spider</id>
-        <link href="https://github.com/Jack-Cherish/python-spider"/>
-        <updated>2022-07-10T01:07:20.773Z</updated>
-        <summary type="html"><![CDATA[🌈Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
-    
-Language: Python
-                            
-Star: 15,039
-                            
-Fork: 5,583]]></summary>
-        <author>
-            <name>Jack-Cherish</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hankcs / HanLP]]></title>
-        <id>https://github.com/hankcs/HanLP</id>
-        <link href="https://github.com/hankcs/HanLP"/>
-        <updated>2022-07-10T01:07:20.740Z</updated>
-        <summary type="html"><![CDATA[中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
-    
-Language: Python
-                            
-Star: 26,352
-                            
-Fork: 7,173]]></summary>
-        <author>
-            <name>hankcs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PaddlePaddle / PaddleX]]></title>
-        <id>https://github.com/PaddlePaddle/PaddleX</id>
-        <link href="https://github.com/PaddlePaddle/PaddleX"/>
-        <updated>2022-07-10T01:07:20.682Z</updated>
-        <summary type="html"><![CDATA[PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具）
-    
-Language: Python
-                            
-Star: 3,824
-                            
-Fork: 769]]></summary>
-        <author>
-            <name>PaddlePaddle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[liuhuanyong / QASystemOnMedicalKG]]></title>
-        <id>https://github.com/liuhuanyong/QASystemOnMedicalKG</id>
-        <link href="https://github.com/liuhuanyong/QASystemOnMedicalKG"/>
-        <updated>2022-07-10T01:07:20.649Z</updated>
-        <summary type="html"><![CDATA[A tutorial and implement of disease centered Medical knowledge graph and qa system based on it。知识图谱构建，自动问答，基于kg的自动问答。以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。
-    
-Language: Python
-                            
-Star: 4,132
-                            
-Fork: 1,620]]></summary>
-        <author>
-            <name>liuhuanyong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7eu7d7 / genshin_auto_fish]]></title>
-        <id>https://github.com/7eu7d7/genshin_auto_fish</id>
-        <link href="https://github.com/7eu7d7/genshin_auto_fish"/>
-        <updated>2022-07-10T01:07:20.613Z</updated>
-        <summary type="html"><![CDATA[基于深度强化学习的原神自动钓鱼AI
-    
-Language: Python
-                            
-Star: 3,897
-                            
-Fork: 661]]></summary>
-        <author>
-            <name>7eu7d7</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vonng / ddia]]></title>
-        <id>https://github.com/Vonng/ddia</id>
-        <link href="https://github.com/Vonng/ddia"/>
-        <updated>2022-07-10T01:07:20.585Z</updated>
-        <summary type="html"><![CDATA[《Designing Data-Intensive Application》DDIA中文翻译
-    
-Language: Python
-                            
-Star: 14,891
-                            
-Fork: 3,252]]></summary>
-        <author>
-            <name>Vonng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tonquer / picacg-qt]]></title>
-        <id>https://github.com/tonquer/picacg-qt</id>
-        <link href="https://github.com/tonquer/picacg-qt"/>
-        <updated>2022-07-10T01:07:20.539Z</updated>
-        <summary type="html"><![CDATA[哔咔漫画, PicACG comic PC client(Windows, Linux, MacOS) 
-    
-Language: Python
-                            
-Star: 1,418
-                            
-Fork: 105]]></summary>
-        <author>
-            <name>tonquer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TechXueXi / TechXueXi]]></title>
-        <id>https://github.com/TechXueXi/TechXueXi</id>
-        <link href="https://github.com/TechXueXi/TechXueXi"/>
-        <updated>2022-07-10T01:07:20.508Z</updated>
-        <summary type="html"><![CDATA[强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天
-    
-Language: Python
-                            
-Star: 3,475
-                            
-Fork: 941]]></summary>
-        <author>
-            <name>TechXueXi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jrohy / multi-v2ray]]></title>
-        <id>https://github.com/Jrohy/multi-v2ray</id>
-        <link href="https://github.com/Jrohy/multi-v2ray"/>
-        <updated>2022-07-10T01:07:20.435Z</updated>
-        <summary type="html"><![CDATA[v2ray/xray多用户管理部署程序
-    
-Language: Python
-                            
-Star: 5,831
-                            
-Fork: 2,329]]></summary>
-        <author>
-            <name>Jrohy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jack-Cherish / Machine-Learning]]></title>
-        <id>https://github.com/Jack-Cherish/Machine-Learning</id>
-        <link href="https://github.com/Jack-Cherish/Machine-Learning"/>
-        <updated>2022-07-10T01:07:20.400Z</updated>
-        <summary type="html"><![CDATA[⚡机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归
-    
-Language: Python
-                            
-Star: 6,334
-                            
-Fork: 4,576]]></summary>
-        <author>
-            <name>Jack-Cherish</name>
+            <name>mochat-cloud</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Python3WebSpider / ProxyPool]]></title>
         <id>https://github.com/Python3WebSpider/ProxyPool</id>
         <link href="https://github.com/Python3WebSpider/ProxyPool"/>
-        <updated>2022-07-10T01:07:20.376Z</updated>
+        <updated>2022-07-11T01:02:28.800Z</updated>
         <summary type="html"><![CDATA[An Efficient ProxyPool with Getter, Tester and Server
     
 Language: Python
                             
-Star: 3,762
+Star: 3,763
                             
 Fork: 1,423]]></summary>
         <author>
@@ -1951,301 +1348,127 @@ Fork: 1,423]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenEthan / SMSBoom]]></title>
-        <id>https://github.com/OpenEthan/SMSBoom</id>
-        <link href="https://github.com/OpenEthan/SMSBoom"/>
-        <updated>2022-07-10T01:07:20.319Z</updated>
-        <summary type="html"><![CDATA[短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
+        <title type="html"><![CDATA[tencentmusic / cube-studio]]></title>
+        <id>https://github.com/tencentmusic/cube-studio</id>
+        <link href="https://github.com/tencentmusic/cube-studio"/>
+        <updated>2022-07-11T01:02:28.765Z</updated>
+        <summary type="html"><![CDATA[云原生一站式机器学习平台，oa，项目组权限，在线开发，分布式训练，超参搜索，推理服务，多集群调度，多项目组资源组，边缘计算
     
 Language: Python
                             
-Star: 4,562
+Star: 369
                             
-Fork: 1,199]]></summary>
+Fork: 112]]></summary>
         <author>
-            <name>OpenEthan</name>
+            <name>tencentmusic</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[pwxcoo / chinese-xinhua]]></title>
-        <id>https://github.com/pwxcoo/chinese-xinhua</id>
-        <link href="https://github.com/pwxcoo/chinese-xinhua"/>
-        <updated>2022-07-10T01:07:20.254Z</updated>
-        <summary type="html"><![CDATA[📙 中华新华字典数据库。包括歇后语，成语，词语，汉字。
+        <title type="html"><![CDATA[tal-tech / edu-bert]]></title>
+        <id>https://github.com/tal-tech/edu-bert</id>
+        <link href="https://github.com/tal-tech/edu-bert"/>
+        <updated>2022-07-11T01:02:28.737Z</updated>
+        <summary type="html"><![CDATA[好未来开源教育领域首个在线教学中文预训练模型TAL-EduBERT
     
 Language: Python
                             
-Star: 9,511
+Star: 142
                             
-Fork: 2,268]]></summary>
+Fork: 40]]></summary>
         <author>
-            <name>pwxcoo</name>
+            <name>tal-tech</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TophantTechnology / ARL]]></title>
-        <id>https://github.com/TophantTechnology/ARL</id>
-        <link href="https://github.com/TophantTechnology/ARL"/>
-        <updated>2022-07-10T01:07:20.214Z</updated>
-        <summary type="html"><![CDATA[ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
+        <title type="html"><![CDATA[ronggang / PT-Plugin-Plus]]></title>
+        <id>https://github.com/ronggang/PT-Plugin-Plus</id>
+        <link href="https://github.com/ronggang/PT-Plugin-Plus"/>
+        <updated>2022-07-11T01:02:28.719Z</updated>
+        <summary type="html"><![CDATA[PT 助手 Plus，为 Google Chrome 和 Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
+    
+Language: JavaScript
+                            
+Star: 3,554
+                            
+Fork: 533]]></summary>
+        <author>
+            <name>ronggang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yutiansut / QUANTAXIS]]></title>
+        <id>https://github.com/yutiansut/QUANTAXIS</id>
+        <link href="https://github.com/yutiansut/QUANTAXIS"/>
+        <updated>2022-07-11T01:02:28.690Z</updated>
+        <summary type="html"><![CDATA[QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权 数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案
     
 Language: Python
                             
-Star: 2,776
+Star: 6,642
                             
-Fork: 568]]></summary>
+Fork: 2,634]]></summary>
         <author>
-            <name>TophantTechnology</name>
+            <name>yutiansut</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[lolisaikou / LazyStudy]]></title>
-        <id>https://github.com/lolisaikou/LazyStudy</id>
-        <link href="https://github.com/lolisaikou/LazyStudy"/>
-        <updated>2022-07-10T01:07:20.061Z</updated>
-        <summary type="html"><![CDATA[Language: JavaScript
-                            
-Star: 545
-                            
-Fork: 252]]></summary>
-        <author>
-            <name>lolisaikou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[toolgood / ToolGood.Words]]></title>
-        <id>https://github.com/toolgood/ToolGood.Words</id>
-        <link href="https://github.com/toolgood/ToolGood.Words"/>
-        <updated>2022-07-10T01:07:20.039Z</updated>
-        <summary type="html"><![CDATA[一款高性能敏感词(非法词/脏字)检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。
+        <title type="html"><![CDATA[xfgryujk / blivechat]]></title>
+        <id>https://github.com/xfgryujk/blivechat</id>
+        <link href="https://github.com/xfgryujk/blivechat"/>
+        <updated>2022-07-11T01:02:28.655Z</updated>
+        <summary type="html"><![CDATA[用于OBS的仿YouTube风格的bilibili直播评论栏
     
 Language: JavaScript
                             
-Star: 3,176
+Star: 938
                             
-Fork: 680]]></summary>
+Fork: 124]]></summary>
         <author>
-            <name>toolgood</name>
+            <name>xfgryujk</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[eolinker / eoapi]]></title>
-        <id>https://github.com/eolinker/eoapi</id>
-        <link href="https://github.com/eolinker/eoapi"/>
-        <updated>2022-07-10T01:07:19.997Z</updated>
-        <summary type="html"><![CDATA[Eoapi 是一个可扩展的 API 开发工具。Eoapi 集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。
+        <title type="html"><![CDATA[Tai7sy / card-system]]></title>
+        <id>https://github.com/Tai7sy/card-system</id>
+        <link href="https://github.com/Tai7sy/card-system"/>
+        <updated>2022-07-11T01:02:28.623Z</updated>
+        <summary type="html"><![CDATA[卡密商城系统，高效安全的在线卡密商城
+    
+Language: PHP
+                            
+Star: 2,070
+                            
+Fork: 851]]></summary>
+        <author>
+            <name>Tai7sy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XIU2 / UserScript]]></title>
+        <id>https://github.com/XIU2/UserScript</id>
+        <link href="https://github.com/XIU2/UserScript"/>
+        <updated>2022-07-11T01:02:28.594Z</updated>
+        <summary type="html"><![CDATA[🐵 自用的一些乱七八糟 油猴脚本~ 
     
 Language: JavaScript
                             
-Star: 323
+Star: 3,999
                             
-Fork: 55]]></summary>
+Fork: 407]]></summary>
         <author>
-            <name>eolinker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[docmirror / dev-sidecar]]></title>
-        <id>https://github.com/docmirror/dev-sidecar</id>
-        <link href="https://github.com/docmirror/dev-sidecar"/>
-        <updated>2022-07-10T01:07:19.964Z</updated>
-        <summary type="html"><![CDATA[开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
-    
-Language: JavaScript
-                            
-Star: 9,657
-                            
-Fork: 1,145]]></summary>
-        <author>
-            <name>docmirror</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UnblockNeteaseMusic / server]]></title>
-        <id>https://github.com/UnblockNeteaseMusic/server</id>
-        <link href="https://github.com/UnblockNeteaseMusic/server"/>
-        <updated>2022-07-10T01:07:19.912Z</updated>
-        <summary type="html"><![CDATA[Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
-    
-Language: JavaScript
-                            
-Star: 2,222
-                            
-Fork: 287]]></summary>
-        <author>
-            <name>UnblockNeteaseMusic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6dylan6 / jdpro]]></title>
-        <id>https://github.com/6dylan6/jdpro</id>
-        <link href="https://github.com/6dylan6/jdpro"/>
-        <updated>2022-07-10T01:07:19.856Z</updated>
-        <summary type="html"><![CDATA[青龙脚本库
-    
-Language: JavaScript
-                            
-Star: 1,707
-                            
-Fork: 571]]></summary>
-        <author>
-            <name>6dylan6</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kujiale-Mobile / Painter]]></title>
-        <id>https://github.com/Kujiale-Mobile/Painter</id>
-        <link href="https://github.com/Kujiale-Mobile/Painter"/>
-        <updated>2022-07-10T01:07:19.805Z</updated>
-        <summary type="html"><![CDATA[小程序生成图片库，轻松通过 json 方式绘制一张可以发到朋友圈的图片
-    
-Language: JavaScript
-                            
-Star: 3,467
-                            
-Fork: 515]]></summary>
-        <author>
-            <name>Kujiale-Mobile</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[o2oa / o2oa]]></title>
-        <id>https://github.com/o2oa/o2oa</id>
-        <link href="https://github.com/o2oa/o2oa"/>
-        <updated>2022-07-10T01:07:19.743Z</updated>
-        <summary type="html"><![CDATA[开源OA系统 - 码云GVP|Java开源oa|企业OA办公平台|企业OA|协同办公OA|流程平台OA|O2OA|OA，支持国产麒麟操作系统和国产数据库（达梦、人大金仓），政务OA，军工信息化OA
-    
-Language: JavaScript
-                            
-Star: 3,193
-                            
-Fork: 1,044]]></summary>
-        <author>
-            <name>o2oa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orz-3 / QuantumultX]]></title>
-        <id>https://github.com/Orz-3/QuantumultX</id>
-        <link href="https://github.com/Orz-3/QuantumultX"/>
-        <updated>2022-07-10T01:07:19.720Z</updated>
-        <summary type="html"><![CDATA[Language: JavaScript
-                            
-Star: 2,233
-                            
-Fork: 515]]></summary>
-        <author>
-            <name>Orz-3</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YMFE / yapi]]></title>
-        <id>https://github.com/YMFE/yapi</id>
-        <link href="https://github.com/YMFE/yapi"/>
-        <updated>2022-07-10T01:07:19.687Z</updated>
-        <summary type="html"><![CDATA[YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
-    
-Language: JavaScript
-                            
-Star: 24,568
-                            
-Fork: 4,344]]></summary>
-        <author>
-            <name>YMFE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chvin / react-tetris]]></title>
-        <id>https://github.com/chvin/react-tetris</id>
-        <link href="https://github.com/chvin/react-tetris"/>
-        <updated>2022-07-10T01:07:19.644Z</updated>
-        <summary type="html"><![CDATA[Use React, Redux, Immutable to code Tetris. 🎮
-
-    
-Language: JavaScript
-                            
-Star: 7,040
-                            
-Fork: 1,594]]></summary>
-        <author>
-            <name>chvin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[qq281113270 / vue]]></title>
-        <id>https://github.com/qq281113270/vue</id>
-        <link href="https://github.com/qq281113270/vue"/>
-        <updated>2022-07-10T01:07:19.607Z</updated>
-        <summary type="html"><![CDATA[vue源码逐行注释分析+40多m的vue源码程序流程图思维导图
-    
-Language: JavaScript
-                            
-Star: 4,888
-                            
-Fork: 1,468]]></summary>
-        <author>
-            <name>qq281113270</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xiangyuecn / AreaCity-JsSpider-StatsGov]]></title>
-        <id>https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov</id>
-        <link href="https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov"/>
-        <updated>2022-07-10T01:07:19.540Z</updated>
-        <summary type="html"><![CDATA[省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2022年07月04日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据
-    
-Language: JavaScript
-                            
-Star: 3,470
-                            
-Fork: 692]]></summary>
-        <author>
-            <name>xiangyuecn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le-niao / Yunzai-Bot]]></title>
-        <id>https://github.com/Le-niao/Yunzai-Bot</id>
-        <link href="https://github.com/Le-niao/Yunzai-Bot"/>
-        <updated>2022-07-10T01:07:19.502Z</updated>
-        <summary type="html"><![CDATA[原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回
-    
-Language: JavaScript
-                            
-Star: 1,162
-                            
-Fork: 204]]></summary>
-        <author>
-            <name>Le-niao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[codeOflI / codeOflI.github.io]]></title>
-        <id>https://github.com/codeOflI/codeOflI.github.io</id>
-        <link href="https://github.com/codeOflI/codeOflI.github.io"/>
-        <updated>2022-07-10T01:07:19.457Z</updated>
-        <summary type="html"><![CDATA[学习笔记LearningNotes：https://github.com/codeOflI/LearningNotes
-
-    
-Language: JavaScript
-                            
-Star: 112
-                            
-Fork: 208]]></summary>
-        <author>
-            <name>codeOflI</name>
+            <name>XIU2</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[yoimiya-kokomi / miao-plugin]]></title>
         <id>https://github.com/yoimiya-kokomi/miao-plugin</id>
         <link href="https://github.com/yoimiya-kokomi/miao-plugin"/>
-        <updated>2022-07-10T01:07:19.414Z</updated>
+        <updated>2022-07-11T01:02:28.563Z</updated>
         <summary type="html"><![CDATA[Miao-Plugin for Yunzai-Bot
     
 Language: JavaScript
                             
-Star: 286
+Star: 290
                             
 Fork: 51]]></summary>
         <author>
@@ -2253,148 +1476,900 @@ Fork: 51]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ecomfe / echarts-for-weixin]]></title>
-        <id>https://github.com/ecomfe/echarts-for-weixin</id>
-        <link href="https://github.com/ecomfe/echarts-for-weixin"/>
-        <updated>2022-07-10T01:07:19.380Z</updated>
-        <summary type="html"><![CDATA[Apache ECharts 的微信小程序版本
+        <title type="html"><![CDATA[HeiSir2014 / M3U8-Downloader]]></title>
+        <id>https://github.com/HeiSir2014/M3U8-Downloader</id>
+        <link href="https://github.com/HeiSir2014/M3U8-Downloader"/>
+        <updated>2022-07-11T01:02:28.547Z</updated>
+        <summary type="html"><![CDATA[M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
     
 Language: JavaScript
                             
-Star: 5,850
+Star: 1,777
                             
-Fork: 1,457]]></summary>
+Fork: 311]]></summary>
         <author>
-            <name>ecomfe</name>
+            <name>HeiSir2014</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XX-net / XX-Net]]></title>
+        <id>https://github.com/XX-net/XX-Net</id>
+        <link href="https://github.com/XX-net/XX-Net"/>
+        <updated>2022-07-11T01:02:28.518Z</updated>
+        <summary type="html"><![CDATA[A proxy tool to bypass GFW.
+    
+Language: Python
+                            
+Star: 31,291
+                            
+Fork: 7,790]]></summary>
+        <author>
+            <name>XX-net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NateScarlet / auto-derby]]></title>
+        <id>https://github.com/NateScarlet/auto-derby</id>
+        <link href="https://github.com/NateScarlet/auto-derby"/>
+        <updated>2022-07-11T01:02:28.493Z</updated>
+        <summary type="html"><![CDATA[🐎🖥《赛马娘》（ウマ娘: Pretty Derby）辅助脚本 
+    
+Language: Python
+                            
+Star: 311
+                            
+Fork: 85]]></summary>
+        <author>
+            <name>NateScarlet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dundunnp / auto_xuexiqiangguo]]></title>
+        <id>https://github.com/dundunnp/auto_xuexiqiangguo</id>
+        <link href="https://github.com/dundunnp/auto_xuexiqiangguo"/>
+        <updated>2022-07-11T01:02:28.464Z</updated>
+        <summary type="html"><![CDATA[每日拿满61分！免root，四人赛双人对战秒答，安卓端学习强国自动化脚本
+    
+Language: JavaScript
+                            
+Star: 1,379
+                            
+Fork: 618]]></summary>
+        <author>
+            <name>dundunnp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Limour-dev / daily_fudan_core]]></title>
+        <id>https://github.com/Limour-dev/daily_fudan_core</id>
+        <link href="https://github.com/Limour-dev/daily_fudan_core"/>
+        <updated>2022-07-11T01:02:28.432Z</updated>
+        <summary type="html"><![CDATA[daily_fudan的代码，无需fork；请fork https://github.com/Limour-dev/daily_fudan_actions 来自动执行该repo下的最新代码。有问题请提issue
+    
+Language: Python
+                            
+Star: 9
+                            
+Fork: 52]]></summary>
+        <author>
+            <name>Limour-dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YaoFANGUK / video-subtitle-extractor]]></title>
+        <id>https://github.com/YaoFANGUK/video-subtitle-extractor</id>
+        <link href="https://github.com/YaoFANGUK/video-subtitle-extractor"/>
+        <updated>2022-07-11T01:02:28.416Z</updated>
+        <summary type="html"><![CDATA[视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files. 
+    
+Language: Python
+                            
+Star: 1,335
+                            
+Fork: 188]]></summary>
+        <author>
+            <name>YaoFANGUK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yoshiko2 / Movie_Data_Capture]]></title>
+        <id>https://github.com/yoshiko2/Movie_Data_Capture</id>
+        <link href="https://github.com/yoshiko2/Movie_Data_Capture"/>
+        <updated>2022-07-11T01:02:28.387Z</updated>
+        <summary type="html"><![CDATA[Local Movies Organizer
+    
+Language: Python
+                            
+Star: 4,585
+                            
+Fork: 984]]></summary>
+        <author>
+            <name>yoshiko2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tgbot-collection / YYeTsBot]]></title>
+        <id>https://github.com/tgbot-collection/YYeTsBot</id>
+        <link href="https://github.com/tgbot-collection/YYeTsBot"/>
+        <updated>2022-07-11T01:02:28.346Z</updated>
+        <summary type="html"><![CDATA[🎬 人人影视bot，完全对接人人影视全部无删减资源
+    
+Language: Python
+                            
+Star: 11,484
+                            
+Fork: 1,575]]></summary>
+        <author>
+            <name>tgbot-collection</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zizifn / v2ray-heroku]]></title>
+        <id>https://github.com/zizifn/v2ray-heroku</id>
+        <link href="https://github.com/zizifn/v2ray-heroku"/>
+        <updated>2022-07-11T01:02:28.325Z</updated>
+        <summary type="html"><![CDATA[利用github actions 实现v2ray-heroku的部署，停止，启动，和删除。
+    
+Language: JavaScript
+                            
+Star: 384
+                            
+Fork: 3,701]]></summary>
+        <author>
+            <name>zizifn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[alibaba / x-render]]></title>
+        <id>https://github.com/alibaba/x-render</id>
+        <link href="https://github.com/alibaba/x-render"/>
+        <updated>2022-07-11T01:02:28.280Z</updated>
+        <summary type="html"><![CDATA[🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
+    
+Language: JavaScript
+                            
+Star: 4,772
+                            
+Fork: 700]]></summary>
+        <author>
+            <name>alibaba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binaryify / NeteaseCloudMusicApi]]></title>
+        <id>https://github.com/Binaryify/NeteaseCloudMusicApi</id>
+        <link href="https://github.com/Binaryify/NeteaseCloudMusicApi"/>
+        <updated>2022-07-11T01:02:28.243Z</updated>
+        <summary type="html"><![CDATA[网易云音乐 Node.js API service
+    
+Language: JavaScript
+                            
+Star: 24,758
+                            
+Fork: 9,308]]></summary>
+        <author>
+            <name>Binaryify</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gys619 / Absinthe]]></title>
+        <id>https://github.com/gys619/Absinthe</id>
+        <link href="https://github.com/gys619/Absinthe"/>
+        <updated>2022-07-11T01:02:28.207Z</updated>
+        <summary type="html"><![CDATA[一个兴趣使然的库
+    
+Language: JavaScript
+                            
+Star: 995
+                            
+Fork: 604]]></summary>
+        <author>
+            <name>gys619</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yu-steven / openit]]></title>
+        <id>https://github.com/yu-steven/openit</id>
+        <link href="https://github.com/yu-steven/openit"/>
+        <updated>2022-07-11T01:02:28.111Z</updated>
+        <summary type="html"><![CDATA[致力于打造免费无感的翻墙环境
+    
+Language: Python
+                            
+Star: 1,347
+                            
+Fork: 176]]></summary>
+        <author>
+            <name>yu-steven</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tonquer / picacg-qt]]></title>
+        <id>https://github.com/tonquer/picacg-qt</id>
+        <link href="https://github.com/tonquer/picacg-qt"/>
+        <updated>2022-07-11T01:02:28.026Z</updated>
+        <summary type="html"><![CDATA[哔咔漫画, PicACG comic PC client(Windows, Linux, MacOS) 
+    
+Language: Python
+                            
+Star: 1,421
+                            
+Fork: 105]]></summary>
+        <author>
+            <name>tonquer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[d2l-ai / d2l-zh]]></title>
+        <id>https://github.com/d2l-ai/d2l-zh</id>
+        <link href="https://github.com/d2l-ai/d2l-zh"/>
+        <updated>2022-07-11T01:02:27.993Z</updated>
+        <summary type="html"><![CDATA[《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。
+    
+Language: Python
+                            
+Star: 33,554
+                            
+Fork: 7,785]]></summary>
+        <author>
+            <name>d2l-ai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[itcharge / LeetCode-Py]]></title>
+        <id>https://github.com/itcharge/LeetCode-Py</id>
+        <link href="https://github.com/itcharge/LeetCode-Py"/>
+        <updated>2022-07-11T01:02:27.959Z</updated>
+        <summary type="html"><![CDATA[⛽️「算法通关手册」，超详细的「算法与数据结构」基础讲解教程，「LeetCode」700+ 道题目的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
+    
+Language: Python
+                            
+Star: 1,546
+                            
+Fork: 311]]></summary>
+        <author>
+            <name>itcharge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[oldwinter / knowledge-garden]]></title>
+        <id>https://github.com/oldwinter/knowledge-garden</id>
+        <link href="https://github.com/oldwinter/knowledge-garden"/>
+        <updated>2022-07-11T01:02:27.925Z</updated>
+        <summary type="html"><![CDATA[真实袒露的第二大脑 second brain，未经美化的数字花园 digital garden
+    
+Language: JavaScript
+                            
+Star: 49
+                            
+Fork: 5]]></summary>
+        <author>
+            <name>oldwinter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6dylan6 / jdpro]]></title>
+        <id>https://github.com/6dylan6/jdpro</id>
+        <link href="https://github.com/6dylan6/jdpro"/>
+        <updated>2022-07-11T01:02:27.906Z</updated>
+        <summary type="html"><![CDATA[青龙脚本库
+    
+Language: JavaScript
+                            
+Star: 1,709
+                            
+Fork: 574]]></summary>
+        <author>
+            <name>6dylan6</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[vernesong / OpenClash]]></title>
         <id>https://github.com/vernesong/OpenClash</id>
         <link href="https://github.com/vernesong/OpenClash"/>
-        <updated>2022-07-10T01:07:19.347Z</updated>
+        <updated>2022-07-11T01:02:27.851Z</updated>
         <summary type="html"><![CDATA[A Clash Client For OpenWrt
     
 Language: JavaScript
                             
-Star: 6,438
+Star: 6,446
                             
-Fork: 1,260]]></summary>
+Fork: 1,261]]></summary>
         <author>
             <name>vernesong</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[modood / Administrative-divisions-of-China]]></title>
-        <id>https://github.com/modood/Administrative-divisions-of-China</id>
-        <link href="https://github.com/modood/Administrative-divisions-of-China"/>
-        <updated>2022-07-10T01:07:19.302Z</updated>
-        <summary type="html"><![CDATA[中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
+        <title type="html"><![CDATA[mindskip / xzs-mysql]]></title>
+        <id>https://github.com/mindskip/xzs-mysql</id>
+        <link href="https://github.com/mindskip/xzs-mysql"/>
+        <updated>2022-07-11T01:02:27.818Z</updated>
+        <summary type="html"><![CDATA[学之思开源考试系统是一款 java + vue 的前后端分离的考试系统。主要优点是开发、部署简单快捷、界面设计友好、代码结构清晰。支持web端和微信小程序，能覆盖到pc机和手机等设备。 支持多种部署方式：集成部署、前后端分离部署、docker部署。
     
 Language: JavaScript
                             
-Star: 13,202
+Star: 1,637
                             
-Fork: 6,320]]></summary>
+Fork: 402]]></summary>
         <author>
-            <name>modood</name>
+            <name>mindskip</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[cteamx / Thief]]></title>
-        <id>https://github.com/cteamx/Thief</id>
-        <link href="https://github.com/cteamx/Thief"/>
-        <updated>2022-07-10T01:07:19.265Z</updated>
-        <summary type="html"><![CDATA[一款创新跨平台摸鱼神器，支持小说、股票、网页、视频、直播、PDF、游戏等摸鱼模式，为上班族打造的上班必备神器，使用此软件可以让上班倍感轻松，远离 ICU。
+        <title type="html"><![CDATA[moranzcw / Computer-Networking-A-Top-Down-Approach-NOTES]]></title>
+        <id>https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES</id>
+        <link href="https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES"/>
+        <updated>2022-07-11T01:02:27.799Z</updated>
+        <summary type="html"><![CDATA[《计算机网络－自顶向下方法(原书第6版)》编程作业，Wireshark实验文档的翻译和解答。
     
-Language: JavaScript
+Language: Python
                             
-Star: 4,439
+Star: 4,237
                             
-Fork: 457]]></summary>
+Fork: 1,192]]></summary>
         <author>
-            <name>cteamx</name>
+            <name>moranzcw</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[stephentian / 33-js-concepts]]></title>
-        <id>https://github.com/stephentian/33-js-concepts</id>
-        <link href="https://github.com/stephentian/33-js-concepts"/>
-        <updated>2022-07-10T01:07:19.231Z</updated>
-        <summary type="html"><![CDATA[📜 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
-
+        <title type="html"><![CDATA[chakhsu / pinghsu]]></title>
+        <id>https://github.com/chakhsu/pinghsu</id>
+        <link href="https://github.com/chakhsu/pinghsu"/>
+        <updated>2022-07-11T01:02:27.768Z</updated>
+        <summary type="html"><![CDATA[Pinghsu, A Typecho Theme
     
-Language: JavaScript
+Language: PHP
                             
-Star: 13,266
+Star: 1,301
                             
-Fork: 2,165]]></summary>
+Fork: 252]]></summary>
         <author>
-            <name>stephentian</name>
+            <name>chakhsu</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[soyaine / JavaScript30]]></title>
-        <id>https://github.com/soyaine/JavaScript30</id>
-        <link href="https://github.com/soyaine/JavaScript30"/>
-        <updated>2022-07-10T01:07:19.161Z</updated>
-        <summary type="html"><![CDATA[有关 @wesbos 的课程 JavaScript-30 的中文练习指南
+        <title type="html"><![CDATA[jxxghp / nas-tools]]></title>
+        <id>https://github.com/jxxghp/nas-tools</id>
+        <link href="https://github.com/jxxghp/nas-tools"/>
+        <updated>2022-07-11T01:02:27.738Z</updated>
+        <summary type="html"><![CDATA[NAS媒体库资源归集、整理自动化工具
     
-Language: JavaScript
+Language: Python
                             
-Star: 2,085
+Star: 1,491
                             
-Fork: 488]]></summary>
+Fork: 255]]></summary>
         <author>
-            <name>soyaine</name>
+            <name>jxxghp</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[vaxilu / x-ui]]></title>
-        <id>https://github.com/vaxilu/x-ui</id>
-        <link href="https://github.com/vaxilu/x-ui"/>
-        <updated>2022-07-10T01:07:19.108Z</updated>
-        <summary type="html"><![CDATA[支持多协议多用户的 xray 面板
+        <title type="html"><![CDATA[BoyceLig / Clash_Chinese_Patch]]></title>
+        <id>https://github.com/BoyceLig/Clash_Chinese_Patch</id>
+        <link href="https://github.com/BoyceLig/Clash_Chinese_Patch"/>
+        <updated>2022-07-11T01:02:27.702Z</updated>
+        <summary type="html"><![CDATA[Clash For Windows 汉化补丁和汉化脚本
     
 Language: JavaScript
                             
-Star: 5,189
+Star: 7,474
                             
-Fork: 2,505]]></summary>
+Fork: 789]]></summary>
         <author>
-            <name>vaxilu</name>
+            <name>BoyceLig</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nerver4Ever / SevenSha1UIAdvancedHelper]]></title>
-        <id>https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper</id>
-        <link href="https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper"/>
-        <updated>2022-07-10T01:07:19.043Z</updated>
-        <summary type="html"><![CDATA[转存助手ui优化版
+        <title type="html"><![CDATA[yitd / Any-Proxy]]></title>
+        <id>https://github.com/yitd/Any-Proxy</id>
+        <link href="https://github.com/yitd/Any-Proxy"/>
+        <updated>2022-07-11T01:02:27.666Z</updated>
+        <summary type="html"><![CDATA[Any-Proxy可以用PHP帮助你完美匿名反向代理浏览任何网站
+    
+Language: PHP
+                            
+Star: 402
+                            
+Fork: 220]]></summary>
+        <author>
+            <name>yitd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VideoTogether / VideoTogether]]></title>
+        <id>https://github.com/VideoTogether/VideoTogether</id>
+        <link href="https://github.com/VideoTogether/VideoTogether"/>
+        <updated>2022-07-11T01:02:27.640Z</updated>
+        <summary type="html"><![CDATA[Watch video together on any platform / 一起看视频，兼容所有平台
     
 Language: JavaScript
                             
-Star: 340
+Star: 208
                             
-Fork: 104]]></summary>
+Fork: 16]]></summary>
         <author>
-            <name>Nerver4Ever</name>
+            <name>VideoTogether</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Womsxd / AutoMihoyoBBS]]></title>
+        <id>https://github.com/Womsxd/AutoMihoyoBBS</id>
+        <link href="https://github.com/Womsxd/AutoMihoyoBBS"/>
+        <updated>2022-07-11T01:02:27.625Z</updated>
+        <summary type="html"><![CDATA[米游社自动签到，支持：崩坏二、崩坏三、原神，米游币自动获取
+    
+Language: Python
+                            
+Star: 602
+                            
+Fork: 210]]></summary>
+        <author>
+            <name>Womsxd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le-niao / Yunzai-Bot]]></title>
+        <id>https://github.com/Le-niao/Yunzai-Bot</id>
+        <link href="https://github.com/Le-niao/Yunzai-Bot"/>
+        <updated>2022-07-11T01:02:27.593Z</updated>
+        <summary type="html"><![CDATA[原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回
+    
+Language: JavaScript
+                            
+Star: 1,171
+                            
+Fork: 204]]></summary>
+        <author>
+            <name>Le-niao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morizeyao / GPT2-Chinese]]></title>
+        <id>https://github.com/Morizeyao/GPT2-Chinese</id>
+        <link href="https://github.com/Morizeyao/GPT2-Chinese"/>
+        <updated>2022-07-11T01:02:27.567Z</updated>
+        <summary type="html"><![CDATA[Chinese version of GPT2 training code, using BERT tokenizer.
+    
+Language: Python
+                            
+Star: 5,084
+                            
+Fork: 1,233]]></summary>
+        <author>
+            <name>Morizeyao</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[arcxingye / EatKano]]></title>
         <id>https://github.com/arcxingye/EatKano</id>
         <link href="https://github.com/arcxingye/EatKano"/>
-        <updated>2022-07-10T01:07:18.822Z</updated>
+        <updated>2022-07-11T01:02:27.527Z</updated>
         <summary type="html"><![CDATA[H5 Games
     
 Language: JavaScript
                             
-Star: 1,102
+Star: 1,107
                             
-Fork: 1,598]]></summary>
+Fork: 1,618]]></summary>
         <author>
             <name>arcxingye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lyswhut / lx-music-desktop]]></title>
+        <id>https://github.com/lyswhut/lx-music-desktop</id>
+        <link href="https://github.com/lyswhut/lx-music-desktop"/>
+        <updated>2022-07-11T01:02:27.496Z</updated>
+        <summary type="html"><![CDATA[一个基于 electron 的音乐软件
+    
+Language: JavaScript
+                            
+Star: 19,111
+                            
+Fork: 3,460]]></summary>
+        <author>
+            <name>lyswhut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MorvanZhou / tutorials]]></title>
+        <id>https://github.com/MorvanZhou/tutorials</id>
+        <link href="https://github.com/MorvanZhou/tutorials"/>
+        <updated>2022-07-11T01:02:27.462Z</updated>
+        <summary type="html"><![CDATA[机器学习相关教程
+    
+Language: Python
+                            
+Star: 10,092
+                            
+Fork: 5,635]]></summary>
+        <author>
+            <name>MorvanZhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lyswhut / lx-music-mobile]]></title>
+        <id>https://github.com/lyswhut/lx-music-mobile</id>
+        <link href="https://github.com/lyswhut/lx-music-mobile"/>
+        <updated>2022-07-11T01:02:27.434Z</updated>
+        <summary type="html"><![CDATA[一个基于 React native 开发的音乐软件
+    
+Language: JavaScript
+                            
+Star: 2,111
+                            
+Fork: 297]]></summary>
+        <author>
+            <name>lyswhut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[blackmatrix7 / ios_rule_script]]></title>
+        <id>https://github.com/blackmatrix7/ios_rule_script</id>
+        <link href="https://github.com/blackmatrix7/ios_rule_script"/>
+        <updated>2022-07-11T01:02:27.400Z</updated>
+        <summary type="html"><![CDATA[分流规则、重写写规则及脚本。
+    
+Language: JavaScript
+                            
+Star: 5,233
+                            
+Fork: 1,017]]></summary>
+        <author>
+            <name>blackmatrix7</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nerver4Ever / SevenSha1UIAdvancedHelper]]></title>
+        <id>https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper</id>
+        <link href="https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper"/>
+        <updated>2022-07-11T01:02:27.361Z</updated>
+        <summary type="html"><![CDATA[转存助手ui优化版
+    
+Language: JavaScript
+                            
+Star: 342
+                            
+Fork: 107]]></summary>
+        <author>
+            <name>Nerver4Ever</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ender-zhao / Clash-for-Windows_Chinese]]></title>
+        <id>https://github.com/ender-zhao/Clash-for-Windows_Chinese</id>
+        <link href="https://github.com/ender-zhao/Clash-for-Windows_Chinese"/>
+        <updated>2022-07-11T01:02:27.343Z</updated>
+        <summary type="html"><![CDATA[clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
+    
+Language: JavaScript
+                            
+Star: 2,958
+                            
+Fork: 320]]></summary>
+        <author>
+            <name>ender-zhao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[solstice23 / argon-theme]]></title>
+        <id>https://github.com/solstice23/argon-theme</id>
+        <link href="https://github.com/solstice23/argon-theme"/>
+        <updated>2022-07-11T01:02:27.312Z</updated>
+        <summary type="html"><![CDATA[📖 Argon - 一个轻盈、简洁的 WordPress 主题
+    
+Language: PHP
+                            
+Star: 2,548
+                            
+Fork: 366]]></summary>
+        <author>
+            <name>solstice23</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bowu678 / php_bugs]]></title>
+        <id>https://github.com/bowu678/php_bugs</id>
+        <link href="https://github.com/bowu678/php_bugs"/>
+        <updated>2022-07-11T01:02:27.245Z</updated>
+        <summary type="html"><![CDATA[PHP代码审计分段讲解
+    
+Language: PHP
+                            
+Star: 1,405
+                            
+Fork: 353]]></summary>
+        <author>
+            <name>bowu678</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[icret / EasyImages2.0]]></title>
+        <id>https://github.com/icret/EasyImages2.0</id>
+        <link href="https://github.com/icret/EasyImages2.0"/>
+        <updated>2022-07-11T01:02:27.204Z</updated>
+        <summary type="html"><![CDATA[新版简单强大无数据库的图床2.0版 演示地址：
+    
+Language: PHP
+                            
+Star: 889
+                            
+Fork: 190]]></summary>
+        <author>
+            <name>icret</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ha0y / xiaomi_miot_raw]]></title>
+        <id>https://github.com/ha0y/xiaomi_miot_raw</id>
+        <link href="https://github.com/ha0y/xiaomi_miot_raw"/>
+        <updated>2022-07-11T01:02:27.165Z</updated>
+        <summary type="html"><![CDATA[All-in-one & Easy-to-use. Integrate all your Xiaomi Smart Home - with a single integration and NO YAML files - into Home Assistant.
+    
+Language: Python
+                            
+Star: 1,549
+                            
+Fork: 172]]></summary>
+        <author>
+            <name>ha0y</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tennc / webshell]]></title>
+        <id>https://github.com/tennc/webshell</id>
+        <link href="https://github.com/tennc/webshell"/>
+        <updated>2022-07-11T01:02:27.108Z</updated>
+        <summary type="html"><![CDATA[This is a webshell open source project
+    
+Language: PHP
+                            
+Star: 8,155
+                            
+Fork: 5,312]]></summary>
+        <author>
+            <name>tennc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mirai-mamori / Sakurairo]]></title>
+        <id>https://github.com/mirai-mamori/Sakurairo</id>
+        <link href="https://github.com/mirai-mamori/Sakurairo"/>
+        <updated>2022-07-11T01:02:27.067Z</updated>
+        <summary type="html"><![CDATA[一个多彩，轻松上手，体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题，支持简繁英日四语言）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura. Support Simplified Chinese, Traditional Chinese, English and Japanese languages)
+    
+Language: PHP
+                            
+Star: 1,320
+                            
+Fork: 225]]></summary>
+        <author>
+            <name>mirai-mamori</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hlmd / Postman-cn]]></title>
+        <id>https://github.com/hlmd/Postman-cn</id>
+        <link href="https://github.com/hlmd/Postman-cn"/>
+        <updated>2022-07-11T01:02:27.033Z</updated>
+        <summary type="html"><![CDATA[Postman汉化中文版
+    
+Language: PHP
+                            
+Star: 4,071
+                            
+Fork: 497]]></summary>
+        <author>
+            <name>hlmd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[assimon / dujiaoka]]></title>
+        <id>https://github.com/assimon/dujiaoka</id>
+        <link href="https://github.com/assimon/dujiaoka"/>
+        <updated>2022-07-11T01:02:27.004Z</updated>
+        <summary type="html"><![CDATA[🦄独角数卡(自动售货系统)-开源式站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
+
+    
+Language: PHP
+                            
+Star: 2,809
+                            
+Fork: 956]]></summary>
+        <author>
+            <name>assimon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LmeSzinc / AzurLaneAutoScript]]></title>
+        <id>https://github.com/LmeSzinc/AzurLaneAutoScript</id>
+        <link href="https://github.com/LmeSzinc/AzurLaneAutoScript"/>
+        <updated>2022-07-11T01:02:26.968Z</updated>
+        <summary type="html"><![CDATA[Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界
+    
+Language: Python
+                            
+Star: 1,522
+                            
+Fork: 256]]></summary>
+        <author>
+            <name>LmeSzinc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wechatpay-apiv3 / wechatpay-php]]></title>
+        <id>https://github.com/wechatpay-apiv3/wechatpay-php</id>
+        <link href="https://github.com/wechatpay-apiv3/wechatpay-php"/>
+        <updated>2022-07-11T01:02:26.909Z</updated>
+        <summary type="html"><![CDATA[微信支付 APIv3 的 PHP Library，同时也支持 APIv2
+    
+Language: PHP
+                            
+Star: 188
+                            
+Fork: 55]]></summary>
+        <author>
+            <name>wechatpay-apiv3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yuantuo666 / baiduwp-php]]></title>
+        <id>https://github.com/yuantuo666/baiduwp-php</id>
+        <link href="https://github.com/yuantuo666/baiduwp-php"/>
+        <updated>2022-07-11T01:02:26.856Z</updated>
+        <summary type="html"><![CDATA[PanDownload网页复刻版
+    
+Language: PHP
+                            
+Star: 2,859
+                            
+Fork: 943]]></summary>
+        <author>
+            <name>yuantuo666</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PGYER / codefever]]></title>
+        <id>https://github.com/PGYER/codefever</id>
+        <link href="https://github.com/PGYER/codefever"/>
+        <updated>2022-07-11T01:02:26.819Z</updated>
+        <summary type="html"><![CDATA[CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
+    
+Language: PHP
+                            
+Star: 2,131
+                            
+Fork: 221]]></summary>
+        <author>
+            <name>PGYER</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[luolongfei / freenom]]></title>
+        <id>https://github.com/luolongfei/freenom</id>
+        <link href="https://github.com/luolongfei/freenom"/>
+        <updated>2022-07-11T01:02:26.774Z</updated>
+        <summary type="html"><![CDATA[Freenom 域名自动续期。Freenom domain name renews automatically.
+    
+Language: PHP
+                            
+Star: 1,590
+                            
+Fork: 1,345]]></summary>
+        <author>
+            <name>luolongfei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wususu / effective-resourses]]></title>
+        <id>https://github.com/wususu/effective-resourses</id>
+        <link href="https://github.com/wususu/effective-resourses"/>
+        <updated>2022-07-11T01:02:26.709Z</updated>
+        <summary type="html"><![CDATA[📖学习资源整合
+    
+Language: PHP
+                            
+Star: 2,033
+                            
+Fork: 793]]></summary>
+        <author>
+            <name>wususu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[flucont / btcloud]]></title>
+        <id>https://github.com/flucont/btcloud</id>
+        <link href="https://github.com/flucont/btcloud"/>
+        <updated>2022-07-11T01:02:26.661Z</updated>
+        <summary type="html"><![CDATA[一个宝塔第三方云端的php站点程序
+    
+Language: PHP
+                            
+Star: 354
+                            
+Fork: 194]]></summary>
+        <author>
+            <name>flucont</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[celaraze / chemex]]></title>
+        <id>https://github.com/celaraze/chemex</id>
+        <link href="https://github.com/celaraze/chemex"/>
+        <updated>2022-07-11T01:02:26.625Z</updated>
+        <summary type="html"><![CDATA[☕ 咖啡壶是一个免费、开源、高效且漂亮的运维资产管理平台。软硬件资产管理、归属/使用者追溯、盘点以及可靠的服务器状态管理面板。基于优雅的Laravel框架和DcatAdmin开发。
+    
+Language: PHP
+                            
+Star: 363
+                            
+Fork: 100]]></summary>
+        <author>
+            <name>celaraze</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zhuifengshaonianhanlu / pikachu]]></title>
+        <id>https://github.com/zhuifengshaonianhanlu/pikachu</id>
+        <link href="https://github.com/zhuifengshaonianhanlu/pikachu"/>
+        <updated>2022-07-11T01:02:26.585Z</updated>
+        <summary type="html"><![CDATA[一个好玩的Web安全-漏洞测试平台
+    
+Language: PHP
+                            
+Star: 2,231
+                            
+Fork: 558]]></summary>
+        <author>
+            <name>zhuifengshaonianhanlu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EstrellaXD / Auto_Bangumi]]></title>
+        <id>https://github.com/EstrellaXD/Auto_Bangumi</id>
+        <link href="https://github.com/EstrellaXD/Auto_Bangumi"/>
+        <updated>2022-07-11T01:02:26.548Z</updated>
+        <summary type="html"><![CDATA[AutoBangumi - 全自动追番工具，节约时间创造价值
+    
+Language: Python
+                            
+Star: 977
+                            
+Fork: 43]]></summary>
+        <author>
+            <name>EstrellaXD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sipeed / MaixPy_scripts]]></title>
+        <id>https://github.com/sipeed/MaixPy_scripts</id>
+        <link href="https://github.com/sipeed/MaixPy_scripts"/>
+        <updated>2022-07-11T01:02:26.470Z</updated>
+        <summary type="html"><![CDATA[micropython scripts for MaixPy
+    
+Language: Python
+                            
+Star: 478
+                            
+Fork: 368]]></summary>
+        <author>
+            <name>sipeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lete114 / Vercel-Typecho]]></title>
+        <id>https://github.com/Lete114/Vercel-Typecho</id>
+        <link href="https://github.com/Lete114/Vercel-Typecho"/>
+        <updated>2022-07-11T01:02:26.395Z</updated>
+        <summary type="html"><![CDATA[Vercel 免费部署 Typecho 博客 | Vercel Free Deploy Typecho Blog
+    
+Language: PHP
+                            
+Star: 19
+                            
+Fork: 28]]></summary>
+        <author>
+            <name>Lete114</name>
         </author>
     </entry>
     <entry>
