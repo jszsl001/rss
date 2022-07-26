@@ -1,63 +1,495 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-25T01:02:23.436Z</id>
+    <id>urn:2022-07-26T01:05:52.154Z</id>
     <title>osmos::feed</title>
-    <updated>2022-07-25T01:02:23.436Z</updated>
+    <updated>2022-07-26T01:05:52.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[solstice23 / argon-theme]]></title>
-        <id>https://github.com/solstice23/argon-theme</id>
-        <link href="https://github.com/solstice23/argon-theme"/>
-        <updated>2022-07-25T01:02:23.402Z</updated>
-        <summary type="html"><![CDATA[Language: PHP 
-Stars: 2,588 
-Forks: 369]]></summary>
+        <title type="html"><![CDATA[momo0853 / kkndme]]></title>
+        <id>https://github.com/momo0853/kkndme</id>
+        <link href="https://github.com/momo0853/kkndme"/>
+        <updated>2022-07-26T01:05:52.125Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 658 
+Forks: 194]]></summary>
         <author>
-            <name>solstice23</name>
+            <name>momo0853</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[flutterchina / flutter_in_action_2nd]]></title>
+        <id>https://github.com/flutterchina/flutter_in_action_2nd</id>
+        <link href="https://github.com/flutterchina/flutter_in_action_2nd"/>
+        <updated>2022-07-26T01:05:51.609Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 745 
+Forks: 129]]></summary>
+        <author>
+            <name>flutterchina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[liyupi / free-programming-resources]]></title>
+        <id>https://github.com/liyupi/free-programming-resources</id>
+        <link href="https://github.com/liyupi/free-programming-resources"/>
+        <updated>2022-07-26T01:05:51.567Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 1,916 
+Forks: 415]]></summary>
+        <author>
+            <name>liyupi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zgao264 / Pornhub-Video-Downloader-Plugin]]></title>
+        <id>https://github.com/zgao264/Pornhub-Video-Downloader-Plugin</id>
+        <link href="https://github.com/zgao264/Pornhub-Video-Downloader-Plugin"/>
+        <updated>2022-07-26T01:05:51.543Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 757 
+Forks: 152]]></summary>
+        <author>
+            <name>zgao264</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PKUFlyingPig / cs-self-learning]]></title>
+        <id>https://github.com/PKUFlyingPig/cs-self-learning</id>
+        <link href="https://github.com/PKUFlyingPig/cs-self-learning"/>
+        <updated>2022-07-26T01:05:51.487Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 10,665 
+Forks: 1,511]]></summary>
+        <author>
+            <name>PKUFlyingPig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[qiubaiying / qiubaiying.github.io]]></title>
+        <id>https://github.com/qiubaiying/qiubaiying.github.io</id>
+        <link href="https://github.com/qiubaiying/qiubaiying.github.io"/>
+        <updated>2022-07-26T01:05:51.465Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 2,760 
+Forks: 7,518]]></summary>
+        <author>
+            <name>qiubaiying</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[peng-zhihui / Planck-Pi]]></title>
+        <id>https://github.com/peng-zhihui/Planck-Pi</id>
+        <link href="https://github.com/peng-zhihui/Planck-Pi"/>
+        <updated>2022-07-26T01:05:51.402Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 717 
+Forks: 170]]></summary>
+        <author>
+            <name>peng-zhihui</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wangzhiye-tiancai / mysupervisor_save]]></title>
+        <id>https://github.com/wangzhiye-tiancai/mysupervisor_save</id>
+        <link href="https://github.com/wangzhiye-tiancai/mysupervisor_save"/>
+        <updated>2022-07-26T01:05:51.375Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 494 
+Forks: 63]]></summary>
+        <author>
+            <name>wangzhiye-tiancai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tencent / tdesign-miniprogram]]></title>
+        <id>https://github.com/Tencent/tdesign-miniprogram</id>
+        <link href="https://github.com/Tencent/tdesign-miniprogram"/>
+        <updated>2022-07-26T01:05:51.278Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 318 
+Forks: 77]]></summary>
+        <author>
+            <name>Tencent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TransparentLC / WechatMomentScreenshot]]></title>
+        <id>https://github.com/TransparentLC/WechatMomentScreenshot</id>
+        <link href="https://github.com/TransparentLC/WechatMomentScreenshot"/>
+        <updated>2022-07-26T01:05:51.240Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 2,076 
+Forks: 338]]></summary>
+        <author>
+            <name>TransparentLC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sunym1993 / flash-linux0.11-talk]]></title>
+        <id>https://github.com/sunym1993/flash-linux0.11-talk</id>
+        <link href="https://github.com/sunym1993/flash-linux0.11-talk"/>
+        <updated>2022-07-26T01:05:51.204Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 11,967 
+Forks: 1,525]]></summary>
+        <author>
+            <name>sunym1993</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zqzess / MyWebStorage]]></title>
+        <id>https://github.com/zqzess/MyWebStorage</id>
+        <link href="https://github.com/zqzess/MyWebStorage"/>
+        <updated>2022-07-26T01:05:51.169Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 145 
+Forks: 1]]></summary>
+        <author>
+            <name>zqzess</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mimidh / mimidh.github.io]]></title>
+        <id>https://github.com/mimidh/mimidh.github.io</id>
+        <link href="https://github.com/mimidh/mimidh.github.io"/>
+        <updated>2022-07-26T01:05:51.152Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 1 
+Forks:]]></summary>
+        <author>
+            <name>mimidh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vpncn / vpncn.github.io]]></title>
+        <id>https://github.com/vpncn/vpncn.github.io</id>
+        <link href="https://github.com/vpncn/vpncn.github.io"/>
+        <updated>2022-07-26T01:05:51.125Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 5,982 
+Forks: 1,502]]></summary>
+        <author>
+            <name>vpncn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fwonggh / Bthub]]></title>
+        <id>https://github.com/fwonggh/Bthub</id>
+        <link href="https://github.com/fwonggh/Bthub"/>
+        <updated>2022-07-26T01:05:51.057Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 822 
+Forks: 59]]></summary>
+        <author>
+            <name>fwonggh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[javascript-tutorial / zh.javascript.info]]></title>
+        <id>https://github.com/javascript-tutorial/zh.javascript.info</id>
+        <link href="https://github.com/javascript-tutorial/zh.javascript.info"/>
+        <updated>2022-07-26T01:05:51.032Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 6,937 
+Forks: 917]]></summary>
+        <author>
+            <name>javascript-tutorial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PKUanonym / REKCARC-TSC-UHT]]></title>
+        <id>https://github.com/PKUanonym/REKCARC-TSC-UHT</id>
+        <link href="https://github.com/PKUanonym/REKCARC-TSC-UHT"/>
+        <updated>2022-07-26T01:05:50.989Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 24,837 
+Forks: 6,583]]></summary>
+        <author>
+            <name>PKUanonym</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fengdu78 / deeplearning_ai_books]]></title>
+        <id>https://github.com/fengdu78/deeplearning_ai_books</id>
+        <link href="https://github.com/fengdu78/deeplearning_ai_books"/>
+        <updated>2022-07-26T01:05:50.952Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 14,911 
+Forks: 5,463]]></summary>
+        <author>
+            <name>fengdu78</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DistSysCorp / ddia]]></title>
+        <id>https://github.com/DistSysCorp/ddia</id>
+        <link href="https://github.com/DistSysCorp/ddia"/>
+        <updated>2022-07-26T01:05:50.925Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 45 
+Forks: 4]]></summary>
+        <author>
+            <name>DistSysCorp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mzlogin / mzlogin.github.io]]></title>
+        <id>https://github.com/mzlogin/mzlogin.github.io</id>
+        <link href="https://github.com/mzlogin/mzlogin.github.io"/>
+        <updated>2022-07-26T01:05:50.859Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 1,275 
+Forks: 1,086]]></summary>
+        <author>
+            <name>mzlogin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wxxxcxx / ms-ra-forwarder]]></title>
+        <id>https://github.com/wxxxcxx/ms-ra-forwarder</id>
+        <link href="https://github.com/wxxxcxx/ms-ra-forwarder"/>
+        <updated>2022-07-26T01:05:50.814Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 218 
+Forks: 537]]></summary>
+        <author>
+            <name>wxxxcxx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NakanoMikuOrg / arch-guide]]></title>
+        <id>https://github.com/NakanoMikuOrg/arch-guide</id>
+        <link href="https://github.com/NakanoMikuOrg/arch-guide"/>
+        <updated>2022-07-26T01:05:50.772Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 550 
+Forks: 54]]></summary>
+        <author>
+            <name>NakanoMikuOrg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yuhuage / dizhi]]></title>
+        <id>https://github.com/yuhuage/dizhi</id>
+        <link href="https://github.com/yuhuage/dizhi"/>
+        <updated>2022-07-26T01:05:50.747Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 361 
+Forks: 30]]></summary>
+        <author>
+            <name>yuhuage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lerist / FakeLocation]]></title>
+        <id>https://github.com/Lerist/FakeLocation</id>
+        <link href="https://github.com/Lerist/FakeLocation"/>
+        <updated>2022-07-26T01:05:50.710Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 2,361 
+Forks: 235]]></summary>
+        <author>
+            <name>Lerist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpha-Yang / CS-BAOYAN-2022]]></title>
+        <id>https://github.com/Alpha-Yang/CS-BAOYAN-2022</id>
+        <link href="https://github.com/Alpha-Yang/CS-BAOYAN-2022"/>
+        <updated>2022-07-26T01:05:50.679Z</updated>
+        <summary type="html"><![CDATA[Language: HTML 
+Stars: 804 
+Forks: 182]]></summary>
+        <author>
+            <name>Alpha-Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yjxcreate / summerGroup1]]></title>
+        <id>https://github.com/yjxcreate/summerGroup1</id>
+        <link href="https://github.com/yjxcreate/summerGroup1"/>
+        <updated>2022-07-26T01:05:50.328Z</updated>
+        <summary type="html"><![CDATA[Language: PHP 
+Stars: 7 
+Forks:]]></summary>
+        <author>
+            <name>yjxcreate</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mirai-mamori / Sakurairo]]></title>
+        <id>https://github.com/mirai-mamori/Sakurairo</id>
+        <link href="https://github.com/mirai-mamori/Sakurairo"/>
+        <updated>2022-07-26T01:05:50.228Z</updated>
+        <summary type="html"><![CDATA[Language: PHP 
+Stars: 1,356 
+Forks: 230]]></summary>
+        <author>
+            <name>mirai-mamori</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mashirozx / sakura]]></title>
+        <id>https://github.com/mashirozx/sakura</id>
+        <link href="https://github.com/mashirozx/sakura"/>
+        <updated>2022-07-26T01:05:50.188Z</updated>
+        <summary type="html"><![CDATA[Language: PHP 
+Stars: 2,713 
+Forks: 540]]></summary>
+        <author>
+            <name>mashirozx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tennc / webshell]]></title>
+        <id>https://github.com/tennc/webshell</id>
+        <link href="https://github.com/tennc/webshell"/>
+        <updated>2022-07-26T01:05:50.150Z</updated>
+        <summary type="html"><![CDATA[Language: PHP 
+Stars: 8,200 
+Forks: 5,327]]></summary>
+        <author>
+            <name>tennc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mokeyjay / Pixiv-daily-ranking-widget]]></title>
+        <id>https://github.com/mokeyjay/Pixiv-daily-ranking-widget</id>
+        <link href="https://github.com/mokeyjay/Pixiv-daily-ranking-widget"/>
+        <updated>2022-07-26T01:05:50.107Z</updated>
+        <summary type="html"><![CDATA[Language: PHP 
+Stars: 234 
+Forks: 36]]></summary>
+        <author>
+            <name>mokeyjay</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[luolongfei / freenom]]></title>
         <id>https://github.com/luolongfei/freenom</id>
         <link href="https://github.com/luolongfei/freenom"/>
-        <updated>2022-07-25T01:02:23.309Z</updated>
+        <updated>2022-07-26T01:05:50.074Z</updated>
         <summary type="html"><![CDATA[Language: PHP 
-Stars: 1,689 
-Forks: 1,404]]></summary>
+Stars: 1,700 
+Forks: 1,412]]></summary>
         <author>
             <name>luolongfei</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lete114 / Vercel-Typecho]]></title>
-        <id>https://github.com/Lete114/Vercel-Typecho</id>
-        <link href="https://github.com/Lete114/Vercel-Typecho"/>
-        <updated>2022-07-25T01:02:23.255Z</updated>
+        <title type="html"><![CDATA[assimon / dujiaoka]]></title>
+        <id>https://github.com/assimon/dujiaoka</id>
+        <link href="https://github.com/assimon/dujiaoka"/>
+        <updated>2022-07-26T01:05:50.014Z</updated>
         <summary type="html"><![CDATA[Language: PHP 
-Stars: 20 
-Forks: 30]]></summary>
+Stars: 2,880 
+Forks: 966]]></summary>
         <author>
-            <name>Lete114</name>
+            <name>assimon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tai7sy / card-system]]></title>
+        <id>https://github.com/Tai7sy/card-system</id>
+        <link href="https://github.com/Tai7sy/card-system"/>
+        <updated>2022-07-26T01:05:49.984Z</updated>
+        <summary type="html"><![CDATA[Language: PHP 
+Stars: 2,089 
+Forks: 855]]></summary>
+        <author>
+            <name>Tai7sy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[solstice23 / argon-theme]]></title>
+        <id>https://github.com/solstice23/argon-theme</id>
+        <link href="https://github.com/solstice23/argon-theme"/>
+        <updated>2022-07-26T01:05:49.949Z</updated>
+        <summary type="html"><![CDATA[Language: PHP 
+Stars: 2,592 
+Forks: 369]]></summary>
+        <author>
+            <name>solstice23</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PGYER / codefever]]></title>
+        <id>https://github.com/PGYER/codefever</id>
+        <link href="https://github.com/PGYER/codefever"/>
+        <updated>2022-07-26T01:05:49.832Z</updated>
+        <summary type="html"><![CDATA[Language: PHP 
+Stars: 2,153 
+Forks: 225]]></summary>
+        <author>
+            <name>PGYER</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hongriSec / PHP-Audit-Labs]]></title>
+        <id>https://github.com/hongriSec/PHP-Audit-Labs</id>
+        <link href="https://github.com/hongriSec/PHP-Audit-Labs"/>
+        <updated>2022-07-26T01:05:49.763Z</updated>
+        <summary type="html"><![CDATA[Language: PHP 
+Stars: 1,301 
+Forks: 281]]></summary>
+        <author>
+            <name>hongriSec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fghrsh / live2d_api]]></title>
+        <id>https://github.com/fghrsh/live2d_api</id>
+        <link href="https://github.com/fghrsh/live2d_api"/>
+        <updated>2022-07-26T01:05:49.738Z</updated>
+        <summary type="html"><![CDATA[Language: PHP 
+Stars: 882 
+Forks: 398]]></summary>
+        <author>
+            <name>fghrsh</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[flucont / btcloud]]></title>
         <id>https://github.com/flucont/btcloud</id>
         <link href="https://github.com/flucont/btcloud"/>
-        <updated>2022-07-25T01:02:23.219Z</updated>
+        <updated>2022-07-26T01:05:49.694Z</updated>
         <summary type="html"><![CDATA[Language: PHP 
-Stars: 407 
-Forks: 224]]></summary>
+Stars: 409 
+Forks: 225]]></summary>
         <author>
             <name>flucont</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zhuifengshaonianhanlu / pikachu]]></title>
+        <id>https://github.com/zhuifengshaonianhanlu/pikachu</id>
+        <link href="https://github.com/zhuifengshaonianhanlu/pikachu"/>
+        <updated>2022-07-26T01:05:49.653Z</updated>
+        <summary type="html"><![CDATA[Language: PHP 
+Stars: 2,263 
+Forks: 559]]></summary>
+        <author>
+            <name>zhuifengshaonianhanlu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MoeNetwork / Tieba-Cloud-Sign]]></title>
+        <id>https://github.com/MoeNetwork/Tieba-Cloud-Sign</id>
+        <link href="https://github.com/MoeNetwork/Tieba-Cloud-Sign"/>
+        <updated>2022-07-26T01:05:49.614Z</updated>
+        <summary type="html"><![CDATA[Language: PHP 
+Stars: 1,457 
+Forks: 391]]></summary>
+        <author>
+            <name>MoeNetwork</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[szvone / vmqphp]]></title>
         <id>https://github.com/szvone/vmqphp</id>
         <link href="https://github.com/szvone/vmqphp"/>
-        <updated>2022-07-25T01:02:23.184Z</updated>
+        <updated>2022-07-26T01:05:49.572Z</updated>
         <summary type="html"><![CDATA[Language: PHP 
 Stars: 955 
 Forks: 480]]></summary>
@@ -66,106 +498,34 @@ Forks: 480]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tai7sy / card-system]]></title>
-        <id>https://github.com/Tai7sy/card-system</id>
-        <link href="https://github.com/Tai7sy/card-system"/>
-        <updated>2022-07-25T01:02:23.162Z</updated>
+        <title type="html"><![CDATA[w7corp / easywechat]]></title>
+        <id>https://github.com/w7corp/easywechat</id>
+        <link href="https://github.com/w7corp/easywechat"/>
+        <updated>2022-07-26T01:05:49.532Z</updated>
         <summary type="html"><![CDATA[Language: PHP 
-Stars: 2,090 
-Forks: 855]]></summary>
+Stars: 9,875 
+Forks: 2,402]]></summary>
         <author>
-            <name>Tai7sy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mirai-mamori / Sakurairo]]></title>
-        <id>https://github.com/mirai-mamori/Sakurairo</id>
-        <link href="https://github.com/mirai-mamori/Sakurairo"/>
-        <updated>2022-07-25T01:02:23.128Z</updated>
-        <summary type="html"><![CDATA[Language: PHP 
-Stars: 1,355 
-Forks: 229]]></summary>
-        <author>
-            <name>mirai-mamori</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[assimon / dujiaoka]]></title>
-        <id>https://github.com/assimon/dujiaoka</id>
-        <link href="https://github.com/assimon/dujiaoka"/>
-        <updated>2022-07-25T01:02:23.086Z</updated>
-        <summary type="html"><![CDATA[Language: PHP 
-Stars: 2,878 
-Forks: 966]]></summary>
-        <author>
-            <name>assimon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[owen0o0 / WebStack]]></title>
-        <id>https://github.com/owen0o0/WebStack</id>
-        <link href="https://github.com/owen0o0/WebStack"/>
-        <updated>2022-07-25T01:02:23.045Z</updated>
-        <summary type="html"><![CDATA[Language: PHP 
-Stars: 959 
-Forks: 291]]></summary>
-        <author>
-            <name>owen0o0</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[icret / EasyImages2.0]]></title>
-        <id>https://github.com/icret/EasyImages2.0</id>
-        <link href="https://github.com/icret/EasyImages2.0"/>
-        <updated>2022-07-25T01:02:23.001Z</updated>
-        <summary type="html"><![CDATA[Language: PHP 
-Stars: 911 
-Forks: 194]]></summary>
-        <author>
-            <name>icret</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[likeyun / liKeYun_Dwz]]></title>
-        <id>https://github.com/likeyun/liKeYun_Dwz</id>
-        <link href="https://github.com/likeyun/liKeYun_Dwz"/>
-        <updated>2022-07-25T01:02:22.946Z</updated>
-        <summary type="html"><![CDATA[Language: PHP 
-Stars: 113 
-Forks: 42]]></summary>
-        <author>
-            <name>likeyun</name>
+            <name>w7corp</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[codeartx / awesome-security]]></title>
         <id>https://github.com/codeartx/awesome-security</id>
         <link href="https://github.com/codeartx/awesome-security"/>
-        <updated>2022-07-25T01:02:22.909Z</updated>
+        <updated>2022-07-26T01:05:49.506Z</updated>
         <summary type="html"><![CDATA[Language: PHP 
-Stars: 85 
+Stars: 98 
 Forks:]]></summary>
         <author>
             <name>codeartx</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[magicblack / maccms10]]></title>
-        <id>https://github.com/magicblack/maccms10</id>
-        <link href="https://github.com/magicblack/maccms10"/>
-        <updated>2022-07-25T01:02:22.875Z</updated>
-        <summary type="html"><![CDATA[Language: PHP 
-Stars: 1,313 
-Forks: 537]]></summary>
-        <author>
-            <name>magicblack</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GBoxApp / GBoxSource]]></title>
         <id>https://github.com/GBoxApp/GBoxSource</id>
         <link href="https://github.com/GBoxApp/GBoxSource"/>
-        <updated>2022-07-25T01:02:22.853Z</updated>
+        <updated>2022-07-26T01:05:49.460Z</updated>
         <summary type="html"><![CDATA[Language: PHP 
 Stars: 73 
 Forks: 18]]></summary>
@@ -174,70 +534,22 @@ Forks: 18]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[jqhph / dcat-admin]]></title>
-        <id>https://github.com/jqhph/dcat-admin</id>
-        <link href="https://github.com/jqhph/dcat-admin"/>
-        <updated>2022-07-25T01:02:22.824Z</updated>
+        <title type="html"><![CDATA[zyx0814 / dzzoffice]]></title>
+        <id>https://github.com/zyx0814/dzzoffice</id>
+        <link href="https://github.com/zyx0814/dzzoffice"/>
+        <updated>2022-07-26T01:05:49.422Z</updated>
         <summary type="html"><![CDATA[Language: PHP 
-Stars: 3,082 
-Forks: 515]]></summary>
+Stars: 3,498 
+Forks: 764]]></summary>
         <author>
-            <name>jqhph</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tennc / webshell]]></title>
-        <id>https://github.com/tennc/webshell</id>
-        <link href="https://github.com/tennc/webshell"/>
-        <updated>2022-07-25T01:02:22.782Z</updated>
-        <summary type="html"><![CDATA[Language: PHP 
-Stars: 8,196 
-Forks: 5,325]]></summary>
-        <author>
-            <name>tennc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[c0ny1 / upload-labs]]></title>
-        <id>https://github.com/c0ny1/upload-labs</id>
-        <link href="https://github.com/c0ny1/upload-labs"/>
-        <updated>2022-07-25T01:02:22.737Z</updated>
-        <summary type="html"><![CDATA[Language: PHP 
-Stars: 2,872 
-Forks: 747]]></summary>
-        <author>
-            <name>c0ny1</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iqiqiya / iqiqiya-API]]></title>
-        <id>https://github.com/iqiqiya/iqiqiya-API</id>
-        <link href="https://github.com/iqiqiya/iqiqiya-API"/>
-        <updated>2022-07-25T01:02:22.696Z</updated>
-        <summary type="html"><![CDATA[Language: PHP 
-Stars: 1,217 
-Forks: 314]]></summary>
-        <author>
-            <name>iqiqiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hongriSec / PHP-Audit-Labs]]></title>
-        <id>https://github.com/hongriSec/PHP-Audit-Labs</id>
-        <link href="https://github.com/hongriSec/PHP-Audit-Labs"/>
-        <updated>2022-07-25T01:02:22.654Z</updated>
-        <summary type="html"><![CDATA[Language: PHP 
-Stars: 1,300 
-Forks: 281]]></summary>
-        <author>
-            <name>hongriSec</name>
+            <name>zyx0814</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[yuantuo666 / baiduwp-php]]></title>
         <id>https://github.com/yuantuo666/baiduwp-php</id>
         <link href="https://github.com/yuantuo666/baiduwp-php"/>
-        <updated>2022-07-25T01:02:22.621Z</updated>
+        <updated>2022-07-26T01:05:49.379Z</updated>
         <summary type="html"><![CDATA[Language: PHP 
 Stars: 2,882 
 Forks: 948]]></summary>
@@ -246,118 +558,58 @@ Forks: 948]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ganlvtech / down_52pojie_cn]]></title>
-        <id>https://github.com/ganlvtech/down_52pojie_cn</id>
-        <link href="https://github.com/ganlvtech/down_52pojie_cn"/>
-        <updated>2022-07-25T01:02:22.597Z</updated>
+        <title type="html"><![CDATA[5ime / video_spider]]></title>
+        <id>https://github.com/5ime/video_spider</id>
+        <link href="https://github.com/5ime/video_spider"/>
+        <updated>2022-07-26T01:05:49.353Z</updated>
         <summary type="html"><![CDATA[Language: PHP 
-Stars: 2,121 
-Forks: 506]]></summary>
+Stars: 1,035 
+Forks: 331]]></summary>
         <author>
-            <name>ganlvtech</name>
+            <name>5ime</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[zyx0814 / dzzoffice]]></title>
-        <id>https://github.com/zyx0814/dzzoffice</id>
-        <link href="https://github.com/zyx0814/dzzoffice"/>
-        <updated>2022-07-25T01:02:22.560Z</updated>
+        <title type="html"><![CDATA[iqiqiya / iqiqiya-API]]></title>
+        <id>https://github.com/iqiqiya/iqiqiya-API</id>
+        <link href="https://github.com/iqiqiya/iqiqiya-API"/>
+        <updated>2022-07-26T01:05:49.316Z</updated>
         <summary type="html"><![CDATA[Language: PHP 
-Stars: 3,497 
-Forks: 764]]></summary>
+Stars: 1,218 
+Forks: 314]]></summary>
         <author>
-            <name>zyx0814</name>
+            <name>iqiqiya</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HaoOuBa / Joe]]></title>
-        <id>https://github.com/HaoOuBa/Joe</id>
-        <link href="https://github.com/HaoOuBa/Joe"/>
-        <updated>2022-07-25T01:02:22.524Z</updated>
+        <title type="html"><![CDATA[Lete114 / Vercel-Typecho]]></title>
+        <id>https://github.com/Lete114/Vercel-Typecho</id>
+        <link href="https://github.com/Lete114/Vercel-Typecho"/>
+        <updated>2022-07-26T01:05:49.278Z</updated>
         <summary type="html"><![CDATA[Language: PHP 
-Stars: 927 
-Forks: 239]]></summary>
+Stars: 20 
+Forks: 30]]></summary>
         <author>
-            <name>HaoOuBa</name>
+            <name>Lete114</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[ZainCheung / netease-cloud-api]]></title>
         <id>https://github.com/ZainCheung/netease-cloud-api</id>
         <link href="https://github.com/ZainCheung/netease-cloud-api"/>
-        <updated>2022-07-25T01:02:22.488Z</updated>
+        <updated>2022-07-26T01:05:49.245Z</updated>
         <summary type="html"><![CDATA[Language: PHP 
 Stars: 1,181 
-Forks: 3,353]]></summary>
+Forks: 3,352]]></summary>
         <author>
             <name>ZainCheung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[momo0853 / kkndme]]></title>
-        <id>https://github.com/momo0853/kkndme</id>
-        <link href="https://github.com/momo0853/kkndme"/>
-        <updated>2022-07-25T01:02:19.897Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 651 
-Forks: 193]]></summary>
-        <author>
-            <name>momo0853</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NICEXAI / leaflet_zh]]></title>
-        <id>https://github.com/NICEXAI/leaflet_zh</id>
-        <link href="https://github.com/NICEXAI/leaflet_zh"/>
-        <updated>2022-07-25T01:02:19.015Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 997 
-Forks: 121]]></summary>
-        <author>
-            <name>NICEXAI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HZFE / awesome-interview]]></title>
-        <id>https://github.com/HZFE/awesome-interview</id>
-        <link href="https://github.com/HZFE/awesome-interview"/>
-        <updated>2022-07-25T01:02:18.957Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 1,918 
-Forks: 153]]></summary>
-        <author>
-            <name>HZFE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fengdu78 / deeplearning_ai_books]]></title>
-        <id>https://github.com/fengdu78/deeplearning_ai_books</id>
-        <link href="https://github.com/fengdu78/deeplearning_ai_books"/>
-        <updated>2022-07-25T01:02:18.906Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 14,910 
-Forks: 5,460]]></summary>
-        <author>
-            <name>fengdu78</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kenzok8 / openwrt-packages]]></title>
-        <id>https://github.com/kenzok8/openwrt-packages</id>
-        <link href="https://github.com/kenzok8/openwrt-packages"/>
-        <updated>2022-07-25T01:02:18.860Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 3,480 
-Forks: 2,212]]></summary>
-        <author>
-            <name>kenzok8</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[第75期]]></title>
         <id>https://hellogithub.com/periodical/volume/75/</id>
         <link href="https://hellogithub.com/periodical/volume/75/"/>
-        <updated>2022-07-25T01:02:18.809Z</updated>
+        <updated>2022-07-26T01:05:48.522Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
@@ -414,7 +666,7 @@ Star 5.6k
         
 Star 4.7k
                  Watch 155
-                 Fork 606
+                 Fork 607
                 
             
         
@@ -434,402 +686,10 @@ C# 项目
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[wxxxcxx / ms-ra-forwarder]]></title>
-        <id>https://github.com/wxxxcxx/ms-ra-forwarder</id>
-        <link href="https://github.com/wxxxcxx/ms-ra-forwarder"/>
-        <updated>2022-07-25T01:02:18.798Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 216 
-Forks: 537]]></summary>
-        <author>
-            <name>wxxxcxx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mimidh / mimidh.github.io]]></title>
-        <id>https://github.com/mimidh/mimidh.github.io</id>
-        <link href="https://github.com/mimidh/mimidh.github.io"/>
-        <updated>2022-07-25T01:02:18.755Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 1 
-Forks:]]></summary>
-        <author>
-            <name>mimidh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[golang101 / golang101]]></title>
-        <id>https://github.com/golang101/golang101</id>
-        <link href="https://github.com/golang101/golang101"/>
-        <updated>2022-07-25T01:02:18.717Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 3,397 
-Forks: 350]]></summary>
-        <author>
-            <name>golang101</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zqzess / MyWebStorage]]></title>
-        <id>https://github.com/zqzess/MyWebStorage</id>
-        <link href="https://github.com/zqzess/MyWebStorage"/>
-        <updated>2022-07-25T01:02:18.668Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 145 
-Forks: 1]]></summary>
-        <author>
-            <name>zqzess</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[stellarkey / 912_project]]></title>
-        <id>https://github.com/stellarkey/912_project</id>
-        <link href="https://github.com/stellarkey/912_project"/>
-        <updated>2022-07-25T01:02:18.651Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 1,324 
-Forks: 418]]></summary>
-        <author>
-            <name>stellarkey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fengdu78 / Coursera-ML-AndrewNg-Notes]]></title>
-        <id>https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes</id>
-        <link href="https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes"/>
-        <updated>2022-07-25T01:02:18.617Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 25,558 
-Forks: 9,666]]></summary>
-        <author>
-            <name>fengdu78</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sunym1993 / flash-linux0.11-talk]]></title>
-        <id>https://github.com/sunym1993/flash-linux0.11-talk</id>
-        <link href="https://github.com/sunym1993/flash-linux0.11-talk"/>
-        <updated>2022-07-25T01:02:18.571Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 11,729 
-Forks: 1,491]]></summary>
-        <author>
-            <name>sunym1993</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fwonggh / Bthub]]></title>
-        <id>https://github.com/fwonggh/Bthub</id>
-        <link href="https://github.com/fwonggh/Bthub"/>
-        <updated>2022-07-25T01:02:18.538Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 820 
-Forks: 59]]></summary>
-        <author>
-            <name>fwonggh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TeamStuQ / skill-map]]></title>
-        <id>https://github.com/TeamStuQ/skill-map</id>
-        <link href="https://github.com/TeamStuQ/skill-map"/>
-        <updated>2022-07-25T01:02:18.520Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 18,938 
-Forks: 4,322]]></summary>
-        <author>
-            <name>TeamStuQ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wangzhiye-tiancai / mysupervisor_save]]></title>
-        <id>https://github.com/wangzhiye-tiancai/mysupervisor_save</id>
-        <link href="https://github.com/wangzhiye-tiancai/mysupervisor_save"/>
-        <updated>2022-07-25T01:02:18.472Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 487 
-Forks: 63]]></summary>
-        <author>
-            <name>wangzhiye-tiancai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SolidZORO / zpix-pixel-font]]></title>
-        <id>https://github.com/SolidZORO/zpix-pixel-font</id>
-        <link href="https://github.com/SolidZORO/zpix-pixel-font"/>
-        <updated>2022-07-25T01:02:18.307Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 1,420 
-Forks: 50]]></summary>
-        <author>
-            <name>SolidZORO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tencent / tdesign-common]]></title>
-        <id>https://github.com/Tencent/tdesign-common</id>
-        <link href="https://github.com/Tencent/tdesign-common"/>
-        <updated>2022-07-25T01:02:18.265Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 87 
-Forks: 145]]></summary>
-        <author>
-            <name>Tencent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vpncn / vpncn.github.io]]></title>
-        <id>https://github.com/vpncn/vpncn.github.io</id>
-        <link href="https://github.com/vpncn/vpncn.github.io"/>
-        <updated>2022-07-25T01:02:18.211Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 5,971 
-Forks: 1,503]]></summary>
-        <author>
-            <name>vpncn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CyC2018 / Markdown-Resume]]></title>
-        <id>https://github.com/CyC2018/Markdown-Resume</id>
-        <link href="https://github.com/CyC2018/Markdown-Resume"/>
-        <updated>2022-07-25T01:02:18.141Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 2,217 
-Forks: 1,284]]></summary>
-        <author>
-            <name>CyC2018</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LuckyHookin / edge-TTS-record]]></title>
-        <id>https://github.com/LuckyHookin/edge-TTS-record</id>
-        <link href="https://github.com/LuckyHookin/edge-TTS-record"/>
-        <updated>2022-07-25T01:02:18.096Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 582 
-Forks: 91]]></summary>
-        <author>
-            <name>LuckyHookin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lerist / FakeLocation]]></title>
-        <id>https://github.com/Lerist/FakeLocation</id>
-        <link href="https://github.com/Lerist/FakeLocation"/>
-        <updated>2022-07-25T01:02:18.073Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 2,358 
-Forks: 234]]></summary>
-        <author>
-            <name>Lerist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[yuhuage / dizhi]]></title>
-        <id>https://github.com/yuhuage/dizhi</id>
-        <link href="https://github.com/yuhuage/dizhi"/>
-        <updated>2022-07-25T01:02:18.041Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 360 
-Forks: 30]]></summary>
-        <author>
-            <name>yuhuage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xfirefly / Airplay-SDK]]></title>
-        <id>https://github.com/xfirefly/Airplay-SDK</id>
-        <link href="https://github.com/xfirefly/Airplay-SDK"/>
-        <updated>2022-07-25T01:02:17.997Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 2,733 
-Forks: 253]]></summary>
-        <author>
-            <name>xfirefly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[qiangmzsx / Software-Engineering-at-Google]]></title>
-        <id>https://github.com/qiangmzsx/Software-Engineering-at-Google</id>
-        <link href="https://github.com/qiangmzsx/Software-Engineering-at-Google"/>
-        <updated>2022-07-25T01:02:17.937Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 2,479 
-Forks: 313]]></summary>
-        <author>
-            <name>qiangmzsx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PKUFlyingPig / cs-self-learning]]></title>
-        <id>https://github.com/PKUFlyingPig/cs-self-learning</id>
-        <link href="https://github.com/PKUFlyingPig/cs-self-learning"/>
-        <updated>2022-07-25T01:02:17.895Z</updated>
-        <summary type="html"><![CDATA[Language: HTML 
-Stars: 10,635 
-Forks: 1,504]]></summary>
-        <author>
-            <name>PKUFlyingPig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第74期]]></title>
-        <id>https://hellogithub.com/periodical/volume/74/</id>
-        <link href="https://hellogithub.com/periodical/volume/74/"/>
-        <updated>2022-07-25T01:02:17.843Z</updated>
-        <summary type="html"><![CDATA[C 项目
-
-
-        
-        1.
-        FreeRDP
-        43476
-        
-            
-            
-        
-        
-Star 7.1k
-                 Watch 373
-                 Fork 17.6k
-                
-            
-        
-下载地址
-
-        
-            
-
-        
-        
-
-
-        
-        2.
-        ServerStatus
-        42522
-        
-            
-            
-        
-        
-Star 2.2k
-                 Watch 42
-                 Fork 731
-                
-                    中文
-                
-            
-        
-
-        
-        
-
-
-        
-        3.
-        sioyek
-        44818
-        
-            
-            
-        
-        
-Star 3.4k
-                 Watch 24
-                 Fork 101
-                
-            
-        
-
-        
-        
-
-
-        
-        4.
-        open-gpu-kernel…]]></summary>
-        <author>
-            <name>HelloGitHub - Article</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第73期]]></title>
-        <id>https://hellogithub.com/periodical/volume/73/</id>
-        <link href="https://hellogithub.com/periodical/volume/73/"/>
-        <updated>2022-07-25T01:02:17.808Z</updated>
-        <summary type="html"><![CDATA[C 项目
-
-
-        
-        1.
-        warpd
-        36906
-        
-            
-            
-        
-        
-Star 993
-                 Watch 10
-                 Fork 37
-                
-            
-        
-
-        
-        
-
-
-        
-        2.
-        uthash
-        35883
-        
-            
-            
-        
-        
-Star 3.1k
-                 Watch 132
-                 Fork 768
-                
-            
-        
-#include "uthash.h"
-
-struct my_struct {
-    int id;            /* we'll use this field as the key */
-    char name[10];
-    UT_hash_handle hh; /* makes this structure hashable */
-};
-
-struct my_struct *users = NULL;
-
-void add_user(struct my_struct *s) {
-    HASH_ADD_INT( users, id, s );
-}
-
-
-    
-        
-            
-
-        
-        3.
-        lvgl
-        4457
-   …]]></summary>
-        <author>
-            <name>HelloGitHub - Article</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[第72期]]></title>
         <id>https://hellogithub.com/periodical/volume/72/</id>
         <link href="https://hellogithub.com/periodical/volume/72/"/>
-        <updated>2022-07-25T01:02:17.559Z</updated>
+        <updated>2022-07-26T01:05:48.455Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
@@ -892,10 +752,317 @@ d：纯数字 0123456789
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[第71期]]></title>
+        <id>https://hellogithub.com/periodical/volume/71/</id>
+        <link href="https://hellogithub.com/periodical/volume/71/"/>
+        <updated>2022-07-26T01:05:48.436Z</updated>
+        <summary type="html"><![CDATA[C 项目
+
+
+        
+        1.
+        h2o
+        28920
+        
+            
+            
+        
+        
+Star 10.1k
+                 Watch 389
+                 Fork 805
+                
+            
+        
+
+        
+        
+
+
+        
+        2.
+        chibicc
+        21821
+        
+            
+            
+        
+        
+Star 5.7k
+                 Watch 147
+                 Fork 524
+                
+            
+        
+第一个提交开始学习
+
+        
+        
+C# 项目
+
+
+        
+        3.
+        CliWrap
+        25090
+        
+            
+            
+        
+        
+Star 2.0k
+                 Watch 39
+                 Fork 157
+                
+            
+        
+using CliWrap;
+
+var result = await Cli.Wrap("path/to/exe")
+    .WithArguments("--foo bar")
+    .WithWorkingDirectory("work/d…]]></summary>
+        <author>
+            <name>HelloGitHub - Article</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第74期]]></title>
+        <id>https://hellogithub.com/periodical/volume/74/</id>
+        <link href="https://hellogithub.com/periodical/volume/74/"/>
+        <updated>2022-07-26T01:05:48.240Z</updated>
+        <summary type="html"><![CDATA[C 项目
+
+
+        
+        1.
+        FreeRDP
+        43476
+        
+            
+            
+        
+        
+Star 7.1k
+                 Watch 373
+                 Fork 17.6k
+                
+            
+        
+下载地址
+
+        
+            
+
+        
+        
+
+
+        
+        2.
+        ServerStatus
+        42522
+        
+            
+            
+        
+        
+Star 2.2k
+                 Watch 42
+                 Fork 732
+                
+                    中文
+                
+            
+        
+
+        
+        
+
+
+        
+        3.
+        sioyek
+        44818
+        
+            
+            
+        
+        
+Star 3.4k
+                 Watch 24
+                 Fork 101
+                
+            
+        
+
+        
+        
+
+
+        
+        4.
+        open-gpu-kernel…]]></summary>
+        <author>
+            <name>HelloGitHub - Article</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第73期]]></title>
+        <id>https://hellogithub.com/periodical/volume/73/</id>
+        <link href="https://hellogithub.com/periodical/volume/73/"/>
+        <updated>2022-07-26T01:05:48.214Z</updated>
+        <summary type="html"><![CDATA[C 项目
+
+
+        
+        1.
+        warpd
+        36906
+        
+            
+            
+        
+        
+Star 994
+                 Watch 10
+                 Fork 37
+                
+            
+        
+
+        
+        
+
+
+        
+        2.
+        uthash
+        35883
+        
+            
+            
+        
+        
+Star 3.1k
+                 Watch 131
+                 Fork 769
+                
+            
+        
+#include "uthash.h"
+
+struct my_struct {
+    int id;            /* we'll use this field as the key */
+    char name[10];
+    UT_hash_handle hh; /* makes this structure hashable */
+};
+
+struct my_struct *users = NULL;
+
+void add_user(struct my_struct *s) {
+    HASH_ADD_INT( users, id, s );
+}
+
+
+    
+        
+            
+
+        
+        3.
+        lvgl
+        4457
+   …]]></summary>
+        <author>
+            <name>HelloGitHub - Article</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第70期]]></title>
+        <id>https://hellogithub.com/periodical/volume/70/</id>
+        <link href="https://hellogithub.com/periodical/volume/70/"/>
+        <updated>2022-07-26T01:05:47.987Z</updated>
+        <summary type="html"><![CDATA[C 项目
+
+
+        
+        1.
+        daytripper
+        7540
+        
+            
+            
+        
+        
+Star 3.4k
+                 Watch 67
+                 Fork 163
+                
+            
+        
+
+        
+        
+
+
+        
+        2.
+        tinyssh
+        26903
+        
+            
+            
+        
+        
+Star 851
+                 Watch 39
+                 Fork 61
+                
+            
+        
+C# 项目
+
+
+        
+        3.
+        LiveCharts2
+        1896
+        
+            
+            
+        
+        
+Star 1.8k
+                 Watch 54
+                 Fork 260
+                
+            
+        
+
+        
+        
+
+
+        
+        4.
+        PowerRemoteDesktop
+        28493
+        
+            
+            
+        
+        
+Star 1.7k
+    …]]></summary>
+        <author>
+            <name>HelloGitHub - Article</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[第69期]]></title>
         <id>https://hellogithub.com/periodical/volume/69/</id>
         <link href="https://hellogithub.com/periodical/volume/69/"/>
-        <updated>2022-07-25T01:02:17.518Z</updated>
+        <updated>2022-07-26T01:05:47.976Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
@@ -974,99 +1141,61 @@ C# 项目
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[第71期]]></title>
-        <id>https://hellogithub.com/periodical/volume/71/</id>
-        <link href="https://hellogithub.com/periodical/volume/71/"/>
-        <updated>2022-07-25T01:02:17.357Z</updated>
-        <summary type="html"><![CDATA[C 项目
-
-
-        
-        1.
-        h2o
-        28920
-        
-            
-            
-        
-        
-Star 10.1k
-                 Watch 389
-                 Fork 805
-                
-            
-        
-
-        
-        
-
-
-        
-        2.
-        chibicc
-        21821
-        
-            
-            
-        
-        
-Star 5.7k
-                 Watch 148
-                 Fork 523
-                
-            
-        
-第一个提交开始学习
-
-        
-        
-C# 项目
-
-
-        
-        3.
-        CliWrap
-        25090
-        
-            
-            
-        
-        
-Star 2.0k
-                 Watch 39
-                 Fork 157
-                
-            
-        
-using CliWrap;
-
-var result = await Cli.Wrap("path/to/exe")
-    .WithArguments("--foo bar")
-    .WithWorkingDirectory("work/d…]]></summary>
+        <title type="html"><![CDATA[Justin62628 / Squirrel-RIFE]]></title>
+        <id>https://github.com/Justin62628/Squirrel-RIFE</id>
+        <link href="https://github.com/Justin62628/Squirrel-RIFE"/>
+        <updated>2022-07-26T01:05:47.724Z</updated>
+        <summary type="html"><![CDATA[Language: Python 
+Stars: 1,428 
+Forks: 101]]></summary>
         <author>
-            <name>HelloGitHub - Article</name>
+            <name>Justin62628</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[第70期]]></title>
-        <id>https://hellogithub.com/periodical/volume/70/</id>
-        <link href="https://hellogithub.com/periodical/volume/70/"/>
-        <updated>2022-07-25T01:02:17.272Z</updated>
+        <title type="html"><![CDATA[yihong0618 / Kindle_download_helper]]></title>
+        <id>https://github.com/yihong0618/Kindle_download_helper</id>
+        <link href="https://github.com/yihong0618/Kindle_download_helper"/>
+        <updated>2022-07-26T01:05:47.702Z</updated>
+        <summary type="html"><![CDATA[Language: Python 
+Stars: 1,060 
+Forks: 104]]></summary>
+        <author>
+            <name>yihong0618</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wbt5 / real-url]]></title>
+        <id>https://github.com/wbt5/real-url</id>
+        <link href="https://github.com/wbt5/real-url"/>
+        <updated>2022-07-26T01:05:47.666Z</updated>
+        <summary type="html"><![CDATA[Language: Python 
+Stars: 4,924 
+Forks: 1,183]]></summary>
+        <author>
+            <name>wbt5</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第68期]]></title>
+        <id>https://hellogithub.com/periodical/volume/68/</id>
+        <link href="https://hellogithub.com/periodical/volume/68/"/>
+        <updated>2022-07-26T01:05:47.621Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
         
         1.
-        daytripper
-        7540
+        WindTerm
+        8016
         
             
             
         
         
-Star 3.4k
-                 Watch 67
-                 Fork 163
+Star 5.9k
+                 Watch 77
+                 Fork 427
                 
             
         
@@ -1077,53 +1206,38 @@ Star 3.4k
 
         
         2.
-        tinyssh
-        26903
-        
-            
-            
-        
-        
-Star 851
-                 Watch 39
-                 Fork 61
-                
-            
-        
-C# 项目
-
-
-        
-        3.
-        LiveCharts2
-        1896
-        
-            
-            
-        
-        
-Star 1.8k
-                 Watch 54
-                 Fork 260
-                
-            
-        
-
-        
-        
-
-
-        
-        4.
-        PowerRemoteDesktop
-        28493
+        toybox
+        15406
         
             
             
         
         
 Star 1.7k
-    …]]></summary>
+                 Watch 79
+                 Fork 260
+                
+            
+        
+
+
+        
+        3.
+        the_silver_searcher
+        8517
+        
+            
+            
+        
+        
+Star 23.9k
+                 Watch 428
+                 Fork 1.4k
+                
+            
+        
+ack test_blah ~/code(8G)/  104.66s user 4.82s system 99% cpu 1:50.03 total
+ag test_blah ~/code(8G)/  4.67s user 4.58s system 286% cpu 3.227 total…]]></summary>
         <author>
             <name>HelloGitHub - Article</name>
         </author>
@@ -1132,7 +1246,7 @@ Star 1.7k
         <title type="html"><![CDATA[第67期]]></title>
         <id>https://hellogithub.com/periodical/volume/67/</id>
         <link href="https://hellogithub.com/periodical/volume/67/"/>
-        <updated>2022-07-25T01:02:17.111Z</updated>
+        <updated>2022-07-26T01:05:47.612Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
@@ -1167,7 +1281,7 @@ Star 2.9k
         
 Star 14.5k
                  Watch 124
-                 Fork 602
+                 Fork 603
                 
             
         
@@ -1213,120 +1327,22 @@ St…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[第66期]]></title>
-        <id>https://hellogithub.com/periodical/volume/66/</id>
-        <link href="https://hellogithub.com/periodical/volume/66/"/>
-        <updated>2022-07-25T01:02:17.054Z</updated>
-        <summary type="html"><![CDATA[C 项目
-
-
-        
-        1.
-        HEX-LINK
-        2156
-        
-            
-            
-        
-        
-Star 224
-                 Watch 6
-                 Fork 27
-                
-                    中文
-                
-            
-        
-.
-├─firmware # 软件（根据自己使用的工具选择如下一种工程即可）
-│  ├─ArduinoIDE_Proj # Arduino IDE版工程 
-│  │  ├─Additional_Libraries # 里面的文件夹需要复制到Arduino IDE安装目录下的libraries文件夹
-│  │  ├─Hex_Link_Leonardo # 需要下载至接收端的程序
-│  │  └─Hex_Link_Nano # 需要下载至发送端的程序
-│  ├─Bootloaders # 需要下载至芯片的arduino bootloader 
-│  └─Vscode_PlatformIO_Proj # VScode PlatformIO版工程 
-│      ├─Hex_Link_Leonardo # 需要下载至接收端的程序
-│      └─Hex_Link_Nano # 需要下载至发送端的程序
-├─hardware # 硬件（PCB工程）
-│  ├─BOM   # PCB的物料清单，包含参考的购买链接（链接仅作参考，在其他任何店铺购买相同型号即可）
-│  ├─Hex_Link_Rec # 接收端PCB工程
-│  ├─Hex_Link_Trans # 发送端PCB工程
-│  └─Nano_…]]></summary>
+        <title type="html"><![CDATA[CMHopeSunshine / LittlePaimon]]></title>
+        <id>https://github.com/CMHopeSunshine/LittlePaimon</id>
+        <link href="https://github.com/CMHopeSunshine/LittlePaimon"/>
+        <updated>2022-07-26T01:05:47.571Z</updated>
+        <summary type="html"><![CDATA[Language: Python 
+Stars: 459 
+Forks: 53]]></summary>
         <author>
-            <name>HelloGitHub - Article</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第68期]]></title>
-        <id>https://hellogithub.com/periodical/volume/68/</id>
-        <link href="https://hellogithub.com/periodical/volume/68/"/>
-        <updated>2022-07-25T01:02:16.893Z</updated>
-        <summary type="html"><![CDATA[C 项目
-
-
-        
-        1.
-        WindTerm
-        8016
-        
-            
-            
-        
-        
-Star 5.9k
-                 Watch 78
-                 Fork 423
-                
-            
-        
-
-        
-        
-
-
-        
-        2.
-        toybox
-        15406
-        
-            
-            
-        
-        
-Star 1.7k
-                 Watch 80
-                 Fork 260
-                
-            
-        
-
-
-        
-        3.
-        the_silver_searcher
-        8517
-        
-            
-            
-        
-        
-Star 23.9k
-                 Watch 428
-                 Fork 1.4k
-                
-            
-        
-ack test_blah ~/code(8G)/  104.66s user 4.82s system 99% cpu 1:50.03 total
-ag test_blah ~/code(8G)/  4.67s user 4.58s system 286% cpu 3.227 total…]]></summary>
-        <author>
-            <name>HelloGitHub - Article</name>
+            <name>CMHopeSunshine</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[第65期]]></title>
         <id>https://hellogithub.com/periodical/volume/65/</id>
         <link href="https://hellogithub.com/periodical/volume/65/"/>
-        <updated>2022-07-25T01:02:16.857Z</updated>
+        <updated>2022-07-26T01:05:47.525Z</updated>
         <summary type="html"><![CDATA[C 项目
 
 
@@ -1385,7 +1401,7 @@ C++ 项目
         
 Star 15.8k
                  Watch 230
-                 Fork 849
+                 Fork 850
                 
             
         
@@ -1405,445 +1421,513 @@ Star 15.8k
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[0voice / interview_internal_reference]]></title>
-        <id>https://github.com/0voice/interview_internal_reference</id>
-        <link href="https://github.com/0voice/interview_internal_reference"/>
-        <updated>2022-07-25T01:02:16.615Z</updated>
+        <title type="html"><![CDATA[apachecn / ailearning]]></title>
+        <id>https://github.com/apachecn/ailearning</id>
+        <link href="https://github.com/apachecn/ailearning"/>
+        <updated>2022-07-26T01:05:47.502Z</updated>
         <summary type="html"><![CDATA[Language: Python 
-Stars: 33,926 
-Forks: 9,151]]></summary>
+Stars: 33,684 
+Forks: 10,917]]></summary>
         <author>
-            <name>0voice</name>
+            <name>apachecn</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fighting41love / funNLP]]></title>
-        <id>https://github.com/fighting41love/funNLP</id>
-        <link href="https://github.com/fighting41love/funNLP"/>
-        <updated>2022-07-25T01:02:16.390Z</updated>
-        <summary type="html"><![CDATA[Language: Python 
-Stars: 41,899 
-Forks: 11,543]]></summary>
+        <title type="html"><![CDATA[第66期]]></title>
+        <id>https://hellogithub.com/periodical/volume/66/</id>
+        <link href="https://hellogithub.com/periodical/volume/66/"/>
+        <updated>2022-07-26T01:05:47.456Z</updated>
+        <summary type="html"><![CDATA[C 项目
+
+
+        
+        1.
+        HEX-LINK
+        2156
+        
+            
+            
+        
+        
+Star 225
+                 Watch 6
+                 Fork 27
+                
+                    中文
+                
+            
+        
+.
+├─firmware # 软件（根据自己使用的工具选择如下一种工程即可）
+│  ├─ArduinoIDE_Proj # Arduino IDE版工程 
+│  │  ├─Additional_Libraries # 里面的文件夹需要复制到Arduino IDE安装目录下的libraries文件夹
+│  │  ├─Hex_Link_Leonardo # 需要下载至接收端的程序
+│  │  └─Hex_Link_Nano # 需要下载至发送端的程序
+│  ├─Bootloaders # 需要下载至芯片的arduino bootloader 
+│  └─Vscode_PlatformIO_Proj # VScode PlatformIO版工程 
+│      ├─Hex_Link_Leonardo # 需要下载至接收端的程序
+│      └─Hex_Link_Nano # 需要下载至发送端的程序
+├─hardware # 硬件（PCB工程）
+│  ├─BOM   # PCB的物料清单，包含参考的购买链接（链接仅作参考，在其他任何店铺购买相同型号即可）
+│  ├─Hex_Link_Rec # 接收端PCB工程
+│  ├─Hex_Link_Trans # 发送端PCB工程
+│  └─Nano_…]]></summary>
         <author>
-            <name>fighting41love</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wangzheng0822 / algo]]></title>
-        <id>https://github.com/wangzheng0822/algo</id>
-        <link href="https://github.com/wangzheng0822/algo"/>
-        <updated>2022-07-25T01:02:16.299Z</updated>
-        <summary type="html"><![CDATA[Language: Python 
-Stars: 21,072 
-Forks: 6,772]]></summary>
-        <author>
-            <name>wangzheng0822</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[649453932 / Chinese-Text-Classification-Pytorch]]></title>
-        <id>https://github.com/649453932/Chinese-Text-Classification-Pytorch</id>
-        <link href="https://github.com/649453932/Chinese-Text-Classification-Pytorch"/>
-        <updated>2022-07-25T01:02:16.257Z</updated>
-        <summary type="html"><![CDATA[Language: Python 
-Stars: 3,715 
-Forks: 1,017]]></summary>
-        <author>
-            <name>649453932</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[alanbobs999 / TopFreeProxies]]></title>
-        <id>https://github.com/alanbobs999/TopFreeProxies</id>
-        <link href="https://github.com/alanbobs999/TopFreeProxies"/>
-        <updated>2022-07-25T01:02:16.237Z</updated>
-        <summary type="html"><![CDATA[Language: Python 
-Stars: 1,726 
-Forks: 388]]></summary>
-        <author>
-            <name>alanbobs999</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wistbean / learn_python3_spider]]></title>
-        <id>https://github.com/wistbean/learn_python3_spider</id>
-        <link href="https://github.com/wistbean/learn_python3_spider"/>
-        <updated>2022-07-25T01:02:16.181Z</updated>
-        <summary type="html"><![CDATA[Language: Python 
-Stars: 10,252 
-Forks: 2,738]]></summary>
-        <author>
-            <name>wistbean</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenEthan / SMSBoom]]></title>
-        <id>https://github.com/OpenEthan/SMSBoom</id>
-        <link href="https://github.com/OpenEthan/SMSBoom"/>
-        <updated>2022-07-25T01:02:16.143Z</updated>
-        <summary type="html"><![CDATA[Language: Python 
-Stars: 5,648 
-Forks: 1,501]]></summary>
-        <author>
-            <name>OpenEthan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Momo707577045 / m3u8-downloader]]></title>
-        <id>https://github.com/Momo707577045/m3u8-downloader</id>
-        <link href="https://github.com/Momo707577045/m3u8-downloader"/>
-        <updated>2022-07-25T01:02:16.072Z</updated>
-        <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 2,225 
-Forks: 617]]></summary>
-        <author>
-            <name>Momo707577045</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jxxghp / nas-tools]]></title>
-        <id>https://github.com/jxxghp/nas-tools</id>
-        <link href="https://github.com/jxxghp/nas-tools"/>
-        <updated>2022-07-25T01:02:16.049Z</updated>
-        <summary type="html"><![CDATA[Language: Python 
-Stars: 1,678 
-Forks: 267]]></summary>
-        <author>
-            <name>jxxghp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NateScarlet / auto-derby]]></title>
-        <id>https://github.com/NateScarlet/auto-derby</id>
-        <link href="https://github.com/NateScarlet/auto-derby"/>
-        <updated>2022-07-25T01:02:16.003Z</updated>
-        <summary type="html"><![CDATA[Language: Python 
-Stars: 331 
-Forks: 86]]></summary>
-        <author>
-            <name>NateScarlet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[itcharge / LeetCode-Py]]></title>
-        <id>https://github.com/itcharge/LeetCode-Py</id>
-        <link href="https://github.com/itcharge/LeetCode-Py"/>
-        <updated>2022-07-25T01:02:15.963Z</updated>
-        <summary type="html"><![CDATA[Language: Python 
-Stars: 1,586 
-Forks: 324]]></summary>
-        <author>
-            <name>itcharge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ipcjs / bilibili-helper]]></title>
-        <id>https://github.com/ipcjs/bilibili-helper</id>
-        <link href="https://github.com/ipcjs/bilibili-helper"/>
-        <updated>2022-07-25T01:02:15.918Z</updated>
-        <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 3,056 
-Forks: 300]]></summary>
-        <author>
-            <name>ipcjs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kenshin / simpread]]></title>
-        <id>https://github.com/Kenshin/simpread</id>
-        <link href="https://github.com/Kenshin/simpread"/>
-        <updated>2022-07-25T01:02:15.876Z</updated>
-        <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 6,095 
-Forks: 465]]></summary>
-        <author>
-            <name>Kenshin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[521xueweihan / GitHub520]]></title>
-        <id>https://github.com/521xueweihan/GitHub520</id>
-        <link href="https://github.com/521xueweihan/GitHub520"/>
-        <updated>2022-07-25T01:02:15.834Z</updated>
-        <summary type="html"><![CDATA[Language: Python 
-Stars: 12,353 
-Forks: 1,413]]></summary>
-        <author>
-            <name>521xueweihan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aimuch / iAI]]></title>
-        <id>https://github.com/aimuch/iAI</id>
-        <link href="https://github.com/aimuch/iAI"/>
-        <updated>2022-07-25T01:02:15.800Z</updated>
-        <summary type="html"><![CDATA[Language: Python 
-Stars: 357 
-Forks: 50]]></summary>
-        <author>
-            <name>aimuch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[l0o0 / translators_CN]]></title>
-        <id>https://github.com/l0o0/translators_CN</id>
-        <link href="https://github.com/l0o0/translators_CN"/>
-        <updated>2022-07-25T01:02:15.756Z</updated>
-        <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 2,010 
-Forks: 367]]></summary>
-        <author>
-            <name>l0o0</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ascoders / weekly]]></title>
-        <id>https://github.com/ascoders/weekly</id>
-        <link href="https://github.com/ascoders/weekly"/>
-        <updated>2022-07-25T01:02:15.723Z</updated>
-        <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 20,048 
-Forks: 2,390]]></summary>
-        <author>
-            <name>ascoders</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[h2y / Shadowrocket-ADBlock-Rules]]></title>
-        <id>https://github.com/h2y/Shadowrocket-ADBlock-Rules</id>
-        <link href="https://github.com/h2y/Shadowrocket-ADBlock-Rules"/>
-        <updated>2022-07-25T01:02:15.692Z</updated>
-        <summary type="html"><![CDATA[Language: Python 
-Stars: 13,537 
-Forks: 2,242]]></summary>
-        <author>
-            <name>h2y</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[anzhihe / learning]]></title>
-        <id>https://github.com/anzhihe/learning</id>
-        <link href="https://github.com/anzhihe/learning"/>
-        <updated>2022-07-25T01:02:15.627Z</updated>
-        <summary type="html"><![CDATA[Language: Python 
-Stars: 686 
-Forks: 323]]></summary>
-        <author>
-            <name>anzhihe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binaryify / NeteaseCloudMusicApi]]></title>
-        <id>https://github.com/Binaryify/NeteaseCloudMusicApi</id>
-        <link href="https://github.com/Binaryify/NeteaseCloudMusicApi"/>
-        <updated>2022-07-25T01:02:15.602Z</updated>
-        <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 24,966 
-Forks: 9,559]]></summary>
-        <author>
-            <name>Binaryify</name>
+            <name>HelloGitHub - Article</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[jackfrued / Python-100-Days]]></title>
         <id>https://github.com/jackfrued/Python-100-Days</id>
         <link href="https://github.com/jackfrued/Python-100-Days"/>
-        <updated>2022-07-25T01:02:15.518Z</updated>
+        <updated>2022-07-26T01:05:47.444Z</updated>
         <summary type="html"><![CDATA[Language: Python 
-Stars: 120,929 
-Forks: 46,021]]></summary>
+Stars: 120,952 
+Forks: 46,025]]></summary>
         <author>
             <name>jackfrued</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HibiKier / zhenxun_bot]]></title>
+        <id>https://github.com/HibiKier/zhenxun_bot</id>
+        <link href="https://github.com/HibiKier/zhenxun_bot"/>
+        <updated>2022-07-26T01:05:47.392Z</updated>
+        <summary type="html"><![CDATA[Language: Python 
+Stars: 2,119 
+Forks: 515]]></summary>
+        <author>
+            <name>HibiKier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7eu7d7 / genshin_auto_fish]]></title>
+        <id>https://github.com/7eu7d7/genshin_auto_fish</id>
+        <link href="https://github.com/7eu7d7/genshin_auto_fish"/>
+        <updated>2022-07-26T01:05:47.321Z</updated>
+        <summary type="html"><![CDATA[Language: Python 
+Stars: 3,948 
+Forks: 665]]></summary>
+        <author>
+            <name>7eu7d7</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XiaoMiku01 / fansMedalHelper]]></title>
+        <id>https://github.com/XiaoMiku01/fansMedalHelper</id>
+        <link href="https://github.com/XiaoMiku01/fansMedalHelper"/>
+        <updated>2022-07-26T01:05:47.272Z</updated>
+        <summary type="html"><![CDATA[Language: Python 
+Stars: 456 
+Forks: 96]]></summary>
+        <author>
+            <name>XiaoMiku01</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[isnowfy / snownlp]]></title>
+        <id>https://github.com/isnowfy/snownlp</id>
+        <link href="https://github.com/isnowfy/snownlp"/>
+        <updated>2022-07-26T01:05:47.233Z</updated>
+        <summary type="html"><![CDATA[Language: Python 
+Stars: 5,876 
+Forks: 1,344]]></summary>
+        <author>
+            <name>isnowfy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dataabc / weiboSpider]]></title>
+        <id>https://github.com/dataabc/weiboSpider</id>
+        <link href="https://github.com/dataabc/weiboSpider"/>
+        <updated>2022-07-26T01:05:47.210Z</updated>
+        <summary type="html"><![CDATA[Language: Python 
+Stars: 5,888 
+Forks: 1,626]]></summary>
+        <author>
+            <name>dataabc</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[nonebot / nonebot2]]></title>
         <id>https://github.com/nonebot/nonebot2</id>
         <link href="https://github.com/nonebot/nonebot2"/>
-        <updated>2022-07-25T01:02:15.451Z</updated>
+        <updated>2022-07-26T01:05:47.164Z</updated>
         <summary type="html"><![CDATA[Language: Python 
-Stars: 2,192 
-Forks: 266]]></summary>
+Stars: 2,198 
+Forks: 268]]></summary>
         <author>
             <name>nonebot</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[vnpy / vnpy]]></title>
-        <id>https://github.com/vnpy/vnpy</id>
-        <link href="https://github.com/vnpy/vnpy"/>
-        <updated>2022-07-25T01:02:15.393Z</updated>
+        <title type="html"><![CDATA[yoshiko2 / Movie_Data_Capture]]></title>
+        <id>https://github.com/yoshiko2/Movie_Data_Capture</id>
+        <link href="https://github.com/yoshiko2/Movie_Data_Capture"/>
+        <updated>2022-07-26T01:05:47.116Z</updated>
         <summary type="html"><![CDATA[Language: Python 
-Stars: 18,853 
-Forks: 7,376]]></summary>
+Stars: 4,657 
+Forks: 992]]></summary>
         <author>
-            <name>vnpy</name>
+            <name>yoshiko2</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nerver4Ever / SevenSha1UIAdvancedHelper]]></title>
-        <id>https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper</id>
-        <link href="https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper"/>
-        <updated>2022-07-25T01:02:15.342Z</updated>
-        <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 482 
-Forks: 145]]></summary>
-        <author>
-            <name>Nerver4Ever</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BoyceLig / Clash_Chinese_Patch]]></title>
-        <id>https://github.com/BoyceLig/Clash_Chinese_Patch</id>
-        <link href="https://github.com/BoyceLig/Clash_Chinese_Patch"/>
-        <updated>2022-07-25T01:02:15.308Z</updated>
-        <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 7,714 
-Forks: 804]]></summary>
-        <author>
-            <name>BoyceLig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tonquer / picacg-qt]]></title>
-        <id>https://github.com/tonquer/picacg-qt</id>
-        <link href="https://github.com/tonquer/picacg-qt"/>
-        <updated>2022-07-25T01:02:15.274Z</updated>
+        <title type="html"><![CDATA[PantsuDango / Dango-Translator]]></title>
+        <id>https://github.com/PantsuDango/Dango-Translator</id>
+        <link href="https://github.com/PantsuDango/Dango-Translator"/>
+        <updated>2022-07-26T01:05:47.074Z</updated>
         <summary type="html"><![CDATA[Language: Python 
-Stars: 1,453 
-Forks: 107]]></summary>
+Stars: 4,084 
+Forks: 402]]></summary>
+        <author>
+            <name>PantsuDango</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tonquer / JMComic-qt]]></title>
+        <id>https://github.com/tonquer/JMComic-qt</id>
+        <link href="https://github.com/tonquer/JMComic-qt"/>
+        <updated>2022-07-26T01:05:47.031Z</updated>
+        <summary type="html"><![CDATA[Language: Python 
+Stars: 238 
+Forks: 15]]></summary>
         <author>
             <name>tonquer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[liangliangyy / DjangoBlog]]></title>
-        <id>https://github.com/liangliangyy/DjangoBlog</id>
-        <link href="https://github.com/liangliangyy/DjangoBlog"/>
-        <updated>2022-07-25T01:02:15.235Z</updated>
+        <title type="html"><![CDATA[Ice-Cirno / HoshinoBot]]></title>
+        <id>https://github.com/Ice-Cirno/HoshinoBot</id>
+        <link href="https://github.com/Ice-Cirno/HoshinoBot"/>
+        <updated>2022-07-26T01:05:46.997Z</updated>
         <summary type="html"><![CDATA[Language: Python 
-Stars: 4,707 
-Forks: 2,209]]></summary>
+Stars: 1,100 
+Forks: 388]]></summary>
         <author>
-            <name>liangliangyy</name>
+            <name>Ice-Cirno</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Johnserf-Seed / TikTokDownload]]></title>
+        <id>https://github.com/Johnserf-Seed/TikTokDownload</id>
+        <link href="https://github.com/Johnserf-Seed/TikTokDownload"/>
+        <updated>2022-07-26T01:05:46.958Z</updated>
+        <summary type="html"><![CDATA[Language: Python 
+Stars: 1,188 
+Forks: 330]]></summary>
+        <author>
+            <name>Johnserf-Seed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[biancangming / wtv]]></title>
+        <id>https://github.com/biancangming/wtv</id>
+        <link href="https://github.com/biancangming/wtv"/>
+        <updated>2022-07-26T01:05:46.915Z</updated>
+        <summary type="html"><![CDATA[Language: Python 
+Stars: 6,247 
+Forks: 1,012]]></summary>
+        <author>
+            <name>biancangming</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MingchaoZhu / DeepLearning]]></title>
+        <id>https://github.com/MingchaoZhu/DeepLearning</id>
+        <link href="https://github.com/MingchaoZhu/DeepLearning"/>
+        <updated>2022-07-26T01:05:46.892Z</updated>
+        <summary type="html"><![CDATA[Language: Python 
+Stars: 4,634 
+Forks: 1,092]]></summary>
+        <author>
+            <name>MingchaoZhu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[conwnet / wpa-dictionary]]></title>
+        <id>https://github.com/conwnet/wpa-dictionary</id>
+        <link href="https://github.com/conwnet/wpa-dictionary"/>
+        <updated>2022-07-26T01:05:46.840Z</updated>
+        <summary type="html"><![CDATA[Language: Python 
+Stars: 1,219 
+Forks: 426]]></summary>
+        <author>
+            <name>conwnet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[taojy123 / KeymouseGo]]></title>
+        <id>https://github.com/taojy123/KeymouseGo</id>
+        <link href="https://github.com/taojy123/KeymouseGo"/>
+        <updated>2022-07-26T01:05:46.813Z</updated>
+        <summary type="html"><![CDATA[Language: Python 
+Stars: 2,355 
+Forks: 442]]></summary>
+        <author>
+            <name>taojy123</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EstrellaXD / Auto_Bangumi]]></title>
+        <id>https://github.com/EstrellaXD/Auto_Bangumi</id>
+        <link href="https://github.com/EstrellaXD/Auto_Bangumi"/>
+        <updated>2022-07-26T01:05:46.749Z</updated>
+        <summary type="html"><![CDATA[Language: Python 
+Stars: 1,130 
+Forks: 49]]></summary>
+        <author>
+            <name>EstrellaXD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sipeed / MaixPy_scripts]]></title>
+        <id>https://github.com/sipeed/MaixPy_scripts</id>
+        <link href="https://github.com/sipeed/MaixPy_scripts"/>
+        <updated>2022-07-26T01:05:46.706Z</updated>
+        <summary type="html"><![CDATA[Language: Python 
+Stars: 493 
+Forks: 380]]></summary>
+        <author>
+            <name>sipeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vonng / ddia]]></title>
+        <id>https://github.com/Vonng/ddia</id>
+        <link href="https://github.com/Vonng/ddia"/>
+        <updated>2022-07-26T01:05:46.664Z</updated>
+        <summary type="html"><![CDATA[Language: Python 
+Stars: 15,092 
+Forks: 3,298]]></summary>
+        <author>
+            <name>Vonng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XX-net / XX-Net]]></title>
+        <id>https://github.com/XX-net/XX-Net</id>
+        <link href="https://github.com/XX-net/XX-Net"/>
+        <updated>2022-07-26T01:05:46.573Z</updated>
+        <summary type="html"><![CDATA[Language: Python 
+Stars: 31,307 
+Forks: 7,786]]></summary>
+        <author>
+            <name>XX-net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KingRan / KR]]></title>
+        <id>https://github.com/KingRan/KR</id>
+        <link href="https://github.com/KingRan/KR"/>
+        <updated>2022-07-26T01:05:46.098Z</updated>
+        <summary type="html"><![CDATA[Language: JavaScript 
+Stars: 982 
+Forks: 763]]></summary>
+        <author>
+            <name>KingRan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Momo707577045 / m3u8-downloader]]></title>
+        <id>https://github.com/Momo707577045/m3u8-downloader</id>
+        <link href="https://github.com/Momo707577045/m3u8-downloader"/>
+        <updated>2022-07-26T01:05:46.032Z</updated>
+        <summary type="html"><![CDATA[Language: JavaScript 
+Stars: 2,226 
+Forks: 619]]></summary>
+        <author>
+            <name>Momo707577045</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kenshin / simpread]]></title>
+        <id>https://github.com/Kenshin/simpread</id>
+        <link href="https://github.com/Kenshin/simpread"/>
+        <updated>2022-07-26T01:05:45.995Z</updated>
+        <summary type="html"><![CDATA[Language: JavaScript 
+Stars: 6,101 
+Forks: 465]]></summary>
+        <author>
+            <name>Kenshin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nondanee / UnblockNeteaseMusic]]></title>
+        <id>https://github.com/nondanee/UnblockNeteaseMusic</id>
+        <link href="https://github.com/nondanee/UnblockNeteaseMusic"/>
+        <updated>2022-07-26T01:05:45.948Z</updated>
+        <summary type="html"><![CDATA[Language: JavaScript 
+Stars: 16,238 
+Forks: 2,491]]></summary>
+        <author>
+            <name>nondanee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binaryify / NeteaseCloudMusicApi]]></title>
+        <id>https://github.com/Binaryify/NeteaseCloudMusicApi</id>
+        <link href="https://github.com/Binaryify/NeteaseCloudMusicApi"/>
+        <updated>2022-07-26T01:05:45.907Z</updated>
+        <summary type="html"><![CDATA[Language: JavaScript 
+Stars: 24,974 
+Forks: 9,568]]></summary>
+        <author>
+            <name>Binaryify</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[azl397985856 / leetcode]]></title>
+        <id>https://github.com/azl397985856/leetcode</id>
+        <link href="https://github.com/azl397985856/leetcode"/>
+        <updated>2022-07-26T01:05:45.856Z</updated>
+        <summary type="html"><![CDATA[Language: JavaScript 
+Stars: 48,786 
+Forks: 9,099]]></summary>
+        <author>
+            <name>azl397985856</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[scutan90 / DeepLearning-500-questions]]></title>
         <id>https://github.com/scutan90/DeepLearning-500-questions</id>
         <link href="https://github.com/scutan90/DeepLearning-500-questions"/>
-        <updated>2022-07-25T01:02:15.191Z</updated>
+        <updated>2022-07-26T01:05:45.787Z</updated>
         <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 48,547 
-Forks: 15,180]]></summary>
+Stars: 48,552 
+Forks: 15,183]]></summary>
         <author>
             <name>scutan90</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ender-zhao / Clash-for-Windows_Chinese]]></title>
-        <id>https://github.com/ender-zhao/Clash-for-Windows_Chinese</id>
-        <link href="https://github.com/ender-zhao/Clash-for-Windows_Chinese"/>
-        <updated>2022-07-25T01:02:15.143Z</updated>
+        <title type="html"><![CDATA[ascoders / weekly]]></title>
+        <id>https://github.com/ascoders/weekly</id>
+        <link href="https://github.com/ascoders/weekly"/>
+        <updated>2022-07-26T01:05:45.740Z</updated>
         <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 3,079 
-Forks: 327]]></summary>
+Stars: 20,097 
+Forks: 2,398]]></summary>
         <author>
-            <name>ender-zhao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wenmoux / checkbox]]></title>
-        <id>https://github.com/Wenmoux/checkbox</id>
-        <link href="https://github.com/Wenmoux/checkbox"/>
-        <updated>2022-07-25T01:02:15.124Z</updated>
-        <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 1,345 
-Forks: 515]]></summary>
-        <author>
-            <name>Wenmoux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ddgksf2013 / Cuttlefish]]></title>
-        <id>https://github.com/ddgksf2013/Cuttlefish</id>
-        <link href="https://github.com/ddgksf2013/Cuttlefish"/>
-        <updated>2022-07-25T01:02:15.090Z</updated>
-        <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 786 
-Forks: 81]]></summary>
-        <author>
-            <name>ddgksf2013</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LmeSzinc / AzurLaneAutoScript]]></title>
-        <id>https://github.com/LmeSzinc/AzurLaneAutoScript</id>
-        <link href="https://github.com/LmeSzinc/AzurLaneAutoScript"/>
-        <updated>2022-07-25T01:02:15.047Z</updated>
-        <summary type="html"><![CDATA[Language: Python 
-Stars: 1,815 
-Forks: 284]]></summary>
-        <author>
-            <name>LmeSzinc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WZMIAOMIAO / deep-learning-for-image-processing]]></title>
-        <id>https://github.com/WZMIAOMIAO/deep-learning-for-image-processing</id>
-        <link href="https://github.com/WZMIAOMIAO/deep-learning-for-image-processing"/>
-        <updated>2022-07-25T01:02:15.006Z</updated>
-        <summary type="html"><![CDATA[Language: Python 
-Stars: 10,254 
-Forks: 4,850]]></summary>
-        <author>
-            <name>WZMIAOMIAO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CollegesChat / university-information]]></title>
-        <id>https://github.com/CollegesChat/university-information</id>
-        <link href="https://github.com/CollegesChat/university-information"/>
-        <updated>2022-07-25T01:02:14.975Z</updated>
-        <summary type="html"><![CDATA[Language: Python 
-Stars: 1,191 
-Forks: 58]]></summary>
-        <author>
-            <name>CollegesChat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vaxilu / x-ui]]></title>
-        <id>https://github.com/vaxilu/x-ui</id>
-        <link href="https://github.com/vaxilu/x-ui"/>
-        <updated>2022-07-25T01:02:14.940Z</updated>
-        <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 5,353 
-Forks: 2,591]]></summary>
-        <author>
-            <name>vaxilu</name>
+            <name>ascoders</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nthily / KFC-Crazy-Thursday]]></title>
         <id>https://github.com/Nthily/KFC-Crazy-Thursday</id>
         <link href="https://github.com/Nthily/KFC-Crazy-Thursday"/>
-        <updated>2022-07-25T01:02:14.895Z</updated>
+        <updated>2022-07-26T01:05:45.692Z</updated>
         <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 107 
-Forks: 7]]></summary>
+Stars: 128 
+Forks: 8]]></summary>
         <author>
             <name>Nthily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ronggang / PT-Plugin-Plus]]></title>
+        <id>https://github.com/ronggang/PT-Plugin-Plus</id>
+        <link href="https://github.com/ronggang/PT-Plugin-Plus"/>
+        <updated>2022-07-26T01:05:45.661Z</updated>
+        <summary type="html"><![CDATA[Language: JavaScript 
+Stars: 3,594 
+Forks: 541]]></summary>
+        <author>
+            <name>ronggang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java-S12138 / frank]]></title>
+        <id>https://github.com/Java-S12138/frank</id>
+        <link href="https://github.com/Java-S12138/frank"/>
+        <updated>2022-07-26T01:05:45.627Z</updated>
+        <summary type="html"><![CDATA[Language: JavaScript 
+Stars: 1,127 
+Forks: 211]]></summary>
+        <author>
+            <name>Java-S12138</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nerver4Ever / SevenSha1UIAdvancedHelper]]></title>
+        <id>https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper</id>
+        <link href="https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper"/>
+        <updated>2022-07-26T01:05:45.577Z</updated>
+        <summary type="html"><![CDATA[Language: JavaScript 
+Stars: 490 
+Forks: 149]]></summary>
+        <author>
+            <name>Nerver4Ever</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ipcjs / bilibili-helper]]></title>
+        <id>https://github.com/ipcjs/bilibili-helper</id>
+        <link href="https://github.com/ipcjs/bilibili-helper"/>
+        <updated>2022-07-26T01:05:45.555Z</updated>
+        <summary type="html"><![CDATA[Language: JavaScript 
+Stars: 3,058 
+Forks: 300]]></summary>
+        <author>
+            <name>ipcjs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[l0o0 / translators_CN]]></title>
+        <id>https://github.com/l0o0/translators_CN</id>
+        <link href="https://github.com/l0o0/translators_CN"/>
+        <updated>2022-07-26T01:05:45.513Z</updated>
+        <summary type="html"><![CDATA[Language: JavaScript 
+Stars: 2,011 
+Forks: 366]]></summary>
+        <author>
+            <name>l0o0</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vaxilu / x-ui]]></title>
+        <id>https://github.com/vaxilu/x-ui</id>
+        <link href="https://github.com/vaxilu/x-ui"/>
+        <updated>2022-07-26T01:05:45.465Z</updated>
+        <summary type="html"><![CDATA[Language: JavaScript 
+Stars: 5,360 
+Forks: 2,594]]></summary>
+        <author>
+            <name>vaxilu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wenmoux / checkbox]]></title>
+        <id>https://github.com/Wenmoux/checkbox</id>
+        <link href="https://github.com/Wenmoux/checkbox"/>
+        <updated>2022-07-26T01:05:45.417Z</updated>
+        <summary type="html"><![CDATA[Language: JavaScript 
+Stars: 1,347 
+Forks: 515]]></summary>
+        <author>
+            <name>Wenmoux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Le-niao / Yunzai-Bot]]></title>
+        <id>https://github.com/Le-niao/Yunzai-Bot</id>
+        <link href="https://github.com/Le-niao/Yunzai-Bot"/>
+        <updated>2022-07-26T01:05:45.381Z</updated>
+        <summary type="html"><![CDATA[Language: JavaScript 
+Stars: 1,323 
+Forks: 232]]></summary>
+        <author>
+            <name>Le-niao</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[lyswhut / lx-music-desktop]]></title>
         <id>https://github.com/lyswhut/lx-music-desktop</id>
         <link href="https://github.com/lyswhut/lx-music-desktop"/>
-        <updated>2022-07-25T01:02:14.859Z</updated>
+        <updated>2022-07-26T01:05:45.357Z</updated>
         <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 19,526 
-Forks: 3,510]]></summary>
+Stars: 19,549 
+Forks: 3,514]]></summary>
         <author>
             <name>lyswhut</name>
         </author>
@@ -1852,156 +1936,127 @@ Forks: 3,510]]></summary>
         <title type="html"><![CDATA[vernesong / OpenClash]]></title>
         <id>https://github.com/vernesong/OpenClash</id>
         <link href="https://github.com/vernesong/OpenClash"/>
-        <updated>2022-07-25T01:02:14.812Z</updated>
+        <updated>2022-07-26T01:05:45.295Z</updated>
         <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 6,549 
-Forks: 1,275]]></summary>
+Stars: 6,552 
+Forks: 1,273]]></summary>
         <author>
             <name>vernesong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[azl397985856 / leetcode]]></title>
-        <id>https://github.com/azl397985856/leetcode</id>
-        <link href="https://github.com/azl397985856/leetcode"/>
-        <updated>2022-07-25T01:02:14.783Z</updated>
-        <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 48,774 
-Forks: 9,098]]></summary>
-        <author>
-            <name>azl397985856</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ermaozi / get_subscribe]]></title>
-        <id>https://github.com/ermaozi/get_subscribe</id>
-        <link href="https://github.com/ermaozi/get_subscribe"/>
-        <updated>2022-07-25T01:02:14.713Z</updated>
-        <summary type="html"><![CDATA[Language: Python 
-Stars: 2,327 
-Forks: 318]]></summary>
-        <author>
-            <name>ermaozi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KingRan / KR]]></title>
-        <id>https://github.com/KingRan/KR</id>
-        <link href="https://github.com/KingRan/KR"/>
-        <updated>2022-07-25T01:02:14.687Z</updated>
-        <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 978 
-Forks: 760]]></summary>
-        <author>
-            <name>KingRan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eryajf / HowToStartOpenSource]]></title>
-        <id>https://github.com/eryajf/HowToStartOpenSource</id>
-        <link href="https://github.com/eryajf/HowToStartOpenSource"/>
-        <updated>2022-07-25T01:02:14.547Z</updated>
-        <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 542 
-Forks: 30]]></summary>
-        <author>
-            <name>eryajf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java-S12138 / frank]]></title>
-        <id>https://github.com/Java-S12138/frank</id>
-        <link href="https://github.com/Java-S12138/frank"/>
-        <updated>2022-07-25T01:02:14.521Z</updated>
-        <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 1,099 
-Forks: 205]]></summary>
-        <author>
-            <name>Java-S12138</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nondanee / UnblockNeteaseMusic]]></title>
-        <id>https://github.com/nondanee/UnblockNeteaseMusic</id>
-        <link href="https://github.com/nondanee/UnblockNeteaseMusic"/>
-        <updated>2022-07-25T01:02:14.473Z</updated>
-        <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 16,231 
-Forks: 2,488]]></summary>
-        <author>
-            <name>nondanee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[arcxingye / EatKano]]></title>
-        <id>https://github.com/arcxingye/EatKano</id>
-        <link href="https://github.com/arcxingye/EatKano"/>
-        <updated>2022-07-25T01:02:14.425Z</updated>
-        <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 1,260 
-Forks: 2,259]]></summary>
-        <author>
-            <name>arcxingye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le-niao / Yunzai-Bot]]></title>
-        <id>https://github.com/Le-niao/Yunzai-Bot</id>
-        <link href="https://github.com/Le-niao/Yunzai-Bot"/>
-        <updated>2022-07-25T01:02:14.371Z</updated>
-        <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 1,310 
-Forks: 231]]></summary>
-        <author>
-            <name>Le-niao</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[yoimiya-kokomi / miao-plugin]]></title>
         <id>https://github.com/yoimiya-kokomi/miao-plugin</id>
         <link href="https://github.com/yoimiya-kokomi/miao-plugin"/>
-        <updated>2022-07-25T01:02:14.343Z</updated>
+        <updated>2022-07-26T01:05:45.241Z</updated>
         <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 343 
-Forks: 61]]></summary>
+Stars: 347 
+Forks: 62]]></summary>
         <author>
             <name>yoimiya-kokomi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jrohy / multi-v2ray]]></title>
-        <id>https://github.com/Jrohy/multi-v2ray</id>
-        <link href="https://github.com/Jrohy/multi-v2ray"/>
-        <updated>2022-07-25T01:02:14.291Z</updated>
-        <summary type="html"><![CDATA[Language: Python 
-Stars: 5,849 
-Forks: 2,333]]></summary>
-        <author>
-            <name>Jrohy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ronggang / PT-Plugin-Plus]]></title>
-        <id>https://github.com/ronggang/PT-Plugin-Plus</id>
-        <link href="https://github.com/ronggang/PT-Plugin-Plus"/>
-        <updated>2022-07-25T01:02:14.240Z</updated>
+        <title type="html"><![CDATA[ender-zhao / Clash-for-Windows_Chinese]]></title>
+        <id>https://github.com/ender-zhao/Clash-for-Windows_Chinese</id>
+        <link href="https://github.com/ender-zhao/Clash-for-Windows_Chinese"/>
+        <updated>2022-07-26T01:05:45.179Z</updated>
         <summary type="html"><![CDATA[Language: JavaScript 
-Stars: 3,594 
-Forks: 539]]></summary>
+Stars: 3,092 
+Forks: 328]]></summary>
         <author>
-            <name>ronggang</name>
+            <name>ender-zhao</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[sipeed / MaixPy_scripts]]></title>
-        <id>https://github.com/sipeed/MaixPy_scripts</id>
-        <link href="https://github.com/sipeed/MaixPy_scripts"/>
-        <updated>2022-07-25T01:02:14.128Z</updated>
-        <summary type="html"><![CDATA[Language: Python 
-Stars: 492 
-Forks: 380]]></summary>
+        <title type="html"><![CDATA[eryajf / HowToStartOpenSource]]></title>
+        <id>https://github.com/eryajf/HowToStartOpenSource</id>
+        <link href="https://github.com/eryajf/HowToStartOpenSource"/>
+        <updated>2022-07-26T01:05:45.126Z</updated>
+        <summary type="html"><![CDATA[Language: JavaScript 
+Stars: 584 
+Forks: 30]]></summary>
         <author>
-            <name>sipeed</name>
+            <name>eryajf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BoyceLig / Clash_Chinese_Patch]]></title>
+        <id>https://github.com/BoyceLig/Clash_Chinese_Patch</id>
+        <link href="https://github.com/BoyceLig/Clash_Chinese_Patch"/>
+        <updated>2022-07-26T01:05:45.087Z</updated>
+        <summary type="html"><![CDATA[Language: JavaScript 
+Stars: 7,733 
+Forks: 805]]></summary>
+        <author>
+            <name>BoyceLig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ddgksf2013 / Cuttlefish]]></title>
+        <id>https://github.com/ddgksf2013/Cuttlefish</id>
+        <link href="https://github.com/ddgksf2013/Cuttlefish"/>
+        <updated>2022-07-26T01:05:45.023Z</updated>
+        <summary type="html"><![CDATA[Language: JavaScript 
+Stars: 794 
+Forks: 84]]></summary>
+        <author>
+            <name>ddgksf2013</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[arcxingye / EatKano]]></title>
+        <id>https://github.com/arcxingye/EatKano</id>
+        <link href="https://github.com/arcxingye/EatKano"/>
+        <updated>2022-07-26T01:05:44.930Z</updated>
+        <summary type="html"><![CDATA[Language: JavaScript 
+Stars: 1,265 
+Forks: 2,285]]></summary>
+        <author>
+            <name>arcxingye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[造！又有新的生产力语言了「GitHub 热点速览 v.22.30」]]></title>
+        <id>https://hellogithub.com/article/947e5f970b124aa394e777212b5dc3b8/?url=/periodical/volume/&amp;page=1</id>
+        <link href="https://hellogithub.com/article/947e5f970b124aa394e777212b5dc3b8/?url=/periodical/volume/&amp;page=1"/>
+        <updated>2022-07-25T00:53:26.000Z</updated>
+        <summary type="html"><![CDATA[造！又有新的生产力语言了「GitHub 热点速览 v.22.30」
+
+你还记得那些 PHP 开发都去哪了吗？转 Golang 了！移动端现在流行什么？Flutter 编程。现在谷歌带着新的生产力语言来了，Carbon，代号：C++ 继承者。不知道多年之后 C++ 的从业者会不会和现在 PHP 工程师一样呢？了解下新语言总是没坏处的。顺便，记得看一眼本周特推中的 Golang 生产力工具 lensm 让你方便查看代码。
+以下内容摘录自微博@HelloGitHub 的 GitHub Trending 及 Hacker News 热帖（简称 HN 热帖），选项标准：新发布 | 实用 | 有趣，根据项目 release 时间分类，发布时间不超过 14 day 的项目会标注 New，无该标志则说明项目 release 超过半月。由于本文篇幅有限，还有部分项目未能在本文展示，望周知 🌝
+本文目录
+
+
+News 快读
+
+社区动态·GitHub 年度盛会即将开幕
+
+
+
+本周特推
+1.1 C++ 继承者：carbon-lang
+1.2 Golang 生产力工具：lensm
+
+
+GitHub Trending 周榜
+2.1 漏洞扫描：scan4all
+2.2 构建桌面应用：wails
+2.3 IDEA 娱乐化：xechat-idea
+2.4 安全评估：prowler
+2.5 macOS 清理工具：lemon-cleaner
+
+
+往期回顾
+
+
+0. News 快读
+1. 社区动态·GitHub 年度盛会即将开幕
+GitHub Universe 是面向开发者举办的 GitHub 年度大会，2022 年的主题是 Beyond Code，有 4 大方向：
+上云：Moving software to the cloud
+AI：The adoption of AI across the developm…]]></summary>
+        <author>
+            <name>HelloGitHub - Article</name>
         </author>
     </entry>
     <entry>
